@@ -1,14 +1,14 @@
 ﻿,brand,name,price,rating,rating_count,product_type,skin_type,properties,SPF
 0,Bielenda Professional SUPREMELAB,Satin Protective Face Cream SPF 50 Satynowy krem ochronny SPF 50,70.09,4,74,krem,"normalna, sucha, z przebarwieniami","nawilżające, ochronne, regenerujące",50
-1,Cosrx,Aloe Soothing Sun Cream SPF50+ PA+++ Nawilżający krem przeciwsłoneczny,59.99,4.4,128,krem,"normalna, wrażliwa","nawilżające, ochronne, łagodzące",50
+1,Cosrx,Aloe Soothing Sun Cream SPF50+ PA+++ Nawilżający krem przeciwsłoneczny,59.99,4.4,129,krem,"normalna, wrażliwa","nawilżające, ochronne, łagodzące",50
 2,Nacomi,"Next Lvl, Golden Rays, Basic Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",25.13,3.4,79,krem,normalna,"ochronne, nawilżające",50
 3,SKIN79,Waterproof Sun Gel SPF50+ PA+++ Wodoodporny żel spf 50,67.0,4.5,306,żel,z przebarwieniami,"nawilżające, ochronne, przeciwzmarszczkowe",50
 4,Garnier,"Ambre Solaire, Sensitive Advanced Face UV Cream SPF 50+ Krem ochronny do twarzy",,4.6,64,krem,"normalna, sucha","nawilżające, ochronne",50
-5,Nacomi,"Next Lvl, Golden Rays, City Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",22.99,2.8,125,krem,normalna,"ochronne, nawilżające",50
+5,Nacomi,"Next Lvl, Golden Rays, City Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",26.5,2.8,125,krem,normalna,"ochronne, nawilżające",50
 6,Nivea,"Sun, Alpin Face Sunscreen SPF 50 Ochronny krem na zimę",73.99,4.8,162,krem,"normalna, sucha","nawilżające, ochronne",50
 7,CeraVe,Facial Moisturising Lotion Nawilżający Krem do Twarzy SPF 50,60.55,4.6,218,krem,,"ochronne, nawilżające",50
 8,Nivea,Cellular Luminous 630 przeciw przebarwieniom Krem ​​na dzień SPF 50,67.04,4.6,208,krem,"normalna, wrażliwa, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące",50
-9,Vichy,"Capital Soleil, Fluid UV Age SPF 50 Fluid przeciw fotostarzeniu się skóry",110.88,4.7,109,krem,"normalna, sucha, tłusta, alergiczna, wrażliwa, z przebarwieniami","ochronne, regenerujące, przeciwzmarszczkowe",50
+9,Vichy,"Capital Soleil, Fluid UV Age SPF 50 Fluid przeciw fotostarzeniu się skóry",110.79,4.7,109,krem,"normalna, sucha, tłusta, alergiczna, wrażliwa, z przebarwieniami","ochronne, regenerujące, przeciwzmarszczkowe",50
 10,Holika Holika,Aloe Soothing Essence New Formula SPF 50+/PA ++++ Waterproof Sun Cream Wodoodporny krem przeciwsłoneczny do twarzy SPF50 PA++++ (nowa wersja),,4.5,399,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
 11,Revox,Just Daily Sun Shield SPF 50 Krem przeciwsłoneczny do twarzy SPF 50,,4.3,259,krem,normalna,"ochronne, nawilżające",50
 12,myBuddy,Krem do twarzy z filtrem SPF 50 UVA+UVB ,39.9,4.7,74,krem,normalna,"ochronne, nawilżające",50
@@ -17,22 +17,22 @@
 15,Derma,"Sun, Balsam słoneczny SPF 50 ",69.9,4.8,105,krem,"normalna, wrażliwa, sucha, alergiczna, atopowa","ochronne, nawilżające",50
 16,Lirene Dermoprogram,Nawilżający ochronny krem do twarzy IR COMPLEX SPF 50 ,26.99,4.3,153,krem,"normalna, wrażliwa, sucha, alergiczna",ochronne,50
 17,Eau Thermale Avène,Comfort Cream SPF 50+ Krem przeciwsłoneczny SPF 50+ bardzo wysoka ochrona,,4.7,109,krem,"normalna, wrażliwa",ochronne,50
-18,Bielenda Professional,"Face Program, Protective face Cream Boswellia Serrata SPF 50 Krem ochronny do twarzy wysoka ochrona UVA i UVB",58.99,4.2,49,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne",50
+18,Bielenda Professional,"Face Program, Protective face Cream Boswellia Serrata SPF 50 Krem ochronny do twarzy wysoka ochrona UVA i UVB",55.99,4.2,49,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne",50
 19,Vichy,"Ideal Soleil, Emulsion Anti-brillance Toucher Sec SPF 50 [Mattifying Face Fluid Dry Touch] Matująca emulsja do twarzy SPF 50",57.99,4.2,78,krem,"wrażliwa, tłusta, alergiczna, z przebarwieniami","nawilżające, matujące, ochronne",50
 20,Dermomedica,Antioxidant Mineral Cream SPF 30 Przeciwstarzeniowy mineralny krem SPF 30,79.0,4.3,9,krem,"normalna, trądzikowa, z przebarwieniami",ochronne,30
 21,Nivea,"Sun, Protect & Refresh Invisible Cooling Mist SPF 20 Niewidzialna chłodząca mgiełka do opalania SPF 20",,4.8,4,krem,,ochronne,20
 22,Alexander McQueen,Daily Sun Cream SPF50+ PA+++ 50g (Natural make-up base) Krem UV - naturalna baza pod makijaż SPF50+ PA+++,,4.2,5,krem,normalna,"ochronne, przeciwzmarszczkowe",50
 23,Shiseido,Anessa Perfect UV Sunscreen SPF 50+ PA+++ ,,4.3,13,krem,,"ochronne, nawilżające, matujące",50
 24,Bielenda Professional SUPREMELAB,Satin Protective Face Cream SPF 50 Satynowy krem ochronny SPF 50,70.09,4,74,krem,"normalna, sucha, z przebarwieniami","nawilżające, ochronne, regenerujące",50
-25,Cosrx,Aloe Soothing Sun Cream SPF50+ PA+++ Nawilżający krem przeciwsłoneczny,59.99,4.4,128,krem,"normalna, wrażliwa","nawilżające, ochronne, łagodzące",50
+25,Cosrx,Aloe Soothing Sun Cream SPF50+ PA+++ Nawilżający krem przeciwsłoneczny,59.99,4.4,129,krem,"normalna, wrażliwa","nawilżające, ochronne, łagodzące",50
 26,Nacomi,"Next Lvl, Golden Rays, Basic Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",25.13,3.4,79,krem,normalna,"ochronne, nawilżające",50
 27,SKIN79,Waterproof Sun Gel SPF50+ PA+++ Wodoodporny żel spf 50,67.0,4.5,306,żel,z przebarwieniami,"nawilżające, ochronne, przeciwzmarszczkowe",50
 28,Garnier,"Ambre Solaire, Sensitive Advanced Face UV Cream SPF 50+ Krem ochronny do twarzy",,4.6,64,krem,"normalna, sucha","nawilżające, ochronne",50
-29,Nacomi,"Next Lvl, Golden Rays, City Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",22.99,2.8,125,krem,normalna,"ochronne, nawilżające",50
+29,Nacomi,"Next Lvl, Golden Rays, City Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",26.5,2.8,125,krem,normalna,"ochronne, nawilżające",50
 30,Nivea,"Sun, Alpin Face Sunscreen SPF 50 Ochronny krem na zimę",73.99,4.8,162,krem,"normalna, sucha","nawilżające, ochronne",50
 31,CeraVe,Facial Moisturising Lotion Nawilżający Krem do Twarzy SPF 50,60.55,4.6,218,krem,,"ochronne, nawilżające",50
 32,Nivea,Cellular Luminous 630 przeciw przebarwieniom Krem ​​na dzień SPF 50,67.04,4.6,208,krem,"normalna, wrażliwa, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące",50
-33,Vichy,"Capital Soleil, Fluid UV Age SPF 50 Fluid przeciw fotostarzeniu się skóry",110.88,4.7,109,krem,"normalna, sucha, tłusta, alergiczna, wrażliwa, z przebarwieniami","ochronne, regenerujące, przeciwzmarszczkowe",50
+33,Vichy,"Capital Soleil, Fluid UV Age SPF 50 Fluid przeciw fotostarzeniu się skóry",110.79,4.7,109,krem,"normalna, sucha, tłusta, alergiczna, wrażliwa, z przebarwieniami","ochronne, regenerujące, przeciwzmarszczkowe",50
 34,Holika Holika,Aloe Soothing Essence New Formula SPF 50+/PA ++++ Waterproof Sun Cream Wodoodporny krem przeciwsłoneczny do twarzy SPF50 PA++++ (nowa wersja),,4.5,399,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
 35,Revox,Just Daily Sun Shield SPF 50 Krem przeciwsłoneczny do twarzy SPF 50,,4.3,259,krem,normalna,"ochronne, nawilżające",50
 36,myBuddy,Krem do twarzy z filtrem SPF 50 UVA+UVB ,39.9,4.7,74,krem,normalna,"ochronne, nawilżające",50
@@ -41,7 +41,7 @@
 39,Derma,"Sun, Balsam słoneczny SPF 50 ",69.9,4.8,105,krem,"normalna, wrażliwa, sucha, alergiczna, atopowa","ochronne, nawilżające",50
 40,Lirene Dermoprogram,Nawilżający ochronny krem do twarzy IR COMPLEX SPF 50 ,26.99,4.3,153,krem,"normalna, wrażliwa, sucha, alergiczna",ochronne,50
 41,Eau Thermale Avène,Comfort Cream SPF 50+ Krem przeciwsłoneczny SPF 50+ bardzo wysoka ochrona,,4.7,109,krem,"normalna, wrażliwa",ochronne,50
-42,Bielenda Professional,"Face Program, Protective face Cream Boswellia Serrata SPF 50 Krem ochronny do twarzy wysoka ochrona UVA i UVB",58.99,4.2,49,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne",50
+42,Bielenda Professional,"Face Program, Protective face Cream Boswellia Serrata SPF 50 Krem ochronny do twarzy wysoka ochrona UVA i UVB",55.99,4.2,49,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne",50
 43,Vichy,"Ideal Soleil, Emulsion Anti-brillance Toucher Sec SPF 50 [Mattifying Face Fluid Dry Touch] Matująca emulsja do twarzy SPF 50",57.99,4.2,78,krem,"wrażliwa, tłusta, alergiczna, z przebarwieniami","nawilżające, matujące, ochronne",50
 44,Dermomedica,Antioxidant Mineral Cream SPF 30 Przeciwstarzeniowy mineralny krem SPF 30,79.0,4.3,9,krem,"normalna, trądzikowa, z przebarwieniami",ochronne,30
 45,Nivea,"Sun, Protect & Refresh Invisible Cooling Mist SPF 20 Niewidzialna chłodząca mgiełka do opalania SPF 20",,4.8,4,krem,,ochronne,20
@@ -55,7 +55,7 @@
 53,La Mer,The SPF 50 UV Protecting Fluid Fluid do twarzy SPF 50,,5,1,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, odżywcze",50
 54,Bioregena,Baume Solaire Visage SPF 50+ Przeciwsłoneczny krem-balsam do twarzy,,4,6,krem,"normalna, wrażliwa, sucha, alergiczna",ochronne,50
 55,Derma,"Sun, Face Screen SPF 30 Krem słoneczny do twarzy SPF 30",51.45,4.4,11,,"normalna, wrażliwa, alergiczna, atopowa","nawilżające, ochronne, odżywcze",30
-56,Bioderma,Photoderm AKN Mat Krem do skóry z tendencją do przebarwień SPF 30+ ,69.99,4.3,61,krem,"normalna, wrażliwa, tłusta","nawilżające, matujące, ochronne",30
+56,Bioderma,Photoderm AKN Mat Krem do skóry z tendencją do przebarwień SPF 30+ ,69.97,4.3,61,krem,"normalna, wrażliwa, tłusta","nawilżające, matujące, ochronne",30
 57,Kolastyna,Matujący krem ochronny do twarzy na słońce  SPF 30 ,,4.8,6,krem,"normalna, tłusta","matujące, nawilżające",30
 58,Eucerin,Sun Fluid Photoaging Control SPF 50 Ochronna emulsja przeciwzmarszczkowa SPF 50,90.49,4.8,6,krem,"wrażliwa, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
 59,The Saem,Jeju Fresh Sun Gel SPF50+ Krem-żel przeciwsłoneczny SPF50+,39.99,4.5,46,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",50
@@ -95,7 +95,7 @@
 93,Mimitika,Face Sunscreen SPF 50 Krem do twarzy z SPF 50,,5,1,krem,normalna,"ochronne, nawilżające",50
 94,Sofina Jenne,Day Protector SPF 50+ PA+++ Nawilżający krem ochronny do twarzy,,5,1,krem,,"nawilżające, ochronne, regenerujące",50
 95,SVR,"Sun Secure, Ecran Mineral Teinte SPF 50 Barwiący krem ochronny do skóry suchej i bardzo suchej",83.99,5,1,krem,"normalna, alergiczna, wrażliwa",ochronne,50
-96,Ziaja,"Med, Matujący krem do twarzy SPF 50+ (stara wersja) ",26.85,3.6,130,krem,"tłusta, trądzikowa, z przebarwieniami",matujące,50
+96,Ziaja,"Med, Matujący krem do twarzy SPF 50+ (stara wersja) ",27.14,3.6,130,krem,"tłusta, trądzikowa, z przebarwieniami",matujące,50
 97,Isntree,Hyaluronic Acid Watery Sun Gel SPF50+/PA++++ Lekki krem ochronny do twarzy,89.0,4.7,6,,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące, przeciwzmarszczkowe",50
 98,Garnier,"Ambre Solaire, UV Water  Transparent Protecting Spray SPF 30 Spray ochronny o lekkiej formule",,4.5,4,płyn,normalna,"nawilżające, ochronne",30
 99,Cosrx,All Green Comfort Sun SPF 50+/PA+++ Krem przeciwsłoneczny,,5,2,krem,normalna,"ochronne, nawilżające",50
@@ -204,7 +204,7 @@
 202,Cantabria Labs,Heliocare Ultra Cream SPF 90 Krem przeciwsłoneczny,,5,1,krem,normalna,nawilżające,90
 203,Bielenda,"Bikini, Ochronny krem do twarzy wodoodporny i chloroodporny SPF 50 `Soft Touch` ",,4.3,36,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące",50
 204,Eucerin,"Sun, Oil Control Sun Gel Cream SPF 50+ Dry Touch Kremowy żel ochronny do twarzy SPF 50+",,4.8,23,krem,"normalna, tłusta, trądzikowa, z przebarwieniami",ochronne,50
-205,Bielenda Professional,"Post Treatment Care, High Protection Face Cream SPF 50 PA ++ Krem do twarzy SPF 50",53.04,4.3,7,krem,"normalna, wrażliwa",ochronne,50
+205,Bielenda Professional,"Post Treatment Care, High Protection Face Cream SPF 50 PA ++ Krem do twarzy SPF 50",52.19,4.3,7,krem,"normalna, wrażliwa",ochronne,50
 206,Garnier,"Sensitive Expert+ , Gesicht Super UV Fluid LSF 50+ [Ambre Solaire, Sensitive Advanced Face UV Face Fluid SPF50+] Ultralekki płynny filtr SPF50",40.5,4.7,55,krem,normalna,"ochronne, nawilżające",50
 207,Cetaphil,"Suntivity, Lekki krem do twarzy SPF 30 ",,5,4,krem,normalna,"nawilżające, ochronne",30
 208,Etude,Soonjung Director's Moisture Sun Cream SPF50+ PA++++ Nawilżający krem z filtrem przeciwsłonecznym,,5,2,krem,normalna,"ochronne, nawilżające",50
@@ -239,3 +239,1044 @@
 237,Shiseido,Expert Sun Aging Protection Cream Plus for Face SPF 50+ Krem ochronny do twarzy,164.99,4.7,3,krem,"normalna, z przebarwieniami",ochronne,50
 238,Matis Paris,Reponse Soleil Anti-Age Creme Protection Solaire SPF 30 Krem do opalania do twarzy,,5,1,krem,normalna,"ochronne, nawilżające",30
 239,Dax Sun,Balsam do opalania SPF 20 ,34.9,5,3,krem,"normalna, sucha, tłusta","nawilżające, ochronne",20
+240,Lirene Dermoprogram,Emulsja nawilżająca na podrażnienia SPF 30 (stara wersja) ,,4.7,10,krem,"normalna, wrażliwa, sucha","ochronne, łagodzące",30
+241,Innisfree,"Eco Safety, Daily Sunblock SPF35 PA++ Krem do opalania z filtrem SPF35 PA++",,5,1,krem,,ochronne,35
+242,Laboratorium Kosmetyczne AVA,"Skin Protection, Extra Moisturizing Cream Total Sun Protecion SPF 25 Krem extra nawilżający `Pełna ochrona przeciwsłoneczna`",29.0,4.6,7,krem,normalna,"nawilżające, ochronne",25
+243,A-Derma,"Protect, Invisible Fluid SPF 50+ Fluid nawilżająco-ochronny",,5,1,krem,normalna,ochronne,50
+244,Cliv Premium,Max Hyaluronic SPF50 PA++++ Krem przeciwsłoneczny z kwasem hialuronowym do twarzy SPF50,,4.8,15,krem,"normalna, sucha","nawilżające, ochronne, przeciwzmarszczkowe",50
+245,Missha,"All-around Safe Block, Soft Finish Sun Milk SPF 50+/ PA+++ Mleczko przeciwsłoneczne SPF 50+/ PA++",80.99,4.5,10,krem,"normalna, sucha","nawilżające, ochronne, łagodzące",50
+246,Vichy,"Capital Soleil, Fluid UV-Age Daily Teinte SPF 50+ Koloryzujący fluid przeciw fotostarzeniu się skóry",105.24,5,2,,"normalna, wrażliwa, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",50
+247,Zenova Suncare,Sun Cream SPF 30 Krem do opalania twarzy,,5,1,krem,normalna,,30
+248,Lancaster,Sun Perfect Illuminating Cream SPF 50 Przeciwzmarszczkowy krem na dzień SPF 50,,5,2,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, przeciwzmarszczkowe",50
+249,Kosmed,"Karotka, Żel do opalania SPF 6 - bardzo niska ochrona ",,4.5,2,żel,"normalna, sucha, tłusta","nawilżające, ochronne",6
+250,SVR,Sun Secure Blur Mousse Cream SPF 50 Krem w piance optycznie ujednolicający koloryt skóry,,4.1,93,pianka,"normalna, wrażliwa, tłusta, alergiczna","matujące, ochronne",50
+251,Suntique,I'm Sports Aqua Sungel SPF50+/PA++++ Żel przeciwsłoneczny,,5,1,żel,normalna,"ochronne, nawilżające",50
+252,Purito Seoul,Daily Soft Touch Sunscreen SPF50+/PA++++ Krem z filtrem z ceramidami,37.95,5,7,krem,normalna,ochronne,50
+253,BasicLab Dermocosmetics,Lekka emulsja ochronna SPF50+ `Prewencja i antyoksydacja` ,69.99,3.1,58,krem,tłusta,"ochronne, nawilżające",50
+254,Lancome,"Genifique Soleil, Sun Protection for Face Krem do opalania twarzy SPF 30 - wysoka ochrona",,5,1,krem,normalna,ochronne,30
+255,Nuxe,"Sun, Lait Délicieux Visage et Corps Mleczko do opalania twarzy i ciała SPF30 (wysoka ochrona)",,5,1,krem,,"ochronne, łagodzące, nawilżające",30
+256,La Roche-Posay,"Anthelios, UVmune 400 Invisible Fluid SPF50+ Niewidoczny fluid do twarzy z filtrem",84.06,4.7,333,krem,normalna,ochronne,50
+257,Australian Gold,Botanical Sunscreen Tinted Face Mineral Premium Coverage Lotion SPF 50 Mineralny krem przeciwsłoneczny do twarzy,148.99,4,10,krem,normalna,ochronne,50
+258,Alkmie,Sun Drops SPF 30 Ochrona przeciwsłoneczna i multiaktywne serum,149.0,4,1,,normalna,ochronne,30
+259,Floslek,"Winter Care, Krem zimowy przeciwsłoneczny SPF 50+ ",,4.2,10,krem,"wrażliwa, sucha","nawilżające, ochronne, regenerujące",50
+260,Missha,Sun Milk Essence SPF 50+ PA+++ Mleczna esencja SPF 50+ PA+++,,4,1,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",50
+261,Purito Seoul,Daily Go-To Sunscreen  SPF 50+ Krem z filtrem do twarzy,67.45,4.2,5,,"normalna, alergiczna, wrażliwa","nawilżające, ochronne",50
+262,Bioderma,Photoderm Mineral Fluide SPF 50+ Fluid mineralny do skóry wrażliwej i alergicznej,82.99,3.8,21,krem,"normalna, wrażliwa, sucha, atopowa, alergiczna","nawilżające, ochronne, łagodzące, regenerujące",50
+263,Make Me Bio,SPF 30 Ultra Light Cream Ultralekki krem do twarzy SPF 30,,3.6,10,krem,normalna,ochronne,30
+264,Ziaja,"Sopot Sun, Emulsja do opalania wodoodporna SPF 50 ",37.99,3.7,27,krem,"alergiczna, wrażliwa","nawilżające, ochronne, regenerujące",50
+265,Innovate Skincare,"Is clinical, Extreme Protect SPF 30 Krem ochronny SPF 30",,4,1,krem,normalna,"nawilżające, ochronne",30
+266,Peter Thomas Roth,Max Matte Shine Control Sunscreen Broad Spectrum SPF 45 Krem z filtrem,,4,1,krem,normalna,ochronne,45
+267,Sun Balance,Dwufunkcyjny krem ochronny do twarzy SPF 15 i SPF 50 ,,4,1,krem,normalna,"nawilżające, ochronne",15
+268,Yasumi,Sun Cream High Protection SPF 30 Krem ochronny z filtrem 30 do twarzy,,4,1,krem,"wrażliwa, naczynkowa","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",30
+269,Paula's Choice,Skin Balancing Ultra-Sheer Daily Defense SPF 30 Krem ochronny do skóry tłustej i mieszanej,,4,2,krem,"tłusta, z przebarwieniami",ochronne,30
+270,Benton,Papaya-S Sun Cream SPF50+ PA++++ Krem ochronny,,3.3,4,krem,normalna,"ochronne, nawilżające",50
+271,Lirene Dermoprogram,Wodoodporna emulsja ochronna  SPF 50+ dla skóry wrażliwej (stara wersja) ,56.99,3.9,50,krem,"normalna, wrażliwa","nawilżające, ochronne",50
+272,Biore,UV Aqua Rich Watery Essence SPF50+ PA++++ Krem-esencja na bazie wody,,3.7,11,żel,"normalna, sucha, tłusta","nawilżające, matujące, ochronne",50
+273,Vichy,"Ideal Soleil, Ultra Leger & Frais [Ultra Light & Fresh] SPF 50 Ultralekki krem opalający do ciała i twarzy",,4,1,krem,"alergiczna, wrażliwa","ochronne, nawilżające",50
+274,Iwostin,"Solecrin, Krem ochronny dla skóry wrażliwej i alergicznej SPF 50+ (nowa wersja) ",52.99,4,45,krem,"wrażliwa, sucha, alergiczna","nawilżające, ochronne, łagodzące",50
+275,Pharmaceris,"A, Medic Protection, Krem SPF 100+ do twarzy i ciała specjalna ochrona ",69.99,3.9,19,krem,"normalna, wrażliwa, sucha, alergiczna","ochronne, nawilżające",100
+276,Lirene Dermoprogram,Ochronna emulsja do twarzy z aloesem SPF 50 ,,3.9,99,krem,normalna,"ochronne, nawilżające",50
+277,Bioderma,Photoderm Aquafluide SPF 50+ Ultralekki fluid do skóry normalnej,,3.3,4,,normalna,"ochronne, nawilżające",50
+278,Macrovita,Nawilżający krem do twarzy z filtrem do opalania SPF 30 z bio-składnikami ,,4,1,krem,,"nawilżające, ochronne",30
+279,Bjobj,"Sole, Crema Solare Protezione Alta SPF 30 Krem do opalania",,4,1,krem,"normalna, sucha, tłusta",ochronne,30
+280,Kolastyna,Ochronny krem do twarzy z kwasem hialuronowym SPF 30 ,20.58,3.7,14,krem,"normalna, wrażliwa, sucha, z przebarwieniami","nawilżające, ochronne",30
+281,Nivelazione,"Skin Therapy Sun, Barierowy krem ochronny do twarzy SPF 50 + ",,3.8,5,krem,"normalna, z przebarwieniami","nawilżające, ochronne, łagodzące, regenerujące",50
+282,Purito Seoul,Comfy Water Sun Block SPF 50+ PA ++++ Lekki nawilżający krem z filtrem przeciwsłonecznym,,3.9,8,krem,"normalna, tłusta","nawilżające, ochronne",50
+283,Isdin Isdinceutics,"Fotoultra, Age Repair Triple Action Anti-Photoaging Cream SPF 50 Krem przeciwsłoneczny o potrójnym działaniu SPF50",,4.4,8,krem,normalna,"nawilżające, ochronne, regenerujące",50
+284,Caudalie,Creme Solaire Visage Anti-Rides SPF 50 [Anti-wrinkle Face Suncare] Krem przeciwsłoneczny i przeciwzmarszczkowy do twarzy SPF 50,,3.5,4,krem,"normalna, sucha","ochronne, przeciwzmarszczkowe, nawilżające",50
+285,Isdin Isdinceutics,"Fotoprotector, Fusion Water 5 Daily Protection Cream SPF 50 Ultralekki krem do twarzy SPF50",,3.9,16,krem,normalna,"ochronne, nawilżające",50
+286,Soraya,Balsam do opalania wodoodporny SPF 20 ,,3.4,25,balsam,,"nawilżające, ochronne, łagodzące, regenerujące",20
+287,Soraya,"Sun Addict, Lekki krem tonujący ",,4,2,krem,normalna,nawilżające,
+288,Korres,Sunscreen Face Cream Yoghurt SPF50 Krem do opalania twarzy z organicznym jogurtem naturalnym SPF50,182.25,4,1,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, regenerujące",50
+289,Etude,"Sunprise, Mild Watery Light SPF50/PA+++ Lekki krem z filtrem przeciwsłonecznym",,3.5,2,krem,"normalna, wrażliwa, sucha","ochronne, regenerujące",50
+290,Mario Badescu Skin Care,Aloe Moisturizer Broad Spectrum SPF 15 Sunscreen Aloesowa emulsja nawilżająca SPF 15,,4,1,,normalna,"nawilżające, ochronne, łagodzące, regenerujące",15
+291,Lirene Dermoprogram,Kremo-żel pod makijaż SPF 30 ,,3.8,20,żel,normalna,"ochronne, nawilżające",30
+292,Kolastyna,Emulsja do opalania wodoodporna SPF 6 ,,3,3,krem,,"nawilżające, ochronne",6
+293,Some by MI,Truecica Aqua Calming Suncream SPF50+/PA++++ Łagodzący krem z filtrem przeciwsłonecznym,,4,1,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące, regenerujące, przeciwzmarszczkowe",50
+294,Clarins,"UV Plus Anti-Pollution, Sunscreen Multi-Protection SPF 50 Ultra delikatny filtr miejski - wysoka ochrona",,4,6,krem,wrażliwa,"nawilżające, ochronne",50
+295,Korres,"Yoghurt Suncare, Tinted Sunscreen Face Cream SPF 50 Koloryzujący krem ochronny do twarzy SPF 50",129.99,4.5,2,krem,wrażliwa,"ochronne, odżywcze, nawilżające",50
+296,Korres,Yoghurt Sunscreen Face Cream-Gel SPF 50 Krem-żel ochronny do twarzy i okolic oczu SPF50,123.5,3.5,8,żel,normalna,"ochronne, nawilżające",50
+297,Pharmaceris,"S, Spectrum Protect, Krem o szerokopasmowej ochronie dla dorosłych i dzieci SPF 50+ ",49.99,4.1,17,krem,"alergiczna, wrażliwa, z przebarwieniami","nawilżające, ochronne",50
+298,Hawaiian Tropic,Silk Hydration Face Protective Sun Lotion Nawilżający Balsam Ochronny do Twarzy SPF 30,,4,3,krem,normalna,"nawilżające, ochronne, odżywcze",30
+299,Hada Labo Tokyo,Koi-Gokujyun UV White Gel SPF 50+ PA++++ Lekki krem nawilżający z filtrem,,4,1,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+300,The Ordinary,Mineral UV Filters SPF 30 with Antioxidants Krem z filrem UV,,3.4,9,krem,"normalna, sucha, tłusta",ochronne,30
+301,Piz Buin,"In Sun, Radiant Face Cream SPF 30 Krem ochronny do twarzy SPF 30 - wysoka ochrona",,4,1,krem,,"nawilżające, ochronne",30
+302,Swiss Pure,Cotton Block Choux Sun Base SPF 50+ Delikatny nawilżający krem przeciwsłoneczny,,4,1,krem,normalna,"nawilżające, ochronne",50
+303,Neutrea Bio-Tech,UV Protection SPF 50+ PA ++++ Krem ochronny,62.99,4.1,44,krem,"normalna, z przebarwieniami","nawilżające, ochronne",50
+304,Garnier,Ambre Solaire Anti-age Super Protective Cream UV SPF50 Krem do twarzy  z filtrem SPF 50,,3.7,3,krem,"wrażliwa, sucha","nawilżające, ochronne",50
+305,SunOzon,Classic Sonnenfluid LSF 50 mit Matt-Effekt Fluid przeciwsłoneczny SPF 50 (nowa wersja),,3.6,37,krem,normalna,"ochronne, matujące",50
+306,Clarena,"Sensi Peptide Line, Lotus Yoghurt SPF30 Przeciwsłoneczny jogurt SPF30",,4.2,5,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, wygładzające",30
+307,Chanel,"UV Essentiel, Protective UV Care Anti Pollution SPF 50 PA+++ Krem do twarzy",,4.2,6,krem,,"nawilżające, ochronne, regenerujące",50
+308,Lierac,"Sunific Solaire Extreme, Creme Invisible Jedwabiście lekki krem ochronny SPF 50+",,4,1,krem,z przebarwieniami,"nawilżające, matujące, ochronne",50
+309,Coola,Mineral Face SPF 30 Cucumber Matte Finish Moisturiser Mineralny filtr do twarzy o wykończeniu matowym,,3.5,2,krem,,"nawilżające, matujące, ochronne",30
+310,SVR,"Clairial, Creme SPF50+ Krem o bardzo wysokiej ochronie przeciwsłonecznej zapobiegający powstawaniu przebarwień",,4,2,krem,"normalna, z przebarwieniami",ochronne,50
+311,Alba Botanica,Natural Hawaiian Sunscreen SPF 45 Wodoodporny krem ochronny,,4,1,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",45
+312,La Roche-Posay,"Anthelios, Anti-Shine Dry Touch Gel-Cream SPF50+ Krem-żel do twarzy SPF50+ (nowa formuła)",,3.8,5,krem,"wrażliwa, tłusta, trądzikowa",matujące,50
+313,Eucerin,"Ochrona Przeciwsłoneczna, Krem - żel do skóry z alergią na słońce SPF 50 ",,4,1,krem,"wrażliwa, tłusta, alergiczna","nawilżające, ochronne, regenerujące",50
+314,Clinique,"Sun, Face Cream UVA/UVB SPF 50 Krem ochronny do twarzy z filtrem",,4,6,krem,,"nawilżające, ochronne, regenerujące",50
+315,Bioregena,Spray Solaire  SPF 30 Visage & Corps Krem - spray przeciwsłoneczny  do twarzy i ciała,,4,1,krem,"normalna, wrażliwa, sucha, alergiczna","nawilżające, ochronne, łagodzące, regenerujące",30
+316,Acnemy,Zitcontrol SPF50 Krem z filtrem do skóry skłonnej do wyprysków,92.0,4,2,krem,"tłusta, trądzikowa","ochronne, regenerujące",50
+317,Kosmed,"Karotka, Olejek do opalania SPF 6 i SPF 12 - bardzo niska ochrona ",,4,4,płyn,,"ochronne, nawilżające",6
+318,SKIN79,Tone Up Sun Tint SPF50+ PA+++ Lekki krem ochronny,,3.5,4,krem,normalna,"nawilżające, ochronne, przeciwzmarszczkowe",50
+319,Iwostin,"Solecrin, Nawilżający krem ochronny UVA/UVB  SPF 50+ ",,4,3,krem,"normalna, alergiczna, wrażliwa, z przebarwieniami","ochronne, nawilżające",50
+320,Fitokosmetik,Multiwitaminowy krem do opalania do twarzy i ciała SPF 50 ,,3.5,6,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące, regenerujące, odżywcze",50
+321,Iwostin,"Solecrin Lucidin, Krem na przebarwienin SPF 50+ ",63.9,3.7,9,krem,"normalna, wrażliwa, sucha, z przebarwieniami",ochronne,50
+322,Dermalogica,Oil Free Matte Block SPF 20 Preparat przeciwsłoneczny do cery tłustej,,4,1,krem,tłusta,"matujące, ochronne, łagodzące",20
+323,Dermedic,"Melumin, Ochronny krem rozjaśniający na dzień SPF 50+ ",73.88,3.5,6,krem,"normalna, tłusta, z przebarwieniami, trądzikowa","ochronne, rozjaśniające, na przebarwienia, przeciwzmarszczkowe",50
+324,Bio Happy,"4Freedom, Balsamo Viso Protettivo SPF 30 Balsam do twarzy w sztyfcie",,4,1,krem,normalna,"ochronne, nawilżające",30
+325,Dermedic,"Sunbrella, Krem ochronny skóra z problemami naczyniowymi SPF 50+ ",,4,19,krem,"wrażliwa, tłusta, alergiczna","nawilżające, ochronne, łagodzące",50
+326,Garnier,"Ambre Solaire, Anti-dryness Super UV Protection Cream SPF 50 Krem ochronny do twarzy SPF 50",,3.9,9,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",50
+327,Origins,"Ginzing, Energy - Boosting Tinted Moisturizer SPF 40 Krem koloryzujący",171.0,3.8,23,,,"nawilżające, matujące, ochronne, łagodzące, odżywcze",40
+328,Bondi Sands,Coconut Beach Sunscreen Lotion SPF 50+ (Emulsja do opalania z filtrem SPF 50+ do twarzy) ,,4,2,krem,normalna,"ochronne, łagodzące",50
+329,Nacomi,"Next Lvl, Golden Rays, Holiday Formula Cream SPF 50+ Wodoodporny krem z filtrem SPF 50+",33.3,3.2,24,krem,normalna,"ochronne, nawilżające",50
+330,Emma Hardie,Protect & Prime SPF 30 Preparat z filtrem SPF 30,,4,1,krem,normalna,ochronne,30
+331,Kiehl's,Ultra Facial Cream Broad SpectrumSPF 30 Krem do twarzy,237.5,4,3,krem,normalna,nawilżające,30
+332,Kolastyna,"Coconut Paradise,Transparentna  sucha mgiełka ochronna SPF50 (stara wersja) ",39.49,3.4,9,,"normalna, sucha, tłusta",ochronne,50
+333,Anthyllis,"Eco Bio, Sunscreen Crema Solar Water Resistant SPF 50 Wodoodporny krem przeciwsłoneczny SPF 50",,4,1,krem,"normalna, wrażliwa, atopowa","nawilżające, ochronne, łagodzące",50
+334,Dax Sun,Matujący krem do twarzy na słońce SPF 30 ,,3.4,8,krem,"normalna, tłusta, z przebarwieniami","matujące, nawilżające",30
+335,Ziaja,"Liście Zielonej Oliwki, Skoncentrowany krem oliwkowy foto-ochronny UVA+UVB SPF 20 ",12.9,3.7,76,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, regenerujące",20
+336,Sun Balance,Wodoodporna emulsja do opalania SPF 30 ,5.7,4,1,krem,,"ochronne, nawilżające",30
+337,Dr Skin Clinic,Krem `Intensywna ochrona SPF50` ,67.5,3.3,26,krem,"normalna, z przebarwieniami","nawilżające, ochronne, przeciwzmarszczkowe",50
+338,Synchroline,Aknicare Sun with GT peptide-10 Emulsion with Sun Filters for Acneic and Seborrhoeic Skin SPF 30 PPD 20 (wysoka ochrona) Emulsja z filtrem przeciwsłonecznym do skóry tłustej i trądzikowe,49.98,3.3,4,krem,"tłusta, trądzikowa","matujące, nawilżające",30
+339,Kolastyna,"Aqua Aksamit, Nawilżająca emulsja do opalania SPF 30 ",,4,4,emulsja,,"nawilżające, ochronne",30
+340,Biotherm,Waterlover Hydrating Sun Milk SPF 50 Wodoodporna ochrona przeciwsłoneczna  SPF 50,,4,1,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne",50
+341,Bioderma,"Photoderm AR, Krem tonujący do skóry z problemami naczynkowymi SPF 50+ ",79.99,3.7,11,krem,"normalna, naczynkowa, trądzikowa",ochronne,50
+342,Ziaja,"Med, Przeciwzmarszczkowy krem do twarzy SPF 50+ ",28.49,3.8,22,krem,"sucha, z przebarwieniami","nawilżające, regenerujące, przeciwzmarszczkowe",50
+343,SVR,"Sebiaclear, Creme SPF50+ Krem dla skóry tłustej i trądzikowej z bardzo wysoką ochroną przeciwsłoneczną",85.99,4.6,120,krem,"wrażliwa, tłusta, mieszana, trądzikowa, z przebarwieniami","matujące, ochronne, nawilżające",50
+344,Lierac,"Sunissime, Fluide Protecteur Energissant Anti Age Global SPF 50 Energizująca emulsja ochronna SPF 50",,4,2,krem,"normalna, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+345,Clinique,"Even Better, Dark Spot Defense SPF 50 Ochronny krem tonujący przeciw przebarwieniom",,3.5,2,krem,"normalna, tłusta, z przebarwieniami","nawilżające, ochronne",50
+346,Ziaja,"Med, Kuracja ochronna UVA+UVB,Tonujący krem do twarzy SPF 50+ (nowa wersja) ",25.78,3.8,18,krem,"normalna, sucha, tłusta, naczynkowa, z przebarwieniami","nawilżające, ochronne",50
+347,Derma,"Sun, Solstift 50 Sztyft słoneczny SPF 50",32.46,4,1,,"alergiczna, wrażliwa",ochronne,50
+348,Purito Seoul,Centella Green Level Unscented Sun SPF50+/PA++++ Bezzapachowy krem z filtrem,,3.7,25,krem,"normalna, naczynkowa",ochronne,50
+349,Missha,"All-Around, Safe Block Waterproof Sun Milk SPF50+/PA++++ Wodoodporny krem przeciwsłoneczny",,3.4,5,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+350,La Roche-Posay,Anthelios Shaka Fluide Fluid ultralekki do twarzy,,4,19,krem,,"nawilżające, ochronne",
+351,Cosrx,"Shield Fit, Snail Essence Sun SPF 50+/PA+++ Lekka esencja przeciwsłoneczna",,4,1,krem,,"nawilżające, ochronne",50
+352,La Roche-Posay,"Anthelios XL, Ultra-leger Fluide teinte SPF 50+ PPD 34 [Ultra-light Tinted fluid] Ultra lekki fluid barwiący do twarzy",,4,5,żel,"wrażliwa, tłusta","nawilżające, matujące, ochronne",50
+353,Avon,"True Colour, Summer Skin Cream SPF 15 Krem brązująco- upiększający",,4,1,krem,normalna,nawilżające,15
+354,Clinique,Super City Block SPF 40 - wysoka ochrona ,99.0,3.4,14,krem,wrażliwa,"nawilżające, ochronne",40
+355,Kolastyna,Emulsja do opalania SPF 50 ,35.99,3.5,11,krem,,"nawilżające, ochronne, regenerujące",50
+356,Altruist,Face Fluid  SPF 50 Lekka emulsja do twarzy,74.99,4,7,krem,"normalna, alergiczna, wrażliwa",ochronne,50
+357,The Saem,"Eco Earth Power, Light Sun Cream SPF 50+  PA+++ Lekki krem fotoochronny przeciwsłoneczny spf 50+",43.99,4.3,9,krem,normalna,ochronne,50
+358,Lancaster,Sun Sensitive Oil-Free Face Sun Protection Cream SPF 50 Krem przeciwsłoneczny do twarzy SPF 50,,4,2,krem,"wrażliwa, tłusta","nawilżające, ochronne",50
+359,Eva Sun,Krem ochronny do twarzy i na superwrażliwe miejsca SPF 50 (nowa wersja) ,,3.5,2,krem,"wrażliwa, z przebarwieniami",ochronne,50
+360,Cien,Sun Lotion SPF 30 Krem matujący do twarzy,,4,1,krem,normalna,"matujące, ochronne",30
+361,Holika Holika,Matte Tone Up Make Up Sun Cream SPF 50+ PA+++ Tonujący krem przeciwsłoneczny do twarzy,69.99,3.6,5,krem,"normalna, z przebarwieniami",ochronne,50
+362,The Body Shop,"Vitamin E, Day Lotion SPF 30 Nawilżająca ochronna emulsja SPF 30",,4,5,krem,"normalna, sucha","nawilżające, ochronne",30
+363,Equilibra,Aloe Protezioe Naturale Crema Solaire SPF 50+ Aloesowy krem przeciwsłoneczny SPF 50+,51.94,3.2,15,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące, regenerujące",50
+364,Whamisa,Sun Cream SPF 50 Krem ochronny z SPF 50,,3.1,14,krem,"normalna, sucha, tłusta","ochronne, przeciwzmarszczkowe",50
+365,Biore,UV Perfect Face Milk SPF 50+ PA+++ Mleczko do twarzy z ochroną UVA / UVB,,3.9,7,krem,wrażliwa,"nawilżające, ochronne",50
+366,Herbal Care,"Sun, Roślinny nawilżający krem ochronny do twarzy SPF 50 ""Aloes z wodą termalną"" ",,3.3,9,krem,"normalna, wrażliwa","ochronne, nawilżające",50
+367,Bielenda,"Bikini, Krem do twarzy udoskonalający SPF 30 cera mieszana/tłusta 'Matt look' ",,3.4,17,krem,"normalna, tłusta",ochronne,30
+368,Heliocare,360° Gel Oil-Free SPF50 PA++++ Krem-żel do twarzy z filtrem przeciwsłonecznym,73.69,3.3,7,żel,"normalna, tłusta, z przebarwieniami","matujące, ochronne, łagodzące",50
+369,Dax Sun,"Dermo Line, Hipoalergiczny krem ochronny do twarzy SPF 50+ ",,3.4,9,krem,"normalna, wrażliwa, alergiczna, naczynkowa, z przebarwieniami",ochronne,50
+370,Kueshi,"Locion Solar, Sunscreen Moisturizer  SPF50 Krem do opalania",,3.5,4,krem,normalna,ochronne,50
+371,Garnier,"Ambre Solaire, Invisible Protect Refresh Spray SPF 50 Spray ochronny do opalania SPF50",,4,1,,"normalna, tłusta","nawilżające, ochronne, odżywcze",50
+372,Eau Thermale Avène,PhysioLift Protect SPF30 Wygładzający krem ochronny,,1,1,krem,normalna,ochronne,30
+373,The Body Shop,"Vitamin C, Daily Moisturiser SPF 30 [Vitamin C Glow-Protect Lotion SPF 30 PA +++] Nawilżający krem na dzień - wysoka ochrona [Rozjaśniający balsam do twarzy]",,3.3,9,krem,wrażliwa,"nawilżające, ochronne",30
+374,A-Derma,Protect AC Fluide SPF 50 Ochronny fluid matujący dla skóry tłustej,,4.1,7,krem,"tłusta, trądzikowa","matujące, ochronne",50
+375,Pharmaceris,"S Słońce,  Capilar Protect, Ultra ochronny krem do twarzy SPF 50+ UVB/PPD 48 UVA dla skóry naczynkowej i z trądzikiem różowatym ",,3.8,6,krem,"wrażliwa, sucha, tłusta, naczynkowa, trądzikowa, z przebarwieniami","nawilżające, ochronne, łagodzące, regenerujące",50
+376,Mary Kay,"Botanical Effects, Hydrate & Protect, Broad Spectrum Sunscreen SPF 30 Nawilżająca emulsja  z filtrem",,4,1,krem,"normalna, sucha, tłusta","nawilżające, matujące, ochronne, regenerujące",30
+377,Lancaster,"Sun Beauty, Velvet Touch Cream SPF30 High Protection SPF 30 Krem do opalania  twarzy SPF 30",,3.5,2,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",30
+378,Klairs,Soft Airy UV Essence SPF 50+ PA++++ Delikatny krem z filtrem do codziennej ochrony przeciwsłonecznej,,3.8,6,krem,normalna,ochronne,50
+379,Tołpa,"Dermo Face, Lumi Filter, Krem ochronny SPF 50 PA++++ ",30.0,3,5,krem,"wrażliwa, sucha, tłusta","nawilżające, ochronne",50
+380,Holika Holika,Make Up Sun Cream Tone Up UV SPF 50 PA +++ Tonujący krem przeciwsłoneczny pod makijaż z wysokim filtrem UV SPF 50,,3.7,12,krem,normalna,ochronne,50
+381,Tołpa,"My Skin Changer, Light Bodyguard, Krem SPF 50 `Wysoka fotoochrona` ",49.49,2.1,12,krem,"normalna, wrażliwa, sucha, z przebarwieniami","nawilżające, ochronne",50
+382,Avon,"Anew, Solar Advance, Ultra Matte Anti -Aging Sun Protection SPF 50 Odmładzający ochronny krem do twarzy SPF 50",,4.1,16,krem,normalna,"nawilżające, ochronne",50
+383,Zenova Suncare,Ski Protection Face Cream SPF 50 Krem przeciwsłoneczny na narty,,4,2,krem,normalna,ochronne,50
+384,Paediprotect,Gesichtssonnencreme SPF 50+ Krem przeciwsłoneczny do twarzy SPF 50+,,3.5,2,krem,normalna,ochronne,50
+385,Zenova Suncare,Sun Milk For Sensitive Skin SPF 50 Krem przeciwsłoneczny dla wrażliwej cery,,4,1,krem,wrażliwa,"nawilżające, ochronne",50
+386,La Roche-Posay,Cicaplast Baume B5 SPF50 Balsam łagodząco - odnawiający (stara wersja),68.85,3.9,19,krem,"normalna, wrażliwa, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące, regenerujące",50
+387,Paula's Choice,Youth-Extending Daily Hydrating Fluid SPF50 Nawilżająca emulsja przeciwsłoneczna SPF50,,4,2,krem,normalna,"nawilżające, ochronne",50
+388,Nivea,"Sun, Moisturizing Mousse Face SPF50 + Mus przeciwsłoneczny do twrazy",,3.5,2,,normalna,"ochronne, nawilżające",50
+389,IsisPharma,Ruboril Expert SPF 50+ Krem ochronny do skóry naczynkowej z nadwrażliwością na działanie promieni słonecznych,58.74,4.1,20,krem,"wrażliwa, tłusta, naczynkowa",ochronne,50
+390,Reyena16,Daily UV Defense Sun Milk SPF50+/PA++++ Mleczko ochronne do twarzy z filtrem,,3.7,3,mleczko,normalna,"ochronne, nawilżające",50
+391,Missha,"All - Around, Safe Block Essence Sun SPF 45 PA +++ Lekki krem ochronno - nawilżający",,3.5,2,krem,normalna,nawilżające,45
+392,Nivea,"Sun, Protect & Moisture, Balsam do opalania SPF 50+ ",46.99,3.5,13,krem,,"nawilżające, ochronne",50
+393,Iwostin,"Solecrin Capillin, Krem ochronno- łagodzący SPF 50+ ",60.99,3.4,5,krem,"wrażliwa, naczynkowa","ochronne, łagodzące",50
+394,Resibo,"Team Sunscreen Light, Krem nawilżająco-regulujący SPF 30 ",80.5,3.8,18,krem,"normalna, sucha, trądzikowa","nawilżające, matujące, ochronne",30
+395,Clarins,"Sun Wrinkle Control, Cream for Face SPF 15 Przeciwzmarszczkowy krem do opalania twarzy UVA/UVB 15",,4,1,krem,"normalna, z przebarwieniami",ochronne,15
+396,Janda,Luksusowy krem ochronny do twarzy SPF 50 ,,3.6,7,krem,normalna,"nawilżające, ochronne",50
+397,Avon,"Care,  Sun + Face, Shine Control Sun Cream SPF 50 Matujący krem nawilżająco-ochronny do twarzy SPF50",,4.5,2,krem,normalna,"matujące, ochronne, nawilżające",50
+398,Asoa,"Sunny Day, Całoroczna ochrona SPF 15 ",,4,3,krem,normalna,"nawilżające, ochronne",15
+399,La Roche-Posay,"Anthelios Ultra, Innovation Yeux Sensibles Cream  SPF 50+ Bezzapachowy krem do skóry twarzy oraz okolic oczu",,4.2,38,krem,wrażliwa,ochronne,50
+400,SVR,Ecran Mineral Teinte SPF 50 - wysoka ochrona Krem tonujący z filtrami mineralnymi SPF 50 dla skóry normalnej i mieszanej,,3.7,13,krem,"normalna, wrażliwa",ochronne,50
+401,Caudalie,"Soleil Divin, Soin Solaire Visage Anti-Age SPF 50 Krem przeciwsłoneczny, przeciwzmarszczkowy",,3.5,2,krem,"wrażliwa, sucha","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",50
+402,Be The Sky Girl,"Lady Sunshine, Face Cream  SPF 25 Krem do twarzy",,3.3,13,krem,,,25
+403,Nivea,"Sun, UV Face Soothing Sensitive  SPF 50 Krem do twarzy  z filtrem SPF 50",,4.1,7,krem,"normalna, wrażliwa","ochronne, łagodzące",50
+404,Hada Labo Tokyo,UV Creamy Gel SPF 50+ PA ++++ Krem - żel przeciwsłoneczny,,3.7,6,krem,normalna,"nawilżające, ochronne",50
+405,Plantea,"Sun Shield, Wododporny krem SPF 50 ",,4,4,krem,"normalna, wrażliwa","nawilżające, ochronne, łagodzące",50
+406,Alma K,"Sun Care, Protect & Nourish Face Cream SPF 50 Nawilżająco-ochronny krem do twarzy SPF 50",,4,1,krem,"normalna, sucha","nawilżające, ochronne, regenerujące",50
+407,Nivea,"Sun, Face Anti-Age & Anti pigment SPF50 [ Anti-Age Q10 SPF50 ] (Ochronny krem przeciwstarzeniowy i przeciw plamom z SPF50) ",44.99,3.9,22,krem,"normalna, wrażliwa, tłusta","ochronne, nawilżające",50
+408,Lirene Dermoprogram,"Sporty, Mleczko ochronne do twarzy i ciała SPF 50 ",,4,2,krem,normalna,ochronne,50
+409,Piz Buin,"Summer Suncare, Allergy SPF 30 Mleczko do opalania",,4.1,10,krem,"wrażliwa, alergiczna","nawilżające, łagodzące",30
+410,Ziaja,Krem ochronny UVA i UVB na lato i zimę ,12.29,4.1,39,krem,wrażliwa,"nawilżające, ochronne, regenerujące",
+411,Sesderma,Repaskin Fluid Invisible Fotoprotector SPF50 Fluid nawilżająco-ochronny SPF 50+,,4,1,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+412,Dax Sun,"Active +, Ultra lekki ochronny krem do twarzy SPF 30 ",15.95,4,2,krem,normalna,"ochronne, nawilżające, matujące",30
+413,Kiehl's,Ultra Light Daily UV Defense SPF 50 PA+++ Ultra lekki krem ochronny SPF 50,,5,3,krem,"tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+414,Polaar,Fluide Solaire SPF 50+ Très Haute Protection Fluid bardzo wysoka ochrona SPF 50+,,4,1,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+415,Asoa,Krem z filtrem chemicznym SPF50+ PA++++ ,56.89,3.9,14,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące, odżywcze",50
+416,Uriage,Bariesun Creme SPF 50+ Peaux Sensibles Krem do skóry wrażliwej SPF 50+,,4,1,krem,"wrażliwa, alergiczna","ochronne, nawilżające",50
+417,Purito Seoul,Centella Green Level Safe Sun SPF50+ PA++++ Ochronny krem przeciwsłoneczny SPF50+ PA++++,,4,22,krem,z przebarwieniami,"nawilżające, ochronne, przeciwzmarszczkowe",50
+418,Cell Fusion C,Laser Sunscreen 100 SPF 50+/PA+++ Krem z filtrem przeciwsłonecznym SPF 50+/PA+++ ( nowa wersja ),190.0,3.3,4,krem,"normalna, sucha, tłusta","ochronne, regenerujące",50
+419,Shiseido,"Urban Environment, UV Protection Cream Plus SPF 50 ",,3.7,10,krem,,"ochronne, nawilżające",50
+420,Clinique,SPF 30 Mineral Sunscreen Fluid for Face Emulsja przeciwsłoneczna do twarzy,,4,3,krem,,ochronne,30
+421,Petite Lael,Sun Cream SPF 50+/PA+++ Krem z filtrem,,4,1,krem,normalna,ochronne,50
+422,Vichy,Capital Soleil SPF 50 Anti-Brillance Mattifying Matujący krem do twarzy SPF 50,66.99,4.1,12,,"normalna, alergiczna, wrażliwa, z przebarwieniami","ochronne, matujące",50
+423,Uriage,"Bariesun, Stick Invisible SPF 50+ Transparentny sztyft ochronny",,3.3,3,krem,normalna,"ochronne, nawilżające",50
+424,Kolastyna,"Eko Ochrona, Nawilżający krem do twarzy SPF30 ",,4,2,krem,"normalna, wrażliwa, sucha, alergiczna","nawilżające, ochronne",30
+425,Floslek,"Sun care, Oil-free krem tonujący wodoodporny  SPF 50+ skóra tłusta i mieszana ",,3.2,5,krem,"tłusta, naczynkowa, z przebarwieniami","ochronne, nawilżające",50
+426,Dermedic,"Sunbrella, Krem ochronny do twarzy SPF 50+ skóra tłusta i mieszana ",38.99,3.4,50,krem,tłusta,"nawilżające, ochronne",50
+427,Image Skincare,MD Restoring Daily Defense Moisturizer SPF 50 Filtr ochronny SPF 50,,4,1,krem,"normalna, wrażliwa, tłusta, z przebarwieniami",ochronne,50
+428,Purles,Protective Mist SPF 50+ Ochronna mgiełka SPF 50+,,3.3,3,,"wrażliwa, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+429,Ziaja,"Sopot Sun, Krem przeciw zmarszczkom SPF 30 DNA protektor ",16.99,3.6,31,krem,"wrażliwa, sucha, tłusta","nawilżające, ochronne, łagodzące",30
+430,Ziaja,"Sopot Sun, Emulsja do opalania wodoodporna SPF 20 - średnia ochrona ",30.99,4.1,35,krem,wrażliwa,"ochronne, nawilżające",20
+431,Rituals,"The Ritual of Karma, Sun Protection Face Cream SPF 30 Krem do opalania twarzy SPF 30",,4,2,krem,"normalna, sucha","nawilżające, ochronne",30
+432,Eucerin,"Sun, Fluid Pigment Control SPF 50+ Emulsja ochronna przeciw przebarwieniom SPF 50+",99.99,4.1,8,krem,"wrażliwa, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące, regenerujące",50
+433,Eau Thermale Avène,"Tres Haute Protection, B-Protect SPF 50 Krem ochronny SPF 50",47.99,3.3,3,krem,normalna,ochronne,50
+434,Venus,"Golden Sun, Krem - bloker przeciwsłoneczny SPF 50+ ",,3,2,krem,,"nawilżające, ochronne",50
+435,Eau Thermale Avène,"Eau Thermale Sun, Krem koloryzujący SPF 50+ (nowa wersja) ",,3.7,3,krem,wrażliwa,"nawilżające, ochronne, łagodzące",50
+436,Guerlain,"Super Aqua-Day, Complexe Rose du Desert Krem z potrójną tarczą ochronną SPF 30",,2.7,3,krem,wrażliwa,"nawilżające, ochronne, regenerujące",30
+437,Nuxe,"Sun, Light Fluid High Protection SPF50 Fluid do opalania twarzy",66.29,2.7,3,krem,"normalna, z przebarwieniami",ochronne,50
+438,Eucerin,Sun Oil Control Tinted SPF 50+ Kremowy żel do opalania  koloryzujący,,3,1,żel,normalna,,50
+439,BasicLab Dermocosmetics,"Protecticus, Lekki krem ochronny SPF 50+ `Prewencja i antyoksydacja` ",124.44,3.3,43,krem,,"ochronne, nawilżające",50
+440,Sesderma,"Repaskin, Fotoprotector SPF 50 for Face Filtr ochronny do twarzy",117.0,3.2,10,krem,,"ochronne, regenerujące",50
+441,Nuxe,"Sun, Crème Fondante Visage Krem do opalania do twarzy SPF50",66.9,2.9,13,krem,"wrażliwa, z przebarwieniami","nawilżające, ochronne",50
+442,Apis,"Hello Summer, Krem do opalania twarzy z nektarem komórkowym SPF 50 ",32.89,2.4,8,krem,"normalna, sucha, tłusta","ochronne, nawilżające",50
+443,Nuxe,Sun Creme Delicieuse Visage SPF 30 Zachwycający krem do opalania twarzy SPF 30,66.9,3,1,krem,,"nawilżające, ochronne",30
+444,Pharmaceris,"S Medi Acne Protect, Krem - żel ochronny dla skóry trądzikowej, mieszanej i tłustej SPF 50+ ",59.99,3.2,39,krem,tłusta,"matujące, ochronne",50
+445,Etude,Sunprise Mild Watery Light Sunscreen SPF 50+ PA++++ Krem przeciwsłoneczny do twarzy  (nowa wersja),,3,1,krem,normalna,ochronne,50
+446,Dax Sun,Ochronny krem do twarzy na słońce SPF 50+ ,21.0,2.6,23,krem,z przebarwieniami,"ochronne, nawilżające",50
+447,Bema Cosmetici,SolarTea Sun Cream SPF 50 Krem ochronny SPF50,,3,2,krem,,nawilżające,50
+448,Douglas Collection,"Sun, Face Cream SPF30 Krem do opalania ochrona wysoka",,3,1,krem,normalna,"ochronne, nawilżające",30
+449,Kolastyna,"Ochronny krem do twarzy, wodoodporny SPF 50 ",24.99,3.2,18,krem,normalna,"ochronne, nawilżające",50
+450,Asoa,"Sunny Day, Skuteczna ochrona przed UVA/UVB SPF 30 ",,3.4,14,krem,normalna,"nawilżające, ochronne",30
+451,Fitokosmetik,Ultranawilżający krem do opalania do twarzy i ciała 30 SPF ,,3,1,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące, regenerujące",
+452,CERA+ Solutions,Krem z wysoką ochroną przeciwsłoneczną SPF 50 skóra sucha i wrażliwa ,19.32,3,10,krem,"wrażliwa, sucha, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+453,Nivea,"Sun, BB Krem do twarzy z fitrami UV SPF 50+ ",,2.1,15,krem,normalna,"ochronne, nawilżające",50
+454,Apis,"Professional, Krem ochronny do twarzy SPF 30 ",49.0,3,7,krem,"normalna, z przebarwieniami","ochronne, nawilżające",30
+455,Eau Thermale Avène,Tres Haute Protection Emulsion [Very High Protection Emulsion] SPF 50+ Fluid SPF50+ z formułą suchy dotyk,,3,3,krem,normalna,"ochronne, matujące",50
+456,Clochee,Illuminating Cream SPF 30 Rozświetlający krem,132.0,3.1,17,krem,"normalna, alergiczna, wrażliwa","nawilżające, ochronne",30
+457,Kire Skin,Go to Glow Moisturizer SPF 50 Krem z filtrem SPF 50,,3,1,krem,normalna,"ochronne, przeciwzmarszczkowe, nawilżające",50
+458,Kolastyna,"Q10 anti-aging, Krem ochronny do twarzy  SPF 50 ",21.99,2.9,33,krem,"normalna, z przebarwieniami","ochronne, nawilżające",50
+459,Givenchy,"Hydra Sparkling, Multiprotective Luminescence Moisturizing Fluid SPF30-PA++ Ochronny rozświetlający fluid nawilżający",,3,1,krem,,"nawilżające, ochronne",30
+460,Soraya,"Sun Care, Ochronny krem do twarzy SPF50 (stara wersja) ",14.93,2.5,11,krem,"normalna, wrażliwa, sucha, z przebarwieniami","nawilżające, ochronne",50
+461,Alterra,Sonnencreme Bio-Mandel & Bio Hibiskus SPF 30 Krem przeciwsłoneczny `Migdały bio i hibiskus bio`,,2,2,krem,normalna,ochronne,30
+462,Tołpa,"Dermo Face, Lumi Filter, Krem przeciw przebarwieniom SPF 50 PA++++ ",32.99,2.1,7,krem,"wrażliwa, tłusta, z przebarwieniami","ochronne, łagodzące",50
+463,Vichy,"Capital Soleil, Matifiant 3-en-1 SPF 50+ Krem matujący 3-w-1 SPF 50+",,2.8,5,krem,"wrażliwa, tłusta","matujące, ochronne",50
+464,Jantar,"Sun, Amber Moisturizing Dual-Phase Thermal Water SPF 25 Bursztynowa nawilżajaca woda termalna dwufazowa do twarzy i ciała",29.9,2.5,2,,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące",25
+465,Missha,All Around Safe Block Aqua Sun SPF 50+ PA ++++ Lekki krem przeciwsłoneczn,74.99,4.3,3,krem,normalna,"ochronne, nawilżające",50
+466,Dax Sun,Emulsja do opalania do twarzy i ciała SPF 50 ,15.0,3.2,5,krem,normalna,"ochronne, nawilżające",50
+467,Eveline Cosmetics,"Sun, Wysoko wodoodporny ochronny krem do twarzy SPF 50 ",,2.8,5,,,"ochronne, nawilżające",50
+468,Bioderma,Photoderm Spot - Age SPF 50+ Antyoksydacyjny krem zapobiegający powstawaniu przebarwień i zmarszczek,94.99,3.5,4,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne",50
+469,Bandi,"UV Expert, Pre - D3 Advanced Moisturizing Cream SPF 50 Zaawansowany krem nawilżający",71.92,2.6,37,krem,"normalna, z przebarwieniami","nawilżające, ochronne",50
+470,Clinique,Face Cream Sun SPF 40 Krem do twarzy z wysokim filtrem przeciwsłonecznym,,3,1,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",40
+471,Eau Thermale Avène,"Sun Care, Very High Protection Mineral Fluid  SPF 50+ Fluid mineralny bez koloru bardzo wysoka ochrona przeciwsłoneczna SPF 50+",,2.8,6,krem,"normalna, alergiczna, wrażliwa","ochronne, nawilżające",50
+472,Alverde,Sensitiv Sonnencreme Jojoba LSF 30 Łagodny krem przeciwsłoneczny jojoba z filtrem LSF 30 - wysoka ochrona,,3,1,krem,"normalna, sucha","ochronne, nawilżające",
+473,SVR,Sensifine AR Creme SPF50+ Kojący krem z bardzo wysoką ochroną przeciwsłoneczną dla skóry naczynkowej (stara wersja),,3,3,krem,"normalna, wrażliwa, sucha, alergiczna, naczynkowa, trądzikowa","nawilżające, ochronne, łagodzące, regenerujące",50
+474,Avon,"Sun +, Anti Aging Face Cream Wodoodporny krem do twarzy o działaniu przeciwstarzeniowym SPF 50",,2.8,4,krem,,"ochronne, nawilżające",50
+475,Equilibra,"Aloe, Protezione Naturale Crema Solaire SPF 30 Krem przeciwsłoneczny SPF 30",19.49,3.1,7,krem,normalna,"ochronne, nawilżające",30
+476,Miya Cosmetics,"mySPFcream, Moisturizing Cream SPF 50 Face, Eyes, Decollete Nawilżający krem SPF 50",60.12,2.8,74,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+477,Isdin Isdinceutics,Foto Ultra 100 Active Unify Fusion Fluid SPF50+ Fluid do twarzy ochronno-korygujący,,3,1,,"tłusta, alergiczna, wrażliwa, z przebarwieniami","ochronne, regenerujące",50
+478,Alteya Organics,Organic Rose Face Age Defense Sunscreen SPF 30 Organiczny mineralny filtr przeciwsłoneczny do twarzy SPF 30,,3,1,krem,"normalna, naczynkowa","ochronne, odżywcze, nawilżające",30
+479,Iwostin,"Solecrin Purritin, Krem ochronny dla skóry tłustej, trądzikowej SPF 50+ ",,2.7,21,krem,"wrażliwa, tłusta, trądzikowa","nawilżające, matujące, ochronne",50
+480,Soraya,"Sun Care, Ochronny krem do twarzy z algami morskimi SPF 50 ",,3.7,3,krem,normalna,ochronne,50
+481,Lierac,"Sunissime, Soin Protecteur Yeux Anti-age Global SPF 50 Sztyft ochronny do skóry wokół oczu",,3,3,,,"nawilżające, ochronne",50
+482,Orientana,Natural Sunscreen Anti-ageing Golden Ginseng SPF 50 UVA/UVB Colour Free Krem do twarzy złoty żeń-szeń SPF 50+,,3.2,12,krem,"normalna, z przebarwieniami","ochronne, przeciwzmarszczkowe, nawilżające",50
+483,SVR,"Sun Secure, Gel Ultra Mat Multi-Resistant SPF 50+ Wodoodporny szybko wchłaniający się żel-krem",79.99,3,5,,"normalna, tłusta",ochronne,50
+484,Coola,SPORT Mineral Sunscreen SPF30 Mineralny filtr SPF 30,,3,1,krem,"alergiczna, wrażliwa","ochronne, nawilżające",30
+485,Bandi,"Medical Anti Irritate, Mineralny krem ochronny SPF 30 tonujący ",61.69,3.2,5,krem,"normalna, wrażliwa",ochronne,30
+486,Bielenda,"Bikini, Udoskonalający krem do twarzy do cery suchej/wrażliwej SPF 50 `Matt look` ",,3,5,krem,"wrażliwa, sucha, z przebarwieniami","nawilżające, ochronne",50
+487,SVR,"Sebiaclear, Creme SPF 50 Krem ochronny SPF 50 (stara wersja)",,3.2,46,krem,"normalna, tłusta, alergiczna, wrażliwa, trądzikowa, z przebarwieniami","ochronne, nawilżające",50
+488,Avon,"Anew Solar Advance, Invisible Protective Mist SPF 50 (Ochronna mgiełka do twarzy z SPF 50) ",,2.7,3,,normalna,"ochronne, nawilżające",50
+489,Crazy Young,Delikatny mus do twarzy SPF 20 `Cotton Candy` ,,2.7,3,krem,normalna,"ochronne, nawilżające",20
+490,Eau Thermale Avène,Cleanance Sun SPF 50+ Krem ochronny SPF 50+,90.99,3,7,,"tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące",50
+491,Skin Aqua,Tone Up UV Essence SPF 50+ PA ++++ Mint Krem z filtrem przeciwsłonecznym zielony,,3,2,krem,normalna,"ochronne, nawilżające",50
+492,Asoa,Krem z filtrem mineralnym SPF 50 PA+++ ,,2.6,14,krem,normalna,"ochronne, przeciwzmarszczkowe, nawilżające",50
+493,Nuxe,"Sun, Milky Spray Medium Protection SPF 20 Mleczko do opalania twarzy i ciała SPF 20",,3,1,krem,"normalna, wrażliwa","nawilżające, ochronne",20
+494,Yves Rocher,"Solaire Peau Parfaite, Soin Anti-age SPF 50+ Przeciwzmarszczkowa emulsja do opalania to twarzy z wyciągiem z mikołajka nadmorskiego SPF 50+",,3,3,,"normalna, z przebarwieniami","ochronne, nawilżające",50
+495,Dax Sun,Nawilżający krem ochronny do twarzy SPF 50+ ,,3.3,3,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące",50
+496,La Roche-Posay,Anthelios Age Correct SPF50+ Przeciwstarzeniowy krem przeciwsłoneczny,95.0,2.8,10,,"normalna, alergiczna, wrażliwa, z przebarwieniami","ochronne, nawilżające",50
+497,BeneFit,Dream Screen SPF 45 PA+++ Niewidoczny jedwabisto-matowy filtr przeciwsłoneczny,,2.7,3,,,"matujące, ochronne",45
+498,Sun Dance,Anti-Age Sonnenfluid SPF 50 Fluid przeciwsłoneczny,,2,2,krem,"normalna, sucha, tłusta","ochronne, nawilżające, matujące",50
+499,Indeed Labs,"Defense30, Dual Action Moisturiser Nawilżający krem ochronny SPF 30",,2,2,krem,"normalna, z przebarwieniami","nawilżające, ochronne",30
+500,Mesoestetic,"Mesoprotech Melan 130+, Fluid koloryzujący SPF 50+ ",171.0,2.3,4,krem,"normalna, z przebarwieniami",,50
+501,Dermedic,"Sunbrella, Krem ochronny SPF 50+ UV + IR skóra tłusta i mieszana ",,3.2,5,krem,"tłusta, alergiczna, wrażliwa, trądzikowa",ochronne,50
+502,Kose,Suncut Perfect UV Gel SPF 50+ PA++++ Super Waterproof Żel przeciwsłoneczny SPF 50+,,3,1,żel,"normalna, sucha, tłusta, trądzikowa","ochronne, nawilżające",50
+503,SVR,"Sun Secure, Creme SPF 30 Krem ochronny SPF30",,3,1,krem,"normalna, alergiczna, wrażliwa","ochronne, nawilżające",30
+504,CERA+ Solutions,Krem z wysoką ochroną  przeciwsłoneczną SPF 30 do skóry suchej i wrażliwej ,42.9,3,2,krem,"normalna, alergiczna, wrażliwa","ochronne, nawilżające",30
+505,Dax Sun,Hipoalergiczny krem do twarzy z botanicznym mleczkiem SPF 50+ ,,3,8,krem,"normalna, alergiczna, wrażliwa, z przebarwieniami","ochronne, nawilżające, matujące",50
+506,A-Derma,"Protect, Lotion SPF 50+ Fluid ochronny dla skóry normalnej i mieszanej",,3,1,krem,normalna,ochronne,50
+507,Garnier,"Ambre Solaire, Over Makeup Super UV Protection Mist SPF50 Mgiełka ochronna z filtrem SPF 50 do nakładania na makijaż",29.99,2.4,20,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+508,The Saem,"Eco Earth, Cica Sun Cream SPF50+ Krem przeciwsłoneczny z filtrem",,3,1,krem,normalna,"ochronne, nawilżające",50
+509,Revolution Skincare,Moisture Boost SPF50 (Daily Defender Lightweight Moisturiser) Nawilżający krem ochronny,,2,2,krem,"normalna, sucha, tłusta","nawilżające, ochronne, odżywcze",50
+510,Novaclear,"Urban Sunblock, Krem ochronny do twarzy skóra wrażliwa SPF50+ ",25.9,2.5,2,krem,normalna,"ochronne, nawilżające",50
+511,Babydream,Krem przeciwsłoneczny SPF 50+ (nowa wersja) ,,1.9,8,krem,"normalna, wrażliwa","nawilżające, ochronne",50
+512,La-Le,Krem ochronny z filtrem mineralnym UVA/UVB SPF 50 ,,2,1,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+513,Jantar,"Sun, Bursztynowy ochronny krem do twarzy SPF 50 ",,1.8,13,krem,z przebarwieniami,"ochronne, nawilżające",50
+514,Dax Sun,"Urban Adapt Complete Protection,  Intensywnie nawilżające ochronne mleczko do opalania SPF50 (UVA, UVB, IR, HEV) ",33.49,2,1,mleczko,"normalna, sucha","nawilżające, ochronne",50
+515,One.two.free!,Daily Sun Protection Fluid SPF 50 Krem  z filtrem,,2,1,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+516,Bielenda,"Bikini, Nawilżający lekki krem do opalania twarzy SPF 50 ",30.95,2,1,krem,"normalna, z przebarwieniami","ochronne, nawilżające",50
+517,La Roche-Posay,"Anthelios XL, Stick  SPF50+ Sztyft na miejsca wrażliwe",,1.5,2,,"wrażliwa, sucha, tłusta","ochronne, łagodzące",50
+518,Resibo,Team Sunscreen SPF 30 Krem nawilżający SPF 30,,2.3,22,krem,"normalna, sucha, alergiczna, wrażliwa","nawilżające, ochronne, regenerujące",30
+519,Vichy,"Capital Soleil, Anti-dark Spot 3-in-1 Tinted Daily Care SPF 50+ Krem koloryzujący przeciw przebarwieniom",,2,1,krem,z przebarwieniami,ochronne,50
+520,Uriage,Bariesun 100 Extreme Protective Fluid SPF50+ Bezzapachowy fluid ochronny do skóry bardzo wrażliwej i ze skłonnością do nietolerancji SPF 50+,,2,2,krem,wrażliwa,"ochronne, nawilżające",50
+521,La Roche-Posay,Anthelios Gel - Creme Toucher Sec SPF 30 PPD 19 [Dry Touch Gel - Cream] Żel - krem do twarzy suchy w dotyku - wysoka ochrona,,1.7,3,krem,"normalna, tłusta","nawilżające, ochronne, regenerujące, matujące",30
+522,SVR,"Sun Secure, Easy Stick SPF50+ Transparentny sztyft przeciwsłoneczny SPF50+",,2,7,,"normalna, alergiczna, wrażliwa",ochronne,50
+523,Floslek,"Sun Care, Krem-żel anti spot SPF 50 ",,1.4,5,krem,"normalna, tłusta, z przebarwieniami","ochronne, nawilżające",50
+524,Alphanova Sante,Sun BB Teintee  SPF 50 Krem BB  SPF 50,,2,1,krem,"normalna, tłusta",ochronne,50
+525,Cien,"Sun, Sensitive Sun Face Cream SPF 50 Krem do opalania do twarzy SPF 50 Sensitive do skóry wrażliwej",,4.3,13,krem,wrażliwa,ochronne,50
+526,Ultrasun,Anti-Pigmention Face Lotion SPF 50+ Ochronna emulsja do twarzy przeciw przebarwieniom,,2,1,krem,normalna,,50
+527,Kolastyna,"Anti-pollution, Ochronny krem do twarzy SPF 30 ",,2,1,krem,normalna,"ochronne, nawilżające",30
+528,Eau Thermale Avène,"Sun, Fluide Sport SPF50+ Fluid sportowy SPF 50+",,2,2,,"normalna, wrażliwa",ochronne,50
+529,Juice Beauty,Mineral Sheer Moisturizer SPF30 Ochronna nawilżająca emulsja do twarzy z SPF 30,,2,1,krem,,"nawilżające, regenerujące, odżywcze",30
+530,Paula's Choice,Extra Care Non-Greasy Sunscreen SPF50 Krem do twarzy i ciała (nowa wersja),,2,1,,"normalna, naczynkowa, z przebarwieniami",ochronne,50
+531,Eucerin,Sun Creme Sensitive Protect SPF 50+ Sensitive skin Krem ochronny do twarzy SPF50+,,1,1,krem,,,50
+532,Supergoop,Sheer Screen 100% Mineral Sunscreen Primer Filtr przeciwsłoneczny SPF 30 PA+++,,1,1,,,"ochronne, odżywcze",30
+533,La Roche-Posay,"Anthelios, UVmune 400 Tinted Fluid SPF50+ Koloryzujący fluid do twarzy z filtrem",85.99,1,1,krem,normalna,ochronne,50
+534,Whamisa,Sun Pact Natural Expression SPF 50+ Krem z filtrem do twarzy w poduszeczce,,1,1,krem,,ochronne,50
+535,SVR,Spray Sun Secure SPF 50+ Nawilżające mleczko w sprayu SPF50+,78.99,4.5,2,,normalna,"ochronne, nawilżające",50
+536,Alterra,Sonnencreme 30 Hoch Bio-Sonnenblume Krem z filtrem SPF 30 UVA,,1.3,3,krem,normalna,ochronne,30
+537,The Aromatica,Aloe Mineral Sunscreen SPF50/PA++++ Mineralny filtr słoneczny,,1,1,krem,normalna,"ochronne, nawilżające",50
+538,Etude,Sunprise Bye Sebum Sun Stick SPF50+/PA+++ Filtr  przeciwsłoneczny w sztyfcie,,1,1,,tłusta,"matujące, ochronne",50
+539,Mlle Agathe,Agathe Sun Soin Solaire Tres Haute Protection SPF 50 Krem przeciwsłoneczny ze śluzem ślimaka,,1,1,krem,"normalna, sucha","nawilżające, ochronne",50
+540,Drunk Elephant,Umbra Sheer Physical Daily Defence SPF 30 Filtr przeciwsłoneczny,,1,2,,,,30
+541,Nacomi,Sun Protection Emulsion SPF 15 Emulsja do opalania,,1,1,krem,"normalna, sucha","nawilżające, ochronne",15
+542,Uriage,"Bariesun, Tinted Cream SPF 50 Przeciwsłoneczny krem tonujący (nowa wersja)",,1,1,krem,normalna,ochronne,50
+543,Lovingeco,"Face Expert, Naturalny krem z filtrem SPF 30 ",,1,1,krem,normalna,"ochronne, nawilżające",30
+544,Lynia,SunShield SPF 50+ Moisturizing & Soothing Face Cream with Antioxidants Nawilżająco-łagodzący krem ochronny z antyoksydantami,86.9,1,2,krem,"normalna, sucha, z przebarwieniami","nawilżające, ochronne, łagodzące",50
+545,Bruno Vassari,"Sun Defense, Anti Age Sun Cream SPF30 Krem przeciwstarzeniowy ochronny",,,,krem,"normalna, z przebarwieniami","nawilżające, ochronne",30
+546,Clarins,"Sun , Mineral Sun Care Compact SPF 30 Mineralny fluid ochronny do twarzy SPF 30",,,,,normalna,ochronne,30
+547,Casmara Cosmetics,SPF50 Gel Cream Żel do twarzy SPF50,,,,żel,"normalna, sucha, tłusta","nawilżające, ochronne",50
+548,Q+A,Peptide Anti-Ageing Daily Sunscreen SPF50 Przeciwstarzeniowy krem przeciwsłoneczny z peptydem,85.99,4.8,41,krem,"tłusta, do wszystkich typów skóry","nawilżające, ochronne, regenerujące, odżywcze, wygładzające, uelastyczniające, ujędrniające",50
+549,Suntique,I'm Medi 100% Zinc Sun SPF50+/PA++++ Specjalistyczny filtr przeciwsłoneczny do skóry wrażliwej,,,,krem,"normalna, alergiczna, wrażliwa, naczynkowa, z przebarwieniami","ochronne, nawilżające",50
+550,Youth Lab.,Daily Sunscreen Cream SPF50 Ochronny krem do twarzy SPF50,129.0,,,krem,"do wszystkich typów skóry, z przebarwieniami","nawilżające, ochronne, odżywcze, uelastyczniające, przeciwzmarszczkowe, na przebarwienia",50
+551,HelloBody,"Sun, Face Cream SPF 50 Krem przeciwsłoneczny SPF 50",,,,krem,normalna,"ochronne, nawilżające",50
+552,L'Oreal Paris,"Bright Reveal, Daily Fluid Tinted Glow SPF 50+ Fluid ochronny z pigmentem SPF 50+",74.49,,,krem,z przebarwieniami,"ochronne, rozświetlające, nawilżające, na przebarwienia",50
+553,Australian Gold,Botanical Sunscreen Non-Greasy Mineral Lotion SPF50 Krem z filtrami mineralnymi,,,,krem,"normalna, sucha, tłusta",ochronne,50
+554,Shiseido,"Expert Sun, Protector Cream SPF30 Wodoodporny krem do opalania twarzy SPF 30",,,,krem,do wszystkich typów skóry,"ochronne, wzmacniające",30
+555,Nivea,"Sun, UV Face Specialist, Invisible Daily Fluid + Anti-Oxidants SPF 50+ Ultralekki filtr przeciwsłoneczny SPF 50+",,,,krem,"tłusta, odwodniona, sucha, do wszystkich typów skóry","nawilżające, ochronne, łagodzące, matujące",50
+556,Abib,"Heartleaf Sun Essence, Calming Drop SPF50 PA++++ Esencja ochronna do twarzy",90.94,,,płyn,"wrażliwa, do wszystkich typów skóry","nawilżające, ochronne, łagodzące, regenerujące",50
+557,Olay,"Regenerist, UV Defense Regenerating Lotion SPF 50 Lekki krem - serum nawilżające na dzień",,,,krem,,"nawilżające, ochronne, łagodzące, regenerujące",50
+558,Alma Babycare,Baby & Kids Suncream SPF50 Krem przeciwsłoneczny dla dzieci SPF50,,,,krem,"wrażliwa, odwodniona, sucha","ochronne, regenerujące, odżywcze, nawilżające",50
+559,Tołpa,"Dermo Face, Sebio+, Krem fotoochronny SPF50+ ",,,,krem,"trądzikowa, z przebarwieniami","matujące, ochronne, łagodzące, przeciwtrądzikowe , na przebarwienia",50
+560,Hello Sunday,"The Take-Out One, Invisible Sun Stick SPF30 Ochronny sztyft do twarzy SPF30",99.9,,,krem,"sucha, normalna","nawilżające, ochronne, odżywcze",30
+561,Uriage,"Bariesun, Moisturizing Dry Mist SPF 50+ Nawilżająca mgiełka ochronna",,,,,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+562,Bambo Nature,High Protection Sun Screen SPF30 Rodzinny krem ochronny,,,,krem,"normalna, wrażliwa",ochronne,30
+563,Nimue,"Sun-C, SPF 40 Krem ochronny z filtrem",,,,krem,,ochronne,40
+564,bebeauty,"Sensitive, Solar Face Cream SPF50+ Cera wrażliwa, Krem ochronny do twarzy",,4,5,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące",50
+565,11 Village Factory,Daily Fresh Sun Stick SPF 50+ Sztyft przeciwsłoneczny do twarzy,128.9,,,,tłusta,"matujące, ochronne",50
+566,Ella Bache,"Nutridermologie Lab, Daily UV Defense SPF 50+ Krem ochronny do twarzy SPF 50+",,,,krem,normalna,"nawilżające, matujące, ochronne",50
+567,Dr. Jart+,Every Sun Day Tone-Up Sun Fluid SPF50+/PA++++ Ochronny fluid tonujący,,,,krem,"normalna, tłusta","ochronne, łagodzące",50
+568,Skeyndor,"Sun Expertise, Tanning Control Cream SPF 20 Krem ochronny do twarzy wodoodporny",,,,krem,normalna,ochronne,20
+569,AA,"Aloe, Nawilżająco-rozświetlająca mgiełka do twarzy SPF50 ",,,,płyn,"odwodniona, sucha","nawilżające, ochronne, łagodzące, rozświetlające",50
+570,Anthyllis,"Eco Bio, Crema Solare Water Resistant SPF 30 Wodoodporny krem przeciwsłoneczny SPF 30",,,,krem,"normalna, wrażliwa, sucha, atopowa, z przebarwieniami","ochronne, łagodzące, odżywcze, nawilżające",30
+571,Vianek,"Seria Zielona, Normalizujący krem ochronny do twarzy SPF 50 ",,5,1,krem,"normalna, tłusta","ochronne, nawilżające, matujące",50
+572,Innisfree,Daily UV Defense SunscreEn SPF30 Codzienny krem przeciwsłoneczny do twarzy SPF 30,,,,krem,,"nawilżające, ochronne, łagodzące",30
+573,L'Erbolario,"Solare, Crema Solare Viso con Aloe Vera & Macadamia  SPF 25 Krem do twarzy przeciw oznakom starzenia",,,,krem,"odwodniona, sucha","ochronne, nawilżające",25
+574,Thank you Farmer,Sun Project Shimmer Sun Essence  SPF30+ PA++ Esencja przeciwsłoneczna do twarzy,107.0,,,,,"nawilżające, ochronne",30
+575,Korres,Yoghurt Sunscreen Face Cream- Gel  SPF30 Krem - żel ochronny do twarzy SPF30,117.5,4.5,2,krem,wrażliwa,"nawilżające, ochronne, matujące, proteinowe",30
+576,Innoaesthetics,"Inno-Epigen, Total Urban Day Cream SPF20 Przeciwstarzeniowy krem na dzień o podwójnym działaniu SPF20",,,,krem,"sucha, normalna, tłusta","nawilżające, ochronne, wygładzające, uelastyczniające",20
+577,Mermade,Peach Beach Oil SPF 6 Olejek do opalania SPF 6,,,,płyn,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",6
+578,Maria Galland,97 Anti-pollution Veil SPF 30 Krem ochronny antysmogowy SPF 30,,,,krem,normalna,ochronne,30
+579,Coola,Refreshing Water Cream SPF 50 Krem do opalania,,,,krem,"wrażliwa, sucha, tłusta","nawilżające, ochronne, łagodzące",50
+580,Herla,"Active, Protectives, All - Year Protective Cream SPF 50 Krem ochronny SPF 50",,,,krem,wrażliwa,"nawilżające, ochronne",50
+581,Swanicoco,Daily Soft Sun Milk SPF50+/PA++++ Mleczko ochronne do twarzy,,,,,"normalna, tłusta, z przebarwieniami","ochronne, regenerujące, przeciwzmarszczkowe",50
+582,Acwell,Solar Defense Licorice C Blemish Sun Stick SPF 50 PA++++ Krem w sztyfcie z filtrem SPF50,,,,krem,"dojrzała, normalna, sucha","przeciwzmarszczkowe, ochronne, rozświetlające, nawilżające, ujędrniające",50
+583,Nivea,"Sun, Face Anti-Age & Anti-Pigment Flecken Sonnenschutz  SPF30 Krem ochronny z SPF 30 przeciwstarzeniowy i przeciw plamom",,,,krem,"wrażliwa, tłusta","matujące, ochronne, nawilżające",30
+584,Cliv Premium,Hyaluronic Soothing Sun Cushion Kojący cushion do twarzy z kwasem hialuronowym i SPF50+/PA++++,82.89,4.5,4,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, łagodzące, kojące",50
+585,It's Skin,Tiger Cica Green Chill Down Sun Gel SPF 50+ PA ++++ Żel przeciwsłoneczny,,,,żel,normalna,ochronne,50
+586,About Me,"Be Clean, Relief Sun SPF50+ PA++++ Lekki krem z filtrami fizycznymi",,2,2,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, łagodzące, wygładzające, regenerujące",50
+587,Kimoco Beauty,"Glass Skin, Luminous Dew SPF 50+ PA++++ Krem do twarzy z filtrem SPF 50+ PA++++",,,,krem,"odwodniona, sucha","ochronne, rozświetlające, nawilżające",50
+588,Eau Thermale Avène,Cleanance Tinted Unifiant SPF50+ Krem ochronny SPF50+,108.49,,,,tłusta,"ochronne, koloryzujące",50
+589,Mesoestetic,Photoprotection Solutions Mesoprotech Moisturising Sun Protection SPF 50+ Krem przeciwsłoneczny,,,,,normalna,"ochronne, nawilżające",50
+590,Korres,Red Grape Sheer Glow Daily Sunscreen Face Cream SPF50 Rozświetlający krem ochronny do twarzy z filtrem SPF50,140.5,5,3,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne",50
+591,CERA+ Solutions,Mineralny krem ochronny SPF50+ ,35.9,5,1,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, łagodzące",50
+592,RoC,"Soleil-Protect, Anti-Wrinkle Smoothing Fluid SPF50 Fluid ochronno-wygładzający",,,,,"normalna, sucha, tłusta","nawilżające, ochronne",50
+593,Bioderma,Photoderm Aquafluide Invisible SPF 50+ Bezbarwny fluid ochronny do twarzy SPF 50+,68.49,5,1,krem,normalna,ochronne,50
+594,Perfecta,"Skin by Małgorzata Kożuchowska, Krem ochronny do twarzy, szyi i dekoltu SPF50+ ",39.9,,,krem,"sucha, tłusta, z przebarwieniami","nawilżające, ochronne, relaksujące/aromaterapeutyczne, regenerujące",50
+595,Caudalie,Anti-Wrinkle Face Suncare SPF30 Przeciwzmarszczkowy i przeciwsłoneczny krem do twarzy,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",30
+596,Equilibra,"Aloe, Crema Solare Viso Anti-Age SPF50+ Przeciwzmarszczkowy krem do twarzy SPF50+",,,,krem,,"nawilżające, ochronne",50
+597,Sesderma,"Repaskin, Urban 365, Sensitive Skin, Przeciwsłoneczny krem do skóry wrażliwej SPF50+ ",,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, łagodzące, uelastyczniające, regenerujące",50
+598,Apis,"Pure Sun Care, Ochronny krem do twarzy SPF50+ ",,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, odżywcze, regenerujące",50
+599,La-Le,Krem ochronny z filtrem mineralnym UVA/UVB  SPF 50 `Róża - malina` ,,,,krem,"młoda, sucha, odwodniona","ochronne, nawilżające, wygładzające, uelastyczniające, regenerujące, koloryzujące",50
+600,Australian Gold,"Fresh & Cool, Spray Gel Sunscreen SPF 30 Chłodzący żel do opalania",,,,żel,"normalna, tłusta","nawilżające, ochronne, łagodzące",30
+601,Ph. Doctor Dermocosmetics,"Sunset AR, Krem do twarzy z filtrem SPF 50+ ",,3.2,10,krem,"wrażliwa, z przebarwieniami, naczynkowa","nawilżające, ochronne, łagodzące, regenerujące, rozświetlające, koloryzujące",50
+602,Some by MI,"V10 Hyal, Antioxydant Sunscreen SPF50+PA++++ Nawilżający krem do twarzy z SPF50+PA++++",81.9,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, łagodzące",50
+603,Eucerin,"Sun, Creme Tinted Photoaging Control SPF 50+ Krem do opalania SPF 50+",,,,krem,"wrażliwa, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+604,Ladival,Anti-aging & Dark Spots Sunscreen SPF 30 Krem do opalania do twarzy SPF 30,,,,krem,"normalna, sucha","nawilżające, ochronne, regenerujące",30
+605,Torriden,"Dive In, Mild Sun Cream SPF50+PA++++ Nawilżający krem ochronny do twarzy SPF50+PA++++",71.5,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, uelastyczniające",50
+606,Suntique,I’m Tone Up Multi Base SPF 50+/PA++++ Tonujący krem przeciwsłoneczny,,,,,normalna,"ochronne, nawilżające",50
+607,Academie,"Sun Protection, Sun Stick Sensitive Areas SPF 50+ Sztyft ochronny do miejsc wrażliwych SPF 50+",,,,,"wrażliwa, tłusta","nawilżające, ochronne, łagodzące",50
+608,Diego Dalla Palma,Sun Shine Protective Face Cream Anti-Age SPF 30 Anty-starzeniowy Krem do twarzy SPF 30,,,,krem,normalna,ochronne,30
+609,MesoBoost,"Ultimate Protection, Face Cream SPF50 Krem do twarzy z SPF50",,,,krem,"młoda, odwodniona, sucha","nawilżające, ochronne, łagodzące, na swędzącą skórę",50
+610,Suntribe,Sports Zinc Stick SPF 30 Krem z cynkiem i SPF 30 dla sportowców,,,,krem,normalna,"ochronne, nawilżające",30
+611,Resibo,"Our Lightest, Ultra Light Antioxidant Face Cream SPF 50 Ultralekki krem do twarzy z antyoksydantami SPF 50",129.99,,,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, wygładzające",50
+612,Soul Surfer,Clean Sunscreen SPF 50+ Mineralny krem ochronny do twarzy,,,,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, regenerujące, odżywcze, rozświetlające, wygładzające",50
+613,Estee Lauder,"Perfectionist, Pro Multi-Defense UV Fluid SPF 45 Fluid przeciwsłoneczny",,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",45
+614,Missha,"Cotton Sun, Krem Ochronny SPF50+ ",49.99,4,1,krem,"odwodniona, sucha","nawilżające, matujące, ochronne",50
+615,Suntique,I'm Cover BB Sunstick SPF50+/PA+++ Krem BB w sztyfcie,,,,,"normalna, z przebarwieniami","ochronne, nawilżające",50
+616,The Yeon,Vita Fresh Gel Sunscreen SPF50+ Krem przeciwsłoneczny z filtrem UV,,,,krem,normalna,"ochronne, nawilżające",50
+617,Colorescience Pro,"Sunforgettable, Total Protection Face Shield Matte SPF50 Lekki krem ochronny do twarzy SPF50",,,,krem,"mieszana, tłusta, trądzikowa","matujące, ochronne, wygładzające, na rozszerzone pory",50
+618,Holika Holika,Mild Sun Family Lotion  UV SPF 50 PA ++++ Łagodny krem przeciwsłoneczny z wysokim filtrem UV SPF 50 dla całej rodziny,,,,krem,"normalna, z przebarwieniami","nawilżające, ochronne, przeciwzmarszczkowe",50
+619,Soleil Toujours,Clean Conscious Set + Protect Micro Mist SPF 30 Krem do opalania twarzy,,,,,"normalna, wrażliwa","matujące, ochronne, nawilżające",30
+620,La Roche-Posay,"Anthelios, UVmune 400 Dermo-Pediatrics Invisible Fluid SPF50+ Niewidoczny fluid do twarzy SPF50+",97.99,,,krem,"tłusta, wrażliwa",ochronne,50
+621,Missha,All Around Safe Block Aqua Sun Stick SPF 50 Krem przeciwsłoneczny do twarzy w sztyfcie,,,,krem,"odwodniona, sucha","ochronne, nawilżające",50
+622,Thank you Farmer,Safe Sun Fliud Age 0880 SPF50+/PA++++ Emulsja przeciwsłoneczna z filtrami UV,,,,balsam,,"nawilżające, ochronne, łagodzące, kojące",50
+623,Skin & Lab,Hybarrier Fresh Sun Lotion SPF50+ PA++++ Nawilżający balsam z filtrem przeciwsłonecznym,,,,balsam,"odwodniona, tłusta, wrażliwa, sucha","nawilżające, ochronne",50
+624,L'Erbolario,"Solare, Crema Solare Viso, Con Estratto Di Germogli Di Girasole E Olio Di Dattero Del Deserto Krem do twarzy SPF50",,,,krem,,"ochronne, odżywcze, nawilżające",50
+625,Tony Moly,"UV Master, Aqua Sun Gell SPF50+ PA++++ Żel przeciwsłoneczny do twarzy",,,,żel,normalna,"ochronne, nawilżające",50
+626,HERA,Sun Mate Daily SPF35PA++ Krem ochronny z filtrem - wysoka ochrona,,,,krem,wrażliwa,"ochronne, regenerujące",35
+627,Tia'm,Daily Sun Care Cream SPF 50+ PA ++++ Codzienny krem przeciwsłoneczny,,,,krem,"normalna, trądzikowa","ochronne, nawilżające",50
+628,RoC,Soleil Protexion+ Haute High Tolerance Creme Solaire Visage SPF 50+ Krem ochronny do skóry wrażliwej,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+629,Q+A,Squalane Hydrating Daily Sunscreen SPF50 Nawilżający krem przeciwsłoneczny ze skwalanem,,4.9,42,krem,"sucha, tłusta, odwodniona","nawilżające, ochronne, łagodzące, regenerujące, odżywcze",50
+630,Tenzero,"Hyaluronic Acid, Moisturizing Sun SPF50+ PA++++ Przeciwsłoneczny krem do twarzy z filtrem SPF50",,,,krem,"wrażliwa, odwodniona, sucha, dojrzała","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",50
+631,Maru Derm,Anti Blemish Sun Cream SPF50+PA++++ Krem do twarzy przeciw przebarwieniom SPF50+,49.99,,,krem,"tłusta, wrażliwa, z przebarwieniami, trądzikowa","matujące, ochronne, łagodzące, na przebarwienia",50
+632,La-Le,Krem ochronny z filtrem mineralnym UVA/UVB SPF 30 (nowa wersja) ,,,,krem,"odwodniona, sucha","ochronne, nawilżające, regenerujące",30
+633,Klairs,All Day Airy Sunscreen SPF50+ PA++++ Ochronny krem do twarzy SPF50+ PA++++,99.9,,,krem,"dojrzała, normalna, sucha","nawilżające, ochronne, przeciwzmarszczkowe",50
+634,Bioderma,Photoderm Cover Touch Anti-Brillance/Anti-Shine Fluid SPF 50+ Fluid koloryzujący z filtrem do twarzy SPF 50+,65.99,4,1,krem,"normalna, tłusta","ochronne, matujące",50
+635,Banila Co.,"Hello Sunny, Essence Sun Stick SPF50+ Fresh Krem do opalania w sztyfcie",99.9,,,krem,normalna,ochronne,50
+636,Dermacol,"Sun, High SPF Sun Water Resistant Sun Cream & Lip Balm SPF 30 Wodoodporny krem do opalania twarzy z balsamem do ust SPF 30",,,,krem,normalna,ochronne,30
+637,Enesti,UV Cut Sun Block SPF50+PA+++ Krem z filtrem,,2,1,krem,normalna,ochronne,50
+638,Skinvisibles,Glow Sense Fluid SPF 50 Krem do twarzy z ochroną przeciwsłoneczną,,,,,"wrażliwa, sucha, tłusta","nawilżające, ochronne, łagodzące",50
+639,Evy,Sunscreen Mousse SPF10 Krem przeciwsłoneczny w piance,,,,pianka,"normalna, sucha",ochronne,10
+640,Mario Badescu Skin Care,Mineral Sunscreen SPF30 Mineralny krem przeciwsłoneczny SPF30,,5,1,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące, kojące",30
+641,Clarins,"Stick Solaire Special, Zone Sensibles SPF 30 [Sun Control Stick For Sun-Sensitive Areas] Sztyft do opalania miejsc szczególnie wrażliwych",,,,,wrażliwa,ochronne,30
+642,Jan Marini,Marini Physical Protectant Untinted SPF 30 Krem ochronny,,,,krem,"mieszana, normalna, sucha, tłusta","ochronne, nawilżające",30
+643,Sielanka,"Peonia, Nawilżający krem  SPF50 ",,5,3,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne",50
+644,Mantle,"The Daily Shield, Advanced-Sun Protective Moisturiser SPF50+ Nawilżająco-ochronny krem do twarzy SPF50+",,,,krem,do wszystkich typów skóry,"ochronne, odżywcze, nawilżające",50
+645,Eveline Cosmetics,"Sun Expert Argan Oil, Wodoodporny krem do twarzy SPF 30 (nowa wersja) ",,,,krem,"normalna, wrażliwa","ochronne, nawilżające",30
+646,Jantar,"Sun, Bursztynowy krem dla dzieci od 3. roku życia SPF 50 ",27.95,,,krem,"młoda, odwodniona, sucha","nawilżające, ochronne, odżywcze, uelastyczniające, koloryzujące, regenerujące, wzmacniające",50
+647,La Roche-Posay,"Anthelios XL, Tinted Dry Touch Gel - Cream SPF50 Żel - krem barwiący suchy w dotyku",,,,żel,"normalna, wrażliwa, tłusta, z przebarwieniami","matujące, ochronne",50
+648,Nimue,"Sun-C, Tinted SPF 40 Barwiony krem ochronny z filtrem",,,,krem,,ochronne,40
+649,Missha,"Safe Block RX, Zinc Tone Up Sun SPF50 PA++++ Krem ochrony do twarzy",,,,,normalna,ochronne,50
+650,Oskia,SPF 30 Vitamin Face Cream Krem przeciwsłoneczny,,,,krem,"normalna, z przebarwieniami","ochronne, nawilżające",30
+651,Topicrem,Ultra-Moisturizing Cream SPF 50+ Krem do opalania SPF 50+ do twarzy,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące",50
+652,Ecooking,Sunscreen For The Face SPF30 Krem do twarzy z ochroną SPF 30,,,,,normalna,"nawilżające, ochronne",30
+653,Ultrasun,"Extreme, Very High Protection Gel SPF50+ Sensitive Skin Wysoko ochronny żel do twarzy i ciała skóra wrażliwa",,,,żel,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+654,Institut Esthederm,No Sun Krem ochronny z filtrami mineralnymi.,,,,krem,wrażliwa,ochronne,
+655,Eau Thermale Avène,"Cleanance, SPF 50+ Mattifying Sunscreen Emulsja do skóry trądzikowej z ultrawysoką ochroną UV (nowa wersja)",,,,krem,"normalna, trądzikowa","ochronne, matujące",50
+656,Vianek,"Seria Niebieska, Nawilżający krem ochronny do twarzy SPF 50 ",,4.2,5,krem,normalna,"nawilżające, ochronne",50
+657,Primark,"PS... Sun, Face Milk SPF50 Mleczko do twarzy do opalania SPF50",,,,mleczko,normalna,"nawilżające, ochronne",50
+658,Nivea,UV Deep Protect & Care Gel SPF 50+ PA++++ Żel przeciwsłoneczny,,,,żel,"normalna, z przebarwieniami","ochronne, nawilżające",50
+659,Tocobo,Cotton Soft Sun Stick SPF50+ PA++++ Sztyft do opalania,70.85,,,,normalna,"ochronne, nawilżające",50
+660,Etre Belle,Multi Protection Sun Cream SPF50 Krem przeciwsłoneczny,,,,krem,wrażliwa,"nawilżające, ochronne",50
+661,Oriflame,"Sun 360, Sun Stick Body + Face SPF 30 Sztyft przeciwsłoneczny SPF 30",,,,,normalna,"nawilżające, ochronne",30
+662,Babe Laboratorios,"Sun Protection, Super Fluid Color, Mattifying Sunscreen SPF50 Matująco-koloryzujący ochronny fluid do twarzy SPF50",,,,krem,"sucha, tłusta, normalna","matujące, ochronne, wygładzające, uelastyczniające, nawilżające, regenerujące, przeciwzmarszczkowe",50
+663,Holika Holika,Moisture Make Up Sun Cream SPF 50+ PA++++ Przeciwsłoneczny krem ujednolicający do twarzy,,,,krem,normalna,ochronne,50
+664,Bema Cosmetici,Crema Solare SPF 30 Krem z filtrem SPF 30,,,,krem,"normalna, z przebarwieniami","ochronne, nawilżające",30
+665,Perfecta,"Emolic Baby, Emolientowy krem ochronny całoroczny SPF50 ",19.95,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, zmiękczające, wygładzające, regenerujące, natłuszczające, łagodzące",50
+666,Thank you Farmer,Sun Project Water Sun Cream SPF50 Krem ochronny do twarzy SPF50,108.99,,,krem,"do wszystkich typów skóry, normalna, sucha","nawilżające, ochronne",50
+667,Eco Cosmetics,"Eco Young, Ey! Sun Spray SPF 20 Spray na słońce SPF 20",,4,1,krem,"normalna, wrażliwa, sucha",ochronne,20
+668,Mizon,"Inout, Watery Sheer Sunscreen SPF50 PA++++ Krem z filtrem do twarzy SPF50 PA++++",,,,krem,"sucha, tłusta, odwodniona, normalna","nawilżające, ochronne, kojące, łagodzące",50
+669,Medi Peel,"Aqua Mooltox, Water-Fit Sun Serum SPF50+ PA++++ Przeciwsłoneczne serum do twarzy z filtrem UV",,,,żel,"odwodniona, sucha","nawilżające, ochronne, łagodzące, odżywcze, uelastyczniające, wzmacniające",50
+670,Plodica,"Watermelon, Moisture Sun Cream SPF30+ PA++++ Arbuz, Nawilżający krem do twarzy SPF30+ PA++++",,,,krem,"sucha, odwodniona","nawilżające, ochronne, łagodzące, regenerujące, odżywcze",30
+671,Bondi Sands,Hydra UV Protect SPF50+ Face Fluid Nawilżająco-ochronny lekki fluid do twarzy,,,,,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+672,Sun Dance,"Sun Creme, SPF50 Krem do opalania SPF50",,,,krem,"normalna, sucha","nawilżające, ochronne",50
+673,Clarena,"Sensi Peptide Line, Solar Shield SPF50 Ochronny krem do twarzy SPF50",,,,krem,"wrażliwa, z przebarwieniami, naczynkowa","nawilżające, ochronne, odżywcze, łagodzące",50
+674,Piz Buin,Allergy Sun Sensitive Skin Face Cream 50+ SPF Krem do opalania twarzy 50+ SPF,,,,,,"ochronne, nawilżające",
+675,CeraVe,Hydrating Sunscreen Face Lotion SPF 30 Nawilżający balsam do twarzy z filtrem przeciwsłonecznym SPF 30,,,,krem,normalna,"nawilżające, ochronne",30
+676,RVB Lab,Microbioma Daily Protection Cream SPF50 Lekki pre-probiotyczny krem ochronny SPF50,,,,krem,,ochronne,50
+677,SunOzon,"Beach Tour, Ipanema, Sun Fluid SPF30 Fluid przeciwsłoneczny SPF30",,5,1,krem,tłusta,"ochronne, matujące, nawilżające",30
+678,Lebelage,"Perfect Care, Moisture Aqua, Sun Cream SPF50+ PA++++ Nawilżający krem do twarzy z SPF50+PA++++",,,,krem,"mieszana, normalna, odwodniona, sucha, tłusta","nawilżające, ochronne, wygładzające, uelastyczniające",50
+679,Missha,"Safe Block RX, All Powerful Sun SPF50 PA++++ Krem ochrony",,,,krem,normalna,"nawilżające, ochronne",50
+680,Ziaja,"Med, Przeciwsłoneczny krem do twarzy SPF50 ",,,,krem,wrażliwa,ochronne,50
+681,Universkin,Nexultra Z Mineral Sunscreen Emulsion SPF 50 Krem z filtrem przeciwsłonecznym SPF 50,,,,,"wrażliwa, tłusta",ochronne,50
+682,Sun Dance,"Med, Ultra Sensitiv, Sun Gel Cream SPF50+ Żel-krem do opalania SPF50+",,4,1,"żel, krem","trądzikowa, tłusta, wrażliwa","ochronne, łagodzące, nawilżające",50
+683,Artemis of Switzerland,More than SPF( serum do twarzy SPF 25) ,,,,serum,,"nawilżające, ochronne",25
+684,Cell Fusion C,Advanced Clear Sunscreen SPF 48/PA+++ Krem z filtrem słonecznym SPF 48/PA +++,,4,1,,"trądzikowa, z przebarwieniami","ochronne, przeciwzmarszczkowe, nawilżające",48
+685,Madara Organic Skincare,Pro-Active Sunscreen Stick SPF 50 Sztyft ochronny z filtrem SPF 50,,,,żel,"normalna, sucha, tłusta","nawilżające, ochronne",50
+686,Routines by Alkmie,Krem SPF 50 ,,4.6,107,krem,"normalna, mieszana, sucha, wrażliwa","nawilżające, ochronne, regenerujące, ujędrniające",50
+687,A-Derma,"Protect, Cream SPF 50+ Krem ochronny do skóry normalnej i suchej SPF 50+",,,,krem,sucha,"nawilżające, ochronne, regenerujące",50
+688,Soleil Toujours,Shimmer Oil Sunscreen SPF 30 Krem do opalania,,,,krem,normalna,"nawilżające, ochronne",30
+689,Garnier,"Vitamin C, Invisible Brightening UV Mist SPF50+ Mgiełka UV do twarzy SPF50+",,,,płyn,z przebarwieniami,"ochronne, rozświetlające, na przebarwienia",50
+690,Back To Comfort,"SOD-C, Mineralny krem ochronny SPF30 ",,4,1,krem,"młoda, odwodniona, sucha, dojrzała","ochronne, regenerujące, nawilżające",30
+691,Revuele,"Hyaluronic, Daily Sun, Face Mist SPF30 Ochronna mgiełka do twarzy SPF30",,,,płyn,do wszystkich typów skóry,"nawilżające, ochronne",30
+692,Synchroline,"Sunwards Face, Face - Neck Cream SPF 50+ Krem do twarzy z wysokim filtrem SPF 50+",,,,krem,normalna,"nawilżające, ochronne, przeciwzmarszczkowe",50
+693,Laneige,Watery Sun Cream SPF50+ PA++++ Nawilżający krem z filtrem przeciwsłonecznym,,4,1,krem,,"regenerujące, koloryzujące, nawilżające",50
+694,Neoderma,Blue Blood Face Sunscreen SPF30 Krem do twarzy ochronny,,,,krem,,"ochronne, nawilżające",30
+695,Kolastyna,"Sun, Rozświetlający fluid UV SPF50+ ",,,,krem,"tłusta, z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, wygładzające, uelastyczniające, rozświetlające, przeciwzmarszczkowe, na przebarwienia",50
+696,Novaclear,Urban Sunblock. Ochronny krem do twarzy dla cery suchej SPF50 ,,,,krem,"sucha, tłusta, normalna","nawilżające, ochronne, łagodzące, matujące",50
+697,Hello Sunday,"The Matte One, Oil Control Moisturizer SPF50 Nawilżająco-matujący krem do twarzy SPF50",99.9,,,krem,"trądzikowa, tłusta","nawilżające, matujące, ochronne",50
+698,Holika Holika,Moisture Sun Gel SPF 50 PA ++++ Delikatny żel przeciwsłoneczny z wysokim filtrem UV bogaty w składniki naturalne.,,,,żel,"normalna, tłusta, z przebarwieniami","ochronne, przeciwzmarszczkowe, nawilżające",50
+699,Salfeme,"Solarfeme, Ochronny krem do twarzy SPF 50+ ",,3,1,krem,,"ochronne, odżywcze, nawilżające",50
+700,La Roche-Posay,"Anthelios, UVmune 400 Anti- Dark Spots Fluid SPF50+ Fluid przeciw przebarwieniom SPF50+",,,,krem,"tłusta, wrażliwa, z przebarwieniami","nawilżające, ochronne, na przebarwienia",50
+701,CERA+ Solutions,Krem ochronny na przebarwienia SPF 50 ,39.9,5,1,krem,"naczynkowa, wrażliwa, z przebarwieniami","nawilżające, ochronne",50
+702,The Face Shop,Natural Sun Eco Power Long Lasting Sun Cream Długotrwały krem z filtrem,,,,krem,normalna,"nawilżające, matujące, ochronne, łagodzące",
+703,Tony Moly,"UV Master, Airism Sun Stick SPF50+ PA++++ Filtr przeciwsłoneczny",,,,,"normalna, sucha, tłusta, alergiczna, wrażliwa","nawilżające, ochronne, łagodzące, przeciwzmarszczkowe",50
+704,Nivea,"Sun, Sensitive Krem ochronny do twarzy dla skóry wrażliwej SPF 50",43.92,4.5,104,krem,wrażliwa,"nawilżające, ochronne",50
+705,Cafe Mimi,"Sun Care, Przeciwsłoneczny krem do twarzy i ciała SPF 15+ ",,,,krem,normalna,"nawilżające, ochronne",15
+706,Oriflame,"Sun 360, Lotion Body + Face SPF 30 Balsam do opalania SPF 30",,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",30
+707,Q+A,Niacinamide Balancing Daily Sunscreen SPF50 Równoważący krem przeciwsłoneczny z niacynamidem,85.99,4.7,46,krem,"mieszana, tłusta","nawilżające, ochronne, łagodzące, kojące",50
+708,Lille Kanin,SPF30 Sunscreen For Face Krem przeciwsłoneczn,,4,1,,,"nawilżające, ochronne",30
+709,Clarins,Dry Touch Sun Care Cream 50+ Krem do opalania twarzy UVA/UVB SPF 50+,,3,2,krem,"odwodniona, sucha","nawilżające, ochronne, matujące",50
+710,Evy,Daily Repair Mousse Pianka ochronna,,,,pianka,"normalna, wrażliwa, sucha","nawilżające, ochronne",
+711,AA,"LAAB, S.M.A.R.T. Dermohacking Program, Skin-guard krem SPF 50+ ",,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, regenerujące, odżywcze, rozświetlające, wygładzające, uelastyczniające, przeciwzmarszczkowe",50
+712,Galenic,"Aqua Urban, Bouclier Invisible SPF50+  [Invisible Shield] Niewidzialna ochrona SPF50+",,,,krem,z przebarwieniami,ochronne,50
+713,Uriage,"Bariesun, Ultra-Light Fluid SPF50+ Ultralekki krem ochronny z witaminą C",,5,1,krem,"normalna, wrażliwa","ochronne, łagodzące, nawilżające",50
+714,Good Molecules,Sheer Mineral Sunscreen SPF30 Krem przeciwsłoneczny,,,,krem,normalna,"ochronne, nawilżające",30
+715,100% Pure,Tomato Lycopene Moisturizer SPF 20 Krem ochronny,,,,krem,normalna,"ochronne, nawilżające",20
+716,Eau Thermale Avène,Ultra Fluid Perfector SPF50+ Ultra Fluid wyrównujący koloryt skóry,97.99,4.3,115,emulsja,wrażliwa,"matujące, ochronne, koloryzujące, wygładzające",50
+717,A'pieu,"Super Air Fit Mild Sunscreen SPF50+ PA++++, Hydrating Nawilżający krem przeciwsłoneczny z filtrem UV",,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+718,Rodial,SPF50 Drops Płynny filtr do twarzy w kroplach,,,,,normalna,"nawilżające, ochronne",50
+719,Babor,Protecting Balm SPF50 Ochronny balsam do twarzy SPF 50,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące",50
+720,Uriage,"Bariersun, Anti-Brown Spot Fluid SPF50+ Fluid przeciw przebarwieniom",67.99,,,,"normalna, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+721,Estgen,Tarcza ochronna SPF50 ,,,,krem,do wszystkich typów skóry,"ochronne, łagodzące, regenerujące",50
+722,Revuele,"Aloe, Daily Sun, Face Mist SPF30 Ochronna mgiełka do twarzy SPF30",,,,płyn,do wszystkich typów skóry,"nawilżające, ochronne",30
+723,Paese,Ultra-Light Protective Mist Over Make-Up SPF50 Ultralekka mgiełka ochronna na makijaż SPF50,49.24,,,płyn,wrażliwa,"nawilżające, ochronne",50
+724,Frudia,"Solar, Avocado Greenery Relief, Sun Cream SPF50+ Ochronny krem do twarzy SPF50+",,,,krem,do wszystkich typów skóry,ochronne,50
+725,Embryolisse Laboratoires,"High Protection, Sun Cream SPF50 PA+++ Przeciwsłoneczny krem do twarzy",,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, odżywcze, uelastyczniające",50
+726,Nivea,Luminous Sun Fluid SPF 50 Krem przeciwsłoneczny do twarzy,,4.5,2,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+727,Cosrx,Vitamin E Vitalizing Sunscreen SPF50+ Krem ochronny z witaminą E,,3,1,krem,"normalna, sucha, tłusta",ochronne,50
+728,3ina,The Every Single Day SPF 50 Krem przeciwsłoneczny z filtrem SPF50,,,,,"normalna, sucha",nawilżające,50
+729,Lancaster,"Sun Beauty, Sublime Tan Face Cream SPF30 Krem do opalania twarzy SPF30",119.77,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, odżywcze",30
+730,Glow Recipe,"Watermelon Glow, Dew Balm with Niacinamide Broad Spectrum SPF30 Sunscreen Nawilżający ochronny balsam w sztyfcie do twarzy SPF30",,,,balsam,"sucha, normalna","nawilżające, ochronne, rozjaśniające",30
+731,Essente,Lamellar  Day Cream SPF 50 Krem przeciwsłoneczny lamelarny,,,,krem,,ochronne,50
+732,Skin Minimalism,Sun Protection Cream SPF50+ Ochronny krem do twarzy SPF50+,,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, uelastyczniające, przeciwzmarszczkowe",50
+733,is clinical,Extreme Protect Sunscreen Creme SPF 40 Nawilżający krem z ochroną przeciwsłoneczną SPF 40,,,,krem,normalna,"nawilżające, ochronne",40
+734,Cell Fusion C,Derma Relief Sunscreen 100 SPF 50+ Krem przeciwsłoneczny do skóry wrażliwej z SPF100,,,,krem,"sucha, wrażliwa, odwodniona","ochronne, zmiękczające, nawilżające, wygładzające",50
+735,11 Village Factory,Daily Mild Sun Fluid Przeciwsłoneczny fluid do twarzy,131.9,,,krem,sucha,"nawilżające, ochronne, regenerujące, na swędzącą skórę",
+736,Evy,Sunscreen Mousse SPF50 Krem przeciwsłoneczny w piance,,5,1,pianka,"normalna, sucha, tłusta",ochronne,50
+737,Gamarde,Fluide Solaire SPF 30 Emulsja do opalania do twarzy i ciała,,,,emulsja,normalna,nawilżające,30
+738,BePlain,Clean Ocean Non-Nano Mild Sunscreen SPF50+ Lekki Krem Przeciwsłoneczny,,,,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+739,HaruHaru,Wonder Black Rice Pure Mineral Relief Daily Sunscreen SPF50+/PA++++ Krem przeciwsłoneczny do twarzy,,,,krem,"wrażliwa, odwodniona, sucha","ochronne, odżywcze, nawilżające, koloryzujące",50
+740,Mizon,"INOUT, Daily Soothing Sunscreen SPF50+ PA++++ Łagodzący krem do twarzy z filtrem SPF50+ PA++++",,,,krem,"odwodniona, sucha, normalna","nawilżające, ochronne, łagodzące, kojące, uelastyczniające",50
+741,inoPharm,Mineral Sun Face Cream SPF50 Mineralny krem ochronny do twarzy SPF50,,,,krem,"wrażliwa, sucha, mieszana, tłusta","ochronne, łagodzące, regenerujące, odżywcze, uelastyczniające, matujące",50
+742,Shiseido,"Sports, Invisible Protective Mist SPF 50+ Spray do opalania  SPF 50+",,,,,,"nawilżające, ochronne, łagodzące, regenerujące",50
+743,Image Skincare,"Prevention +, Daily Tinted Moisturizer SPF 30 Filtr pielęgnacyjno - ochronny SPF 30 do codziennej pielęgnacji",,,,krem,normalna,ochronne,30
+744,Garnier,"Ambre Solaire, Super UV, Niacinamide, Very High Protection SPF50 Fluid przeciw niedoskonałościom z niacynamidem SPF50",44.99,5,1,krem,"młoda, trądzikowa","matujące, ochronne",50
+745,Isdin Isdinceutics,"Fotoprotector, Fusion Water Cream SPF50 Barwiący krem przeciwsłoneczny do twarzy SPF50",116.99,,,krem,"odwodniona, sucha","ochronne, nawilżające, koloryzujące",50
+746,Sun Dance,"Sensitiv, Sun Fluid SPF50+ Fluid przeciwsłoneczny do twarzy SPF 50+",,,,krem,"wrażliwa, sucha","ochronne, łagodzące, nawilżające",50
+747,Nivea,"Sun, 2in1 Primer Daily UV Serum SPF50+ Serum-baza z filtrem SPF50+",45.49,,,krem,tłusta,"nawilżające, ochronne",50
+748,Laura Coco Reiss,"Krem przeciwsłoneczny, Wysoka ochrona SPF50 PA++++ ",70.74,,,krem,normalna,"nawilżające, ochronne",50
+749,Rodial,SPF 30 X-Treme Dark-Spot Sun Filter Krem na dzień z SPF 30,,,,krem,z przebarwieniami,"nawilżające, matujące, ochronne",30
+750,Lancer,Skincare Sheer Fluid Sun Shield SPF 30 Płynny filtr przeciwsłoneczny SPF 30,,,,,normalna,ochronne,30
+751,House of Hur,Weightless Sun Fluid SPF50+ PA++++ Lekki krem przeciwsłoneczny do twarzy,,4.5,2,krem,młoda,ochronne,50
+752,Rituals,"The Ritual of Karma, Sun Face Cream SPF 50+ Krem do twarzy z filtrem SPF 50+",,3,1,krem,normalna,"ochronne, nawilżające",50
+753,Novaclear,"Urban Sunblock, Oily Skin SPF50+ Krem ochronny do twarzy skóra tłusta",35.99,,,krem,"normalna, tłusta","nawilżające, matujące, ochronne",50
+754,Bioderma,Photoderm Creme SPF 50+ Krem do skóry suchej,67.99,5,1,krem,sucha,"nawilżające, ochronne",50
+755,Biotherm,"Waterlover, Milky Sun Spray SPF50 Ochronne mleczko w sprayu SPF 50",199.0,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+756,SunOzon,"Sensitive, Sun Fluid with Niacinamide & Vitamin E SPF50 Niacyniamid i Witamina E, Fluid przeciwsłoneczny SPF50",,,,krem,wrażliwa,"nawilżające, ochronne",50
+757,AnneMarie Börlind,"Sun Care, Lip Balm SPF 20 Pomadka ochronna",,,,,,"nawilżające, ochronne",20
+758,Morphe Brushes,Sunsetter SPF 30 High Protection Broad Spectrum Setting Spray Mgiełka do twarzy z filtrem SPF 30,,,,żel,,"matujące, ochronne",30
+759,Cos De BAHA,"MS, Mineral Sunscreen SPF50+ PA++++ Przeciwsłoneczny krem do twarzy",,,,krem,trądzikowa,"ochronne, łagodzące, kojące",50
+760,Celimax,Oil Control Ligh Sunscreen SPF50+PA++++ Lekki krem przeciwsłoneczny SPF50+PA++++,,1.5,2,krem,"mieszana, trądzikowa, tłusta, wrażliwa, odwodniona, sucha","ochronne, nawilżające, przeciwtrądzikowe ",50
+761,Korres,Citrus Active Sunscreen Emulsion Body & Face SPF 50 Emulsja do opalania twarzy i ciała,,,,,,"ochronne, nawilżające",50
+762,Revox,Just Daily Sun Shield for Oily Skin Krem przeciwsłoneczny z SPF50 dla cery tłustej,,4,2,krem,tłusta,"ochronne, matujące, nawilżające",50
+763,Kiko Milano,"Smart Urban, Shield Protective Stick SPF50 Ochronny sztyft do twarzy SPF50",62.0,,,krem,normalna,ochronne,50
+764,Avril,Creme Solaire Visage SPF 30 Krem do opalania z filtrem SPF 30,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne",30
+765,Charmine Rose,"Charm Medi, Sun Protect Cream SPF 50 Krem ochronny",,,,krem,"normalna, naczynkowa, z przebarwieniami",ochronne,50
+766,Hyggee,Relief Sun Moisturizer SPF50+ PA++++ Nawilżający krem ochronny,,,,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące",50
+767,Bielenda,"Bikini, Baby, Ochronne mleczko dla dzieci i niemowląt SPF50 ",53.45,4,1,mleczko,"wrażliwa, odwodniona, sucha","nawilżające, ochronne",50
+768,Mary & May,Vegan Niacinamide Panthenol Sun Cushion SPF50+ PA++++ Filtr przeciwsłoneczny do twarzy w kompakcie,133.69,3,1,krem,z przebarwieniami,"ochronne, regenerujące, wygładzające, koloryzujące",50
+769,Australian Gold,Face with Self Tanner SPF 50 Krem do opalania,,,,,,ochronne,50
+770,Wooden Spoon,"Face Care, Dry Oils, Sunscreen SPF50 Krem do opalania twarzy SPF50",,,,krem,do wszystkich typów skóry,"nawilżające, ochronne",50
+771,Eco Cosmetics,Sonnencreme LSF50+ Leicht Getont Krem na słońce z rokitnikiem i oliwką SPF 50+,,,,krem,"normalna, wrażliwa, sucha",,50
+772,Astrid,"Sun, Protecting Face Cream Q10 SPF 30 Krem przeciwsłoneczny do twarzy z koenzymem Q10",,,,krem,normalna,"ochronne, nawilżające",30
+773,Kiko Milano,Sun Protection Face Cream SPF30 Krem do twarzy z SPF 30,,,,krem,"sucha, normalna","nawilżające, ochronne",30
+774,Festiwalove,Balsam przeciwsłoneczny SPF 50+ ,,4,1,balsam,wrażliwa,ochronne,50
+775,The Body Shop,Skin Defence Daily Multi- Protection Light Essence SPF 50 PA +++ Wielozadaniowy krem ochronny SPF50,,,,krem,"tłusta, wrażliwa, odwodniona, sucha","ochronne, nawilżające",50
+776,Croma,Nexultra SPF 50 Mineralny filtr słoneczny w pudrze,,,,,normalna,ochronne,50
+777,A'pieu,Pure Block Waterproof Sun Cream SPF50+/PA+++ Wodoodporny krem przeciwsłoneczny,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące, regenerujące",50
+778,Eau Thermale Avène,Anti-Age Fluid SPF50 Fluid przeciwsłoneczny anti-age SPF50,,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, regenerujące, wygładzające, przeciwzmarszczkowe",50
+779,Darling,Glowy Face Cream SPF 50 Rozświetlający krem do twarzy SPF 50+,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+780,Isntree,Hyaluronic Acid Airy Sun Stick SPF50 Ochronny sztyft do twarzy SPF50,63.99,,,krem,do wszystkich typów skóry,"przeciwzmarszczkowe, nawilżające, ochronne",50
+781,Woods Copenhagen,Facial Sunscreen SPF50 Krem ochronny do twarzy z filtrem SPF 50,,,,krem,"trądzikowa, odwodniona, sucha","ochronne, odżywcze, nawilżające, uelastyczniające, wzmacniające",50
+782,SVR,"Sun Secure, Fluide Photo-Age SPF50+ Fluid ochronny zapobiegający oznakom starzenia SPF50+",,,,krem,"tłusta, z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, wygładzające, przeciwzmarszczkowe, łagodzące, na przebarwienia",50
+783,Clarins,"Sun Care, Youth-Protecting Sunscreen SPF 50+ Ochronny krem do twarzy SPF50+",,4,1,krem,"tłusta, wrażliwa, z przebarwieniami","nawilżające, ochronne, odżywcze, uelastyczniające",50
+784,Stara Mydlarnia,"Happy Face, SOS Cream , All Year Protect Face Cream Przeciwzmarczkowy ochronny krem do twarzy SPF50",,,,krem,"odwodniona, sucha","nawilżające, ochronne, przeciwzmarszczkowe",50
+785,Skin Science,Light Shield Antioxidant Fotoprotective Face & Eye Cream SPF 30 Antyoksydacyjny foto-protekcyjny krem do twarzy i pod oczy SPF 30,,,,krem,z przebarwieniami,"ochronne, regenerujące",30
+786,La-Le,Krem ochronny z filtrem mineralnym UVA/UVB SPF 30 ,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",30
+787,Vianek,"Seria Różowa, Łagodzący krem ochronny do twarzy SPF 50 ",,3.7,7,krem,wrażliwa,"ochronne, nawilżające",50
+788,Isdin Isdinceutics,Fotoprotector Gel Cream SPF30 Ochronny żel-krem,,,,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne",30
+789,Elizabeth Arden,Eight Hour Cream Targeted Sun Defence Stick SPF50 High Protection Krem w sztyfcie z filtrem przeciwsłonecznym SPF 50,,,,krem,"normalna, sucha",ochronne,50
+790,Phlov by Anna Lewandowska,"Sunflow, Face Cream SPF50 Krem do twarzy SPF50",,,,krem,"odwodniona, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, łagodzące",50
+791,Sensilis,Photocorrection Pure Age Perfection SPF50+ Matujący fluid do twarzy regulujący wydzielanie sebum,82.99,,,krem,"trądzikowa, tłusta, wrażliwa, odwodniona, sucha, normalna","nawilżające, matujące, ochronne, łagodzące, przeciwtrądzikowe ",50
+792,Sun Dance,Sonnenol-Spray SPF2O Olejek do opalania SPF20,,,,płyn,normalna,"nawilżające, ochronne, łagodzące",2
+793,Izeze,"Black Cumin NEM, Bliss Sun Cream SPF50+PA++++ Krem ochronny z czarnuszką SPF50+PA++++",,,,krem,"sucha, wrażliwa, odwodniona","ochronne, regenerujące, nawilżające",50
+794,PUPA,"Multifunction Sun Care, Super Milk Spray SPF 15 Mleczko ochronne i aktywujące melaninę SPF 15",,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne",15
+795,Dermedic,Sunbrella Ultra-light Fluid SPF50+ Ultralekki krem ochronny dla skóry suchej i normalnej,41.49,4.7,113,krem,"normalna, sucha, wrażliwa, odwodniona","nawilżające, ochronne, łagodzące, kojące",50
+796,SunOzon,"Face, Hydro Sun Fluid SPF30 Fluid przeciwsłoneczny SPF30",,,,krem,"odwodniona, wrażliwa","ochronne, nawilżające",30
+797,SunOzon,"Face, Glow Sun Fluid SPF30 Fluid przeciwsłoneczny SPF30",,,,krem,"wrażliwa, odwodniona, sucha","ochronne, nawilżające",30
+798,Beauty of Joseon,Relief Sun Aqua - Fresh: Rice + B5 SPF50+ PA++++ Przeciwsłoneczny krem do twarzy z wodą z ryżu i pantenolem,,5,3,krem,z przebarwieniami,"nawilżające, ochronne, łagodzące, regenerujące, uelastyczniające",50
+799,Mesoestetic,Mesoprotech Mineral Matt Antiaging Fluid SPF 50+ Lekki fluid przeciwsłoneczny,,,,,"wrażliwa, tłusta",ochronne,50
+800,Attitude,Sensitive Skin Sunscreen SPF 30 Filtr do skóry wrażliwej SPF 30,,,,krem,"normalna, wrażliwa, sucha, alergiczna",ochronne,30
+801,Potz,Face Cream Rich Anti-Pollution SPF15 Odbudowujący krem na dzień,,,,krem,"normalna, wrażliwa, sucha","nawilżające, matujące, ochronne, regenerujące",15
+802,Nimue,"Sun-C, Environmental Shield SPF 50 Krem ochronny SPF 50",,,,krem,"normalna, sucha",ochronne,50
+803,Si Si Bee Manufaktura,Krem do twarzy z filtrem mineralnym SPF 30 UVA ,,3,1,krem,normalna,ochronne,30
+804,Filorga,"UV-Defence, Urban Sun Care SPF50 Lekki krem przeciwsłoneczny SPF50",,,,krem,"tłusta, z przebarwieniami","ochronne, regenerujące, na przebarwienia",50
+805,Hello Sunday,The Retouch One SPF30 Niewidoczna mgiełka ochronna z filtrami UV,99.9,,,,"normalna, tłusta","nawilżające, ochronne",30
+806,11 Village Factory,Daily Mineral Tone Up Sunblock Krem przeciwsłoneczny do twarzy,,,,krem,,"matujące, ochronne, łagodzące, regenerujące, kojące, koloryzujące",
+807,Mary Cohr,"Face Care, Anti-Ageing Sun Cream SPF50+ Przeciwstarzeniowy krem ochronny do twarzy SPF50+",,,,krem,"młoda, z przebarwieniami, sucha","ochronne, łagodzące",50
+808,CeraVe,AM Facial Moisturizing Lotion SPF30 Nawilżający balsam do twarzy AM z filtrem przeciwsłonecznym,,4,1,mleczko,"normalna, trądzikowa","ochronne, nawilżające",30
+809,Anne Möller,Age Sun Resist Protective Face Cream SPF 50+ Very High UVA UVB Infrared Przeciwsłoneczny  krem do twarzy,,,,krem,"normalna, z przebarwieniami","ochronne, nawilżające",50
+810,Easytattoo,Ochronny krem do opalania SPF 50+ UVA ,,,,krem,,"nawilżające, ochronne, łagodzące, regenerujące",50
+811,Janda,Luksusowy balsam do dobrego opalania do twarzy i ciała SPF 30 ,,,,krem,,,30
+812,Atopalm,"Real Barrier, Tone Up Sun Cream SPF50+ PA++++ Tonujący krem z filtrem",,,,krem,"odwodniona, sucha","ochronne, rozświetlające, nawilżające, koloryzujące",50
+813,Some by MI,"Truecica Mineral Calming, Tone-up Suncream SPF50+ PA++++ Tonujący krem przeciwsłoneczny SPF50+ PA++++",83.71,,,krem,"trądzikowa, tłusta","nawilżające, ochronne, łagodzące, przeciwtrądzikowe ",50
+814,REN,"Clean Screen, Mineral SPF 30 Mattifying Face Sunscreen Broad Spectrum (Matujący krem do twarzy z filtrem SPF) ",,,,krem,tłusta,"matujące, ochronne",30
+815,Payot,Sunny Creme Divine SPF 50 Przeciwsłoneczny krem do opalania twarzy i ciała SPF 50,,,,krem,"normalna, sucha","nawilżające, ochronne",50
+816,Afrodita Professional,"Advanced Treatment, Vita Derma Protective Cream SPF 30 Krem ochronny z filtrem SPF30",,,,krem,sucha,"ochronne, odżywcze",30
+817,Dr. Jart+,Every Sun Day Mild Sun SPF43/PA+++ Codzienny krem ochronny,,,,krem,"wrażliwa, tłusta","nawilżające, ochronne, regenerujące",43
+818,Diego Dalla Palma,Sun Shine Protective Cream Face/Body SPF 15 Krem ochronny do twarzy i ciała SPF15,,,,krem,normalna,ochronne,15
+819,Revuele,Daily Sun Barrier SPF50+ Ochronny krem nawilżający do twarzy SPF50+,14.89,,,krem,"mieszana, odwodniona, sucha","nawilżające, ochronne",50
+820,Bellavia,"Vanilla, Tinted Face Moisturizer SPF15 Krem nawilżający do twarzy z SPF15",,,,krem,"odwodniona, sucha","nawilżające, ochronne, odżywcze, koloryzujące",15
+821,is clinical,Eclipse SPF 50 Sunscreen Creme Krem ochronny transparentny,,,,krem,normalna,ochronne,50
+822,May Island,"7 Days Secret, Centella Cica Sun Cream SPF50+ PA+++ Krem przeciwsłoneczny z filtrem UV SPF 50 +",,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące",50
+823,Kolastyna,Emulsja ochronna do skóry wrażliwej SPF50+ (stara wersja) ,35.99,,,emulsja,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+824,About Me,Be Clean Tone Up Sun SPF50+ PA++++ Lekki krem tonujący z filtrami fizycznymi,,,,krem,,"matujące, ochronne, koloryzujące, wygładzające",50
+825,Altruist,"Dermatologist, Moisturizing Fluid SPF50 Nawilżający fluid przeciwsłoneczny z kwasem hialuronowym SPF50",47.99,,,krem,"odwodniona, sucha","nawilżające, ochronne, odżywcze",50
+826,Mesoestetic,Mesoprotech Light Water Antiaging Veil SPF 50 + Fluid do twarzy SPF 50+,,3,1,,normalna,"ochronne, nawilżające",50
+827,Skin & Lab,Barrierderm Think Family Sunscreen SPF30 PA+++ Balsam z filtrem przeciwsłonecznym do twarzy,,,,balsam,wrażliwa,"nawilżające, ochronne, regenerujące",30
+828,Diego Dalla Palma,Sun Shine Protective Face Cream Anti-Age Anti-Spot SPF 50 Krem przeciwsłoneczny do twarzy przeciw plamom,,,,krem,normalna,ochronne,50
+829,Hello Sunday,The One For Your Eyes SPF50 Rozświetlający krem pod oczy z filtrem mineralnym,,2,3,krem,"wrażliwa, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+830,Ultrasun,Family High Sun Protection SPF30 Balsam ochronny do twarzy i ciała,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",30
+831,Selvert Thermal,Sun Cream SPF 50+ Krem przeciwsłoneczny SPF 50+,,,,krem,"normalna, tłusta",ochronne,50
+832,Nivea,"Soft, Daily UV, Krem nawilżający z ochroną UV SPF15 ",,,,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne",15
+833,Laneige,"Hydro UV Defense Ex, Sunscreen Protection Solaire SPF 50 Krem przeciwsłoneczny z filtrem SPF 50",,,,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, regenerujące, kojące",50
+834,Mixa,"Sensitive Skin Expert, Hyaluronic Acid, Daily Invisible Cream SPF50 Nawilżający krem ochronny z filtrem SPF50",56.66,,,krem,"sucha, wrażliwa, z przebarwieniami, odwodniona","nawilżające, ochronne, łagodzące, uelastyczniające, regenerujące",50
+835,Murad,"Hybrids, Absolute Bronzing Boost SPF 15 PA ++ Bronzer do twarzy",,,,,,ochronne,15
+836,Nivea,"Sun, UV Face Specialist Triple Protect Sun Cream Fluid SPF50+ Fluid przeciwsłoneczny",33.0,,,krem,"mieszana, normalna, wrażliwa, odwodniona, sucha","ochronne, nawilżające",50
+837,Lierac,"Sunific Extreme, Cream SPF 50+ Krem ochronny do opalania",,,,krem,"wrażliwa, sucha, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+838,myBuddy,Krem z filtrem SPF 25 UVA+UVB ,29.9,4.7,105,krem,normalna,"ochronne, odżywcze, nawilżające",25
+839,Elemis,"Daily Defence Shield, High Protection Sunscreen SPF30 Ochronny krem do twarzy SPF30",,,,krem,do wszystkich typów skóry,"ochronne, odżywcze, zmiękczające, ujędrniające",30
+840,Beauty of Joseon,Ginseng Moist Sun Serum SPF50+/PA++++ Serum przeciwsłoneczne z żeńszeniem,84.39,2,1,,,"nawilżające, ochronne, łagodzące, regenerujące, uelastyczniające, przeciwzmarszczkowe",50
+841,Kiehl's,Super Fluid UV Defense SPF 50+ Fluid ochronny SPF 50+,,,,krem,z przebarwieniami,"nawilżające, ochronne",50
+842,Selvert Thermal,Protector Barrier Spray SPF 30 Spray z barierą ochronną SPF30,,,,,normalna,ochronne,30
+843,Vive Sana,Daily Protezione SPF30 Krem ​​do twarzy z fitrem SPF 30,,,,krem,normalna,"ochronne, odżywcze, nawilżające",30
+844,Round Lab,"Birch Moisture, Tone-Up Sunscreen SPF 50+ PA++++ Tonujący krem przeciwsłoneczny SPF50+PA++++",,,,krem,"mieszana, z przebarwieniami, odwodniona, sucha, normalna","nawilżające, ochronne, łagodzące, regenerujące, kojące",50
+845,La Roche-Posay,Anthelios XL BB Creme Teintee SPF 50+ PPD 39 [Tinted BB Cream] BB Krem barwiący do twarzy z bajkaliną,50.74,,,krem,wrażliwa,"nawilżające, regenerujące",50
+846,Diego Dalla Palma,Daily Protective Fluid SPF50 Filtr ochronny,,,,krem,normalna,ochronne,50
+847,BioNike,Aknet Sun SPF50+ Ochronny krem do twarzy do cery trądzikowej SPF50+,,,,krem,"wrażliwa, z przebarwieniami","ochronne, łagodzące, uelastyczniające, na przebarwienia",50
+848,Bandi,"4men Care, Krem do twarzy SPF30 ",,,,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, przeciwzmarszczkowe, łagodzące",30
+849,Dermacol,Sun Water Resistant Tinted Sun Protection Fluid SPF 50 Wodoodporny fluid tonujący z filtrem SPF50,,,,krem,normalna,"ochronne, nawilżające",50
+850,Isana,"Love Your Skin,  Anti-UV Fluid SPF50 Fluid przeciwsłoneczny SPF50",,5,1,krem,do wszystkich typów skóry,"ochronne, odżywcze, wygładzające, nawilżające, regenerujące",50
+851,Colorescience Pro,Sunforgettable Total Protection Face Shield SPF50 Mineralna emulsja przeciwsłoneczna SPF50,,,,emulsja,do wszystkich typów skóry,"ochronne, koloryzujące, łagodzące",50
+852,Skeyndor,"Sun Expertise, Protective Fluid SPF 30+ Krem ochronny do twarzy z technologią Blue Light",,,,,normalna,ochronne,30
+853,Concept Plus,"UVBlock, Anti-Ageing Sunscreen SPF50 Przeciwzmarszczkowy bloker słoneczny SPF50",,,,krem,"odwodniona, sucha","przeciwzmarszczkowe, nawilżające, ochronne, łagodzące",50
+854,Returnu,Deep Comfort Ampoule Sunscreen SPF 50+ PA++++ Przeciwsłoneczny krem do twarzy,,,,krem,"tłusta, wrażliwa, odwodniona, sucha, dojrzała","ochronne, odżywcze, nawilżające, wygładzające, uelastyczniające, regenerujące, łagodzące",50
+855,Jumiso,"Awe Sun Airy-Fit, Daily Moisturizer with Sunscreen SPF50+PA++++ Nawilżający krem do twarzy z SPF50+",55.0,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne",50
+856,Garnier,BHA + Niacinamide Daily UV  SPF 50+ Fluid przeciw niedoskonałościom SPF 50+,49.99,4.8,1459,emulsja,"mieszana, tłusta, trądzikowa, z przebarwieniami, normalna","ochronne, łagodzące, nawilżające, matujące, wyrównujące koloryt",50
+857,Korres,"Yoghurt, Protect Sunscreen Face & Eyes Crem SPF50 Lekki krem ochronny SPF50",116.5,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+858,Bambo Nature,High Protection Sun Screen SPF 50 Rodzinny krem ochronny,,,,krem,"normalna, wrażliwa",ochronne,50
+859,The Face Shop,Oil Free Sun Cream SPF 35 PA++ Krem ochronny beztłuszczowy,,,,krem,"tłusta, trądzikowa, z przebarwieniami","nawilżające, ochronne",35
+860,Eucerin,Sun Protection Hydro Protect SPF 50+ Ultralekki fluid nawilżający,,,,,"normalna, wrażliwa",ochronne,50
+861,Germaine de Capuccini,Anti-Ageing Protective Fluid SPF50 Fluid ochronny przeciw starzeniu SPF50,,1,1,krem,,"nawilżające, ochronne, koloryzujące",50
+862,Shiseido,"Expert Sun, Synchronized Protector Face Cream SPF30 Wodoodporny krem do opalania twarzy SPF30",,,,krem,do wszystkich typów skóry,ochronne,30
+863,Derma,"Sun, Face Screen SPF15 Krem do opalania",,,,krem,"normalna, alergiczna, atopowa, wrażliwa",ochronne,15
+864,Goddess Garden Organics LLC,Everyday Natural Sunscreen SPF 30 Mineralny filtr do twarzy,,,,,,ochronne,30
+865,Epionce,Daily Shield Lotion Tinted SPF 50 Emulsja ochronna,,,,mleczko,"normalna, sucha, tłusta","nawilżające, ochronne",50
+866,Selvert Thermal,Protector Barrier Cream SPF 50 Krem z barierą ochronną SPF50,,,,krem,"normalna, wrażliwa",ochronne,50
+867,Hynt Beauty,Sun Prep Broad Spectrum Skincare SPF25 Krem ochronny,,,,krem,normalna,ochronne,25
+868,Suntegrity Skincare,Impeccable Skin Broad Spectrum SPF 30 Krem ochronny do twarzy SPF 30,,,,krem,normalna,,30
+869,Cell Fusion C,Toning Sunscreen 100 SPF 50+ / PA ++++ Krem tonujący z wysoka ochroną przeciwsłoneczną,125.0,,,krem,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",50
+870,Suntribe,Mineral Day Cream SPF 20 Mineralny krem do twarzy,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, matujące",20
+871,Hello Sunday,The Mineral One SPF50 Ochronny krem do skóry wrażliwej,,,,krem,"wrażliwa, tłusta","nawilżające, matujące, ochronne, łagodzące, regenerujące",50
+872,Woods Copenhagen,Facial Sunscreen SPF30 Krem ochronny do twarzy z filtrem przeciwsłonecznym SPF 30,,,,krem,trądzikowa,"ochronne, odżywcze",30
+873,OMI,Verdio UV Moisture Essence SPF 50+ PA++++ Nawilżająca esencja UV SPF 50+ PA++++,,,,krem,normalna,"ochronne, nawilżające",50
+874,Garnier,"Ambre Solaire, Dry Mist Sun Cream Spray SPF 30 Suchy krem do opalania w sprayu",,,,,"normalna, sucha, tłusta",ochronne,30
+875,Affect,"SunDay, Face Mist SPF 50 Ochronna mgiełka do twarzy SPF50",,,,krem,"tłusta, odwodniona, sucha","ochronne, rozświetlające, nawilżające",50
+876,The Inkey List,Sunscreen SPF 30 Krem do codziennej pielęgnacji z filtrem przeciwsłonecznym SPF 30,,,,krem,,"nawilżające, ochronne",30
+877,Atache,Be Sun Light Emulsion SPF50 Lekka emulsja przeciwsłoneczna do twarzy SPF50,,,,krem,"odwodniona, sucha","nawilżające, ochronne",50
+878,Oriflame,"Sun Zone, Lotion Face and Body SPF 30 Balsam do opalania twarzy i ciała SPF 30 - wysoka ochrona",,,,krem,wrażliwa,"ochronne, nawilżające",30
+879,Enilome Healthy Beauty,"Sun Care,  Krem do twarzy SPF 50+ bardzo wysoka ochrona anti-aging complex ",,4.5,2,krem,wrażliwa,ochronne,50
+880,La Roche-Posay,"Anthelios, UVMune 400 Hydrating Cream Tinted SPF50+ Koloryzujący krem nawilżająco-ochronny do twarzy SPF50+",,,,krem,"normalna, tłusta","nawilżające, ochronne",50
+881,Carelika,"SPF Expert, Skin Corrector  SPF50 Tonujący krem ochronny SPF50",149.0,,,krem,"tłusta, odwodniona, sucha","ochronne, kojące, nawilżające, wygładzające",50
+882,Tenzero,"Green Cavior, Sun Cream SPF50+ PA++++ Ochronny krem z filtrem przeciwsłonecznym SPF50+",,,,krem,"odwodniona, sucha","nawilżające, ochronne, odżywcze, przeciwzmarszczkowe",50
+883,Bielenda Professional SUPREMELAB,"Sun Protect, Lekka emulsja ochronna SPF 50 PA ++++ ",49.49,1.5,2,emulsja,normalna,"ochronne, nawilżające",50
+884,Xylogic,"Retix.C, Fotoprotector SPF50+ Krem ochronny",,,,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, regenerujące",50
+885,Dax Sun,"Active, Ultralekki krem odporny na pot SPF30 ",17.9,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, matujące",30
+886,Nine Less,Soothing Sun Cream SPF 50+ PA++++ Nawilżający krem z filtrem,,4.3,3,krem,wrażliwa,"nawilżające, ochronne, łagodzące, uelastyczniające, regenerujące, wzmacniające",50
+887,Biosolis,Creme Visage SPF 50+ Krem do twarzy z filtrem przeciwsłonecznym SPF 50+,,,,krem,normalna,ochronne,50
+888,Ultrasun,Transparent Urban UV Protection Mist SPF50 Ochronna mgiełka do twarzy i skóry głowy,,,,,"normalna, wrażliwa, sucha",ochronne,50
+889,Nudestix,Nudescreen Daily Mineral Veil Spf 30 Krem z filtrem,,,,krem,"odwodniona, sucha","ochronne, nawilżające, koloryzujące",
+890,QMS Medicosmetics,Cellular Sun Shield SPF 50+ Krem przeciwsłoneczny SPF 50+,,,,,normalna,ochronne,50
+891,bebeauty,Sunscreen Face Stick SPF 50+ Sztyft do twarzy z filtrem przeciwsłonecznym,,4.5,2,masło,do wszystkich typów skóry,ochronne,50
+892,Olaian,Mineral Stick SPF50+ Ochronny sztyft mineralny,,,,,"normalna, wrażliwa",ochronne,50
+893,Avon,"Sun+, Protecting Balm UVA/UVB PA+++ SPF30 Sztyft ochronny SPF 30",,,,krem,,"nawilżające, ochronne, regenerujące",30
+894,Bondi Sands,Coconut Beach Sunscreen Oil SPF 30 Olejek przeciwłoneczny,,,,,,ochronne,30
+895,The Aromatica,"Calendula, Non-Nano UV Protection Unscented SPF30/PA+++ Krem ochronny z filtrem",,,,krem,"alergiczna, wrażliwa","nawilżające, ochronne, regenerujące",30
+896,Revuele,"Sunprotect, Daily Face Cream Moisture Boost SPF 50+ Krem z filtrem",18.99,,,krem,"młoda, odwodniona, sucha","nawilżające, ochronne",50
+897,11 Village Factory,Perfect Airy Sun Cushion Kompaktowy puder przeciwsłoneczny do twarzy,,,,sypkie,"odwodniona, sucha","matujące, ochronne, nawilżające",
+898,Eucerin,"Sun, Fluid Photoaging Control SPF 30 Emulsja do twarzy przeciw zmarszczkom SPF30",,,,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące, regenerujące",30
+899,Selvert Thermal,Protector Barrier Gel Cream SPF 30 Żel krem z barierą ochronną SPF30,,,,krem,normalna,"nawilżające, ochronne",30
+900,Eveline Cosmetics,"Advanced Face Solutions, Lab Formula, Fotoochronny krem barierowy SPF50 ",,,,krem,z przebarwieniami,"nawilżające, ochronne, uelastyczniające, transparentne, regenerujące, łagodzące, na przebarwienia",50
+901,Round Lab,1025 Dokdo Sunscreen SPF 50+ PA++++ Krem ochronny do twarzy SPF50+PA++++,,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące, kojące",50
+902,Dax Sun,Rozświetlający krem ochronny z witaminą C SPF 50+ ,31.45,,,krem,"z przebarwieniami, odwodniona, sucha","ochronne, rozświetlające, nawilżające, wygładzające, koloryzujące, wzmacniające",50
+903,Baroness,"Aloe Vera ,Krem przeciwsłoneczny z SPF50 ",,,,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące",50
+904,Dermedic,"Sunbrella, Protective Fluid Dry Touch SPF50+ Matujący krem ochronny SPF 50+",,,,krem,do wszystkich typów skóry,"matujące, ochronne, kojące, regenerujące, przeciwzmarszczkowe",50
+905,Hello Sunday,The Everyday One Face Moisturiser SPF50 Naprawczo-nawilżający krem ochronny,91.9,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",50
+906,Enough,Collagen Moisture Sun Cream SPF50+ PA+++ Nawilżający krem do opalania z kolagenem,,,,krem,normalna,"ochronne, nawilżające",50
+907,Mary Cohr,Face Carem Cellular Moisturisation Sun Fluid SPF30 Ochronny fluid nawilżający do twarzy SPF30,,,,krem,sucha,"ochronne, nawilżające",30
+908,Tenzero,"Blemish, Cica Sun Cream SPF50+ PA++++ Odnawiający krem do twarzy z filtrem przeciwsłonecznym SPF50+",,,,krem,"trądzikowa, tłusta, wrażliwa","nawilżające, ochronne, kojące, przeciwtrądzikowe , łagodzące",50
+909,Transparent Lab,Invisible Sunscreen SPF50+ PPD45 Niewidoczny krem przeciwsłoneczny SPF50+,112.5,4,1,krem,"sucha, tłusta","nawilżające, matujące, ochronne, regenerujące",50
+910,Maria Galland,200 Gentle Protective Spray SPF30 Spray ochronny do twarzy i ciała,,,,,normalna,ochronne,30
+911,Avon,"Care, Sun + Face, Shine Control Sun Cream SPF 30 Matujący krem nawilżająco-ochronny do twarzy SPF 30",,,,krem,normalna,"matujące, ochronne, nawilżające",30
+912,Be Ceuticals,"Mineral UV 100, Ultimate Sun Protection Safe Day SPF 50+ Krem mineralny",,,,krem,,"nawilżające, ochronne, przeciwzmarszczkowe",50
+913,Novaclear,"Urban Sunblock, Krem ochronny każdy typ skóry SPF 50+ ",,,,krem,"normalna, sucha, tłusta","ochronne, nawilżające",50
+914,Abib,Airy Sunstick Smoothing Bar Lekki krem w sztyfcie o wodoodpornej formule z SPF 50+ PA++++,,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, wygładzające, matujące",50
+915,Eau Thermale Avène,Creme Sans Parfum SPF 50+ Krem ochronny bezzapachowy SPF 50+,,,,krem,"sucha, wrażliwa",ochronne,50
+916,Supergoop,Unseen Sunscreen SPF 40 Niewidoczny krem z SPF 40,,,,krem,normalna,ochronne,40
+917,SunOzon,Classic Sonnenfluid LSF 30 mit Matt-Effekt Fluid przeciwsłoneczny SPF 30 (nowa wersja),,,,krem,normalna,"ochronne, matujące",30
+918,Pure by Clochee,"SPF 50 Hero, Krem protektor - nawilżenie ",61.89,4.7,109,krem,"normalna, sucha","nawilżające, ochronne, łagodzące",50
+919,Innisfree,Daily UV Defense Mineral Sunscreen SPF50 Mineralny krem przeciwsłoneczny SPF50,,,,krem,"tłusta, wrażliwa, odwodniona, sucha","ochronne, nawilżające, łagodzące",50
+920,Skincyclopedia,"High Sun Protection, 10% Niciniamide & Prebiotic, Face Cream-Serum SPF30 Ochronny krem-serum do twarzy SPF30",49.9,,,krem,"wrażliwa, z przebarwieniami","nawilżające, matujące, kojące, ochronne",30
+921,Biotherm,"Waterlover, Face Sunscreen SPF50 Krem z filtrem SPF50",,,,krem,"normalna, wrażliwa","nawilżające, ochronne",50
+922,PUPA,Daily Defender Protective Fluid 7 Factors SPF50 Fluid ochronny do twarzy SPF50,,,,krem,"tłusta, wrażliwa","nawilżające, ochronne",50
+923,Yepoda,"The Sunsational, Velvety Broad Spectrum Mineral Sun Stick SPF 30 UVA/UVB PA+++ Mineralny sztyft przeciwsłoneczny SPF 30 UVA/UVB PA+++",,,,balsam,do wszystkich typów skóry,"nawilżające, ochronne, odżywcze",30
+924,Nivea,"Sun, UV Face Specialist, Ultra Light Tinted Daily Fluid SPF50+ Ultralekki fluid do twarzy z pigmentem SPF50+",,,,balsam,"tłusta, odwodniona, sucha","nawilżające, ochronne, wygładzające, matujące",50
+925,Lancaster,"Sun Beauty, Comfort Touch Face Cream SPF 50 Krem do twarzy z filtrem SPF50",,,,krem,normalna,"ochronne, nawilżające",50
+926,Paula's Choice,Clear-Ultra-Light Daily Hydrating Fluid SPF30+ Nawilżająca emulsja przeciwsłoneczna,,,,krem,normalna,ochronne,30
+927,Zo Skin Health,Daily Sheer Broad Spectrum SPF50 Krem ochronny do twarzy SPF50,,,,krem,"odwodniona, sucha","ochronne, nawilżające",50
+928,SkinTra,"Rich Coat SPF50+/PA++++ IR, Blue Light Antyoksydacyjny krem szerokopasmowy",,3.7,3,krem,z przebarwieniami,"ochronne, nawilżające",50
+929,Dax Sun,Nawilżający krem ochronny z kwasem hialuronowym SPF 50+ ,36.95,5,1,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, uelastyczniające, wzmacniające",50
+930,Dermedic,"Sunbrella, Ultra-light Fluid SPF50+ Ultralekki krem do cery tłustej i mieszanej",,,,krem,"mieszana, tłusta, odwodniona, sucha","nawilżające, ochronne",50
+931,Babaria Natural Cosmetics,Sun Sport Sun Screeny Ceam SPF 50 Krem do opalania SPF 50,,,,krem,normalna,"nawilżające, ochronne, regenerujące",50
+932,Mary Cohr,"Face Care, Cellular Moisturisation Sun Cream SPF50 Ochronny krem nawilżający do twarzy SPF50",,,,krem,"odwodniona, sucha","nawilżające, ochronne",50
+933,Kiko Milano,Smart Urban Shield Cream SPF 50+ Krem do twarzy z filtrem SPF 50+,68.96,,,krem,normalna,"ochronne, nawilżające",50
+934,Dermedic,"Sunbrella, Ultralekki krem do cery naczyniowej SPF50+ ",38.99,,,krem,"wrażliwa, naczynkowa","nawilżające, ochronne",50
+935,Dr. med. Christine Schrammek,Solar Protect Fluid SPF 50 Lekka emulsja z silną fotoprotekcją,,4.8,50,emulsja,tłusta,"nawilżające, ochronne, łagodzące",50
+936,Korres,Yoghurt Tinted Sunscreen Face Cream SPF30 Koloryzujący krem ochronny do twarzy SPF30,132.0,,,krem,wrażliwa,"ochronne, koloryzujące, matujące, nawilżające, proteinowe",30
+937,EleverCosmetics,"SunnyDay Protect, Krem ochronny SPF50 ",,,,krem,"wrażliwa, sucha, tłusta, alergiczna","nawilżające, ochronne, łagodzące",50
+938,Banila Co.,"Hello Sunny, Hydrating Sun Essence SPF50+ Nawilżający filtr przeciwsłoneczny",,,,krem,normalna,"ochronne, nawilżające",50
+939,Acwell,Solar Defense Licorice Sun Cream SPF50 PA++++ Lekki krem do twarzy z filtrem SPF50,,,,krem,"wrażliwa, naczynkowa, sucha","nawilżające, ochronne, łagodzące, na zaczerwienienia, kojące, ujędrniające",50
+940,Eau Thermale Avène,Fragrance-Free Fluid Ultra-Light SPF50+ Fluid bez zapachu SPF 50+,,,,,"mieszana, normalna, wrażliwa",ochronne,50
+941,Mesoestetic,Mesoprotech Antiaging Facial Sun Mist SPF50+ Mgiełka do twarzy SPF50+,,,,,normalna,ochronne,50
+942,Benton,Defense Sun Cream SPF50+/PA++++ Air Fit Lekki Krem do twarzy z filtrem UV,99.5,4.9,12,krem,"trądzikowa, z przebarwieniami","nawilżające, chłodzące",50
+943,Ducray,"Keracnyl UV, Fluide Anti-imperfections SPF 50 Fluid z filtrem SPF 50 przeciw niedoskonałościom",,,,krem,normalna,ochronne,50
+944,Supergoop,Every.Single.Face SPR-Shield Watery Lotion SPF 50 Krem do twarzy ochronny,,5,1,emulsja,"mieszana, normalna, sucha, tłusta",ochronne,50
+945,11 Village Factory,Daily Mineral Tinted Sun Lotion Balsam przeciwsłoneczny do twarzy,,,,balsam,,"ochronne, koloryzujące",
+946,Hello Sunday,The Everyday One Face Moisturiser SPF30 Nawilżający krem ochronny,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",30
+947,HelloBody,"Sun, Daily Defense Balm SPF 25 Balsam do twarzy przeciwsłoneczny",,,,krem,normalna,"ochronne, nawilżające",25
+948,CeraVe,Mineral Sunscreen Stick SPF 50 Mineralny krem ​​przeciwsłoneczny w sztyfcie SPF50,,,,,wrażliwa,ochronne,50
+949,Skinimal,Przeciwsłoneczny krem z aloesem i kwasem hialuronowym SPF50 ,,4.8,105,krem,"normalna, z przebarwieniami","nawilżające, ochronne",50
+950,Image Skincare,"Prevention +, Daily Hydrating Moisturizer SPF 30 Krem ochronny i silnie nawilżający",,,,krem,"normalna, trądzikowa, z przebarwieniami","nawilżające, ochronne",30
+951,Janson Beckett,Sun Block Day Time Moisturizer SPF40 Nawilżający krem na dzień - wysoka ochrona,,,,krem,,"ochronne, nawilżające",40
+952,Atopalm,"Real Barrier, Cicarelief Mild Sun Fluid SPF50 PA++++ Fluid z filtrem przeciwsłonecznym",,,,krem,wrażliwa,"ochronne, kojące",50
+953,Colorescience Pro,"Sunforgettable, Total Protection Face Shield Flex SPF50 Emulsja koloryzująca przeciwsłoneczna SPF50",,,,emulsja,normalna,"ochronne, koloryzujące",50
+954,AA,"LAAB, Tetra-C Yuzu, Sun-Secure Glow Stick SPF50+ Sztyft do twarzy przeciwsłoneczny SPF50+",,,,krem,"wrażliwa, z przebarwieniami","nawilżające, ochronne, rozświetlające, wygładzające, przeciwzmarszczkowe, na przebarwienia",50
+955,Rituals,"The Ritual of Namaste, Daily Advanced Moisturizer SPF50 Krem nawilżający na dzień z SPF50",,,,krem,"tłusta, odwodniona, sucha","przeciwzmarszczkowe, nawilżające, ochronne, odżywcze",50
+956,Eau Thermale Avène,Fluide Mineral 50+ Fluid mineralny SPF 50+,,,,emulsja,wrażliwa,ochronne,50
+957,Mary & May,Vegan Blackberry Complex Multi Sun Balm SPF50+ Sztyft przeciwsłoneczny do twarzy SPF50+,114.85,,,"balsam, krem","tłusta, odwodniona, sucha","nawilżające, matujące, ochronne, rozświetlające, uelastyczniające, koloryzujące",50
+958,100% Pure,Green Tea SPF 30 Nawilżający balsam do opalania,,,,krem,"normalna, sucha, tłusta","ochronne, nawilżające",30
+959,QMS Medicosmetics,Cellular Sun Shield SPF 50+ Krem przeciwsłoneczny SPF 50+,,,,,normalna,ochronne,50
+960,Sylveco,Krem do twarzy ochronny SPF 30 ,,3,1,krem,normalna,ochronne,30
+961,SunOzon,"Med , Sun Drops SPF 50+ Kropelki przeciwsłoneczne",,,,emulsja,"wrażliwa, alergiczna","ochronne, łagodzące, nawilżające",50
+962,Hyggee,Vegan Sunscreen SPF50+ PA++++ Wegański krem przeciwsłoneczny,,,,krem,"normalna, tłusta, naczynkowa","nawilżające, ochronne, łagodzące, regenerujące",50
+963,Lebelage,UV Sun Block SPF50+ PA+++ Krem przeciwsłoneczny z aloesem,,,,krem,normalna,"ochronne, nawilżające",50
+964,Kolastyna,"Hyaluron, Wrażliwa Skóra, Ochronny krem do twarzy SPF 50+, ",,2,3,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, regenerujące",50
+965,Dax Sun,Krem ochronny dla skóry wrażliwej z SPF50+ ,26.95,2.7,3,krem,"wrażliwa, odwodniona, sucha","ochronne, nawilżające, regenerujące",50
+966,Ultra Violette,"Future Fluid, Superlight Mineral Sunscreen SPF 50+ Cynkowy lekki fluid z filtrem SPF 50+",,,,krem,"odwodniona, sucha","nawilżające, ochronne, kojące",50
+967,Sun Dance,"Sun Creme, SPF30 Krem do opalania SPF30",,,,krem,normalna,"nawilżające, ochronne",30
+968,Revuele,"Ceramide, Anti-blemish Daily Cream SPF 50 Ceramidowy krem przeciwsłoneczny  dla cery trądzikowej",,4.3,4,krem,"młoda, odwodniona, sucha","nawilżające, ochronne",50
+969,La-Le,Krem ochronny z filtrem mineralnym UVA/UVB SPF 30 `Migdał` ,,,,krem,"młoda, sucha, odwodniona","ochronne, nawilżające, wygładzające, uelastyczniające, regenerujące",30
+970,VVbetter,Daily Airfit Sunscreen SPF50+ PA++++ Przeciwsłoneczny krem do twarzy z filtrem SPF50+,,,,krem,normalna,ochronne,50
+971,Beaute Pacifique,"Stay Beautiful, Sunscreen for Face and Decollete SPF30 Przeciwstarzeniowy krem przeciwsłoneczny do twarzy i dekoltu SPF30",,,,krem,"odwodniona, sucha","ochronne, łagodzące, regenerujące, odżywcze, nawilżające",30
+972,Kire Skin,City Break Moisturizer SPF 30 Krem z filtrem SPF 30,,,,krem,normalna,ochronne,30
+973,Sisley,Super Stick Solaire Teinte SPF 50+ Sztyft przeciwsłoneczny SPF 50+,,,,,normalna,"ochronne, odżywcze",50
+974,Daylong,"Sensitive Face, Gel-Creme Legere SPF 50+ Żel-krem ochronny do skóry wrażliwej",,,,krem,"wrażliwa, tłusta, alergiczna","ochronne, łagodzące",50
+975,Yves Saint Laurent,Pure Shots Airthin UV Defender SPF 50+ Krem przeciwsłoneczny,,,,krem,z przebarwieniami,"nawilżające, ochronne, regenerujące",50
+976,Bielenda,"Recharge, Mgiełka ochronna na i pod makijaż SPF 50 ",,,,żel,wrażliwa,"nawilżające, ochronne",50
+977,M. Asam,Intensive Anti -Aging Sun Cream SPF50 Przeciwstarzeniowy krem przeciwsłoneczny SPF50,,,,krem,"odwodniona, sucha","przeciwzmarszczkowe, nawilżające, ochronne",50
+978,Vichy,"Capital Soleil, Solar Protective Water SPF 50 Ochronny spray z betakarotenem SPF 50",,,,,normalna,ochronne,50
+979,Swanicoco,Daily UV Shild Sun Stick SPF50/PA++++ Sztyft przeciwsłoneczny,,,,,"normalna, tłusta, trądzikowa","nawilżające, ochronne, regenerujące",50
+980,Fillmed Laboratories,Skin Perfusion E-Youth 50 Sun Cream Odmładzający krem przeciwsłoneczny,,,,krem,,"nawilżające, ochronne, regenerujące",
+981,SunOzon,"Pure Age Q10, Sun Fluid SPF50 Fluid przeciwsłoneczny SPF50",,,,krem,"normalna, sucha","ochronne, łagodzące",50
+982,Kiko Milano,Sun Protection Face Cream SPF50 Krem do twarzy z filtrem SPF50,120.0,,,krem,"odwodniona, sucha","nawilżające, ochronne, matujące",50
+983,Pyunkang Yul,Moisture Soothing Sun Cream SPF50 Ochronny krem do twarzy SPF50,80.0,,,krem,"sucha, wrażliwa, odwodniona","nawilżające, ochronne, łagodzące",50
+984,Isntree,Hyaluronic Acid Natural Sun Cream SPF50+/PA++++ Nawilżający krem ochronny z filtrem mineralnym,,,,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące, przeciwzmarszczkowe",50
+985,Babor,Mattifying Protector SPF30 Lotion ochronny,,,,krem,normalna,"ochronne, matujące",30
+986,Skincyclopedia,Anti-Blemish Face Fluid SPF50+ Krem z filtrem,39.9,,,krem,"normalna, tłusta, z przebarwieniami, trądzikowa","matujące, ochronne",50
+987,Lirene Dermoprogram,"Sporty, Emulsja ochronna do twarzy i ciała SPF 30 ",,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące, regenerujące",30
+988,Maria Galland,194 Protective Care for the Face SPF 50 Ochronny krem do twarzy,,,,krem,normalna,ochronne,50
+989,A'pieu,Pure Block Aqua Sun Gel SPF50+ PA+++ Żelowy krem przeciwsłonecznyz filtrem UV,81.99,,,,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+990,Soraya,"Sun Care, Ochronny krem do twarzy SPF 50 (nowa wersja) ",21.99,5,4,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",50
+991,Seventyonepercent,Eco Sun Shield Invisible SPF50+ Krem z filtrem,,,,krem,"tłusta, dojrzała","ochronne, matujące, kryjące",50
+992,I'm from,Rice Sunscreen SPF 50+ Krem do twarzy z SPF50+,,,,krem,"mieszana, sucha, odwodniona","nawilżające, ochronne",50
+993,Sun Dance,"High Protection Sun Creme, SPF50+ Krem do opalania z wysoką ochroną  SPF50+",,,,krem,"normalna, sucha","nawilżające, ochronne",50
+994,Farmona,"Professional Home Use, Krem ochronny SPF50 ",,,,krem,"odwodniona, sucha","nawilżające, ochronne, odżywcze, rozświetlające, ujędrniające, łagodzące",50
+995,Esfolio,"Blue Flower, Protect Cream SPF50+ PA+++ Ochronny krem do twarzy z filtrem przeciwsłonecznym",,,,krem,"normalna, mieszana, sucha, dojrzała, odwodniona","nawilżające, rozświetlające, ochronne, łagodzące, odżywcze",50
+996,Eco Cosmetics,Transparent Natural Sensivite Sonnengel Gesicht SPF 30 Żel na słońce do twarzy SPF 30,,,,żel,"normalna, wrażliwa, tłusta","ochronne, łagodzące, regenerujące, odżywcze",30
+997,La Prairie,Cellular Swiss UV Protection Veil Krem do opalania twarzy SPF 50,,,,,normalna,"ochronne, nawilżające",50
+998,The Inkey List,Polyglutamic Acid Dewy Suncscreen SPF 30 Krem przeciwsłoneczny do twarzy z filtrem SPF 30,,4,1,krem,normalna,ochronne,30
+999,Novaclear,"Advanced, High Protection SPF50,  Dark Spot Correcting Cream Depigmentacyjny krem do twarzy z filtrem ochronnym SPF50",,,,krem,z przebarwieniami,"nawilżające, ochronne, odżywcze, wygładzające, na przebarwienia",50
+1000,Dr. Jart+,Every Sun Day Waterproof Sun Milk SPF50+/PA++++ Wodoodporne mleczko ochronne,,,,,"normalna, tłusta",ochronne,50
+1001,Altruist,Family Sunspray SPF 50 Rodzinny krem przeciwsłoneczny,86.5,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+1002,Carbon Theory,Anti-Breakout Facial Cream SPF50+ Krem ochronny,,,,krem,"tłusta, wrażliwa, trądzikowa, odwodniona, sucha, do wszystkich typów skóry","nawilżające, ochronne",50
+1003,Synchroline,"Thiospot, Ultra SPF 50+ Krem rozjaśniający z SPF 50+",,5,1,krem,"wrażliwa, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+1004,Dax Sun,"Urban Adapt Complete Protection, Intensywnie nawilżające ochronne mleczko do opalania SPF30 (UVA, UVB, IR, HEV) ",,,,mleczko,"normalna, sucha","nawilżające, ochronne",30
+1005,Biotherm,Creme Solaire Dry Touch SPF 50 [Matte Effect Face Cream] Krem matujący do opalania twarzy,,,,krem,"normalna, wrażliwa, tłusta","matujące, ochronne, nawilżające",50
+1006,Health Labs Care,"Glow On, Krem SPF 50+ z melaniną ",149.0,5,1,krem,normalna,"nawilżające, ochronne",50
+1007,Sun Dance,"Sensitiv, Sun Fluid SPF30 Fluid przeciwsłoneczny SPF30",,,,krem,"wrażliwa, odwodniona, sucha","ochronne, łagodzące, nawilżające",30
+1008,VZK Laboratory,Oil Control Sun Protection Face Fluid SPF50+ Krem do twarzy dla skóry tłustej,65.99,,,krem,"tłusta, z przebarwieniami","matujące, ochronne, przeciwzmarszczkowe, na przebarwienia",50
+1009,Sunmirang,SUNBlock Cream SPF50 + PA +++ Krem przeciwsłoneczny SPF50 + PA +++,,,,krem,normalna,"ochronne, nawilżające",50
+1010,Garnier,"Ambre Solaire, Invisible Protect Refresh Spray SPF30 Spray ochronny do opalania SPF30",,5,1,,"normalna, tłusta","nawilżające, ochronne",30
+1011,Suntegrity Skincare,"5 in 1 Natural Moisturizing Face Sunscreen Tinted, Broad Spectrum SPF 30 (Krem ochronny) ",,,,krem,,"ochronne, nawilżające",30
+1012,KORA Organics,"Silky Sun Drops, 100% Mineral Sunscreen SPF30 Serum do twarzy z filtrem SPF30",,,,żel,do wszystkich typów skóry,"nawilżające, ochronne, odżywcze",30
+1013,Filorga,"Sun Care, UV-Bronze Anti-Ageing Sun Mist SPF 50 Przeciwstarzeniowy spray do opalania",,,,płyn,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+1014,Murad,"Age-Proof Suncare, Oil-Free Sunscreen SPF 30 PA+++ Krem ochronny SPF 30 - wysoka ochrona",,,,krem,sucha,"nawilżające, ochronne",30
+1015,Maria Galland,193 Protective Care for the Face SPF 30 Ochronna emulsja do twarzy SPF 30,,,,,normalna,"ochronne, nawilżające",30
+1016,L'Oreal Paris,"Bright Reveal, Daily UV Stick SPF50+ Sztyft przeciwsłoneczny przeciw przebarwieniom SPF50+",,,,krem,"tłusta, z przebarwieniami, odwodniona, sucha","ochronne, łagodzące, rozświetlające, nawilżające, na przebarwienia",50
+1017,Celimax,"Dual Barrier, Watery Sun Cream SPF50+ PA++++ Krem przeciwsłoneczny z wysoką ochroną UV",,,,krem,wrażliwa,"nawilżające, ochronne, odżywcze",50
+1018,Acorelle,Creme Solaire Visage SPF 50 Krem ochronny SPF50,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, matujące",50
+1019,Vichy,"Capital Soleil, Solar Protective Hydrating Water SPF50 Nawilżająca woda ochronna",,,,,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące",50
+1020,Veoli Botanica,"But First, Sunscreen SPF 50+ Lekki krem ochronny nawilżająco-łagodzący",118.99,3.9,7,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, łagodzące",50
+1021,Sinoz,"Pure Cica, Tiger Grass Color Correcting Treatment SPF50+PA++++ Redukujący zaczerwienienia krem przeciwsłoneczny SPF50+PA++++",129.9,,,krem,"tłusta, z przebarwieniami","ochronne, łagodzące, kojące, regenerujące",50
+1022,Revuele,"Sunprotect, Daily Face Cream Oil Control SPF 50+ Przeciwsłoneczny krem do twarzy",,,,krem,"tłusta, trądzikowa, odwodniona, sucha","matujące, ochronne, nawilżające",50
+1023,A'pieu,Super Air Fit Mild Daily SPF50+ PA++++ Krem z filtrem,,,,krem,,ochronne,50
+1024,Nanili,Ultracream SPF 50 Krem SPF 50,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",50
+1025,PUPA,"Multifunction Sun Care, Super Milk Spray SPF 30 Mleczko ochronne i aktywujące melaninę SPF 30",,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne",30
+1026,Dermz,"Blemish Free, Day Shield Anti Acne System SPF50 Krem ochronny przeciw przebarwieniom na dzień SPF50",,,,krem,"sucha, trądzikowa","ochronne, odżywcze, nawilżające, przeciwtrądzikowe ",50
+1027,Selvert Thermal,Ultra Protector Barrier Cream SPF 90 Krem z barierą ochronną SPF90,,,,krem,wrażliwa,"ochronne, nawilżające",90
+1028,Cosrx,Aloe 54.2 Aqua Tone-Up Sunscreen SPF50+/PA++++ Nawilżający krem z filtrem przeciwsłonecznym,,2,1,krem,normalna,"ochronne, nawilżające",50
+1029,Bioup,Mineral Sunscreen Moisturizer SPF30 Krem nawilżający z filtrem mineralnym  SPF30,,,,krem,"mieszana, odwodniona, sucha","nawilżające, ochronne, kojące, łagodzące",30
+1030,OMI,Verdio UV Mild Gel SPF 30 PA+++ Delikatny żel SPF 30 PA+++,,,,,normalna,"ochronne, nawilżające",30
+1031,Altruist,"Dermatologist, Face Fluid SPF30 Regenerujący fluid przeciwsłoneczny SPF30",61.99,4,1,krem,do wszystkich typów skóry,"nawilżające, ochronne, regenerujące, natłuszczające, rozświetlające, ujędrniające, wygładzające, łagodzące",30
+1032,Florence by Mills,"Sunny Skies, Facial Moisturizer SPF30 Nawilżający krem do twarzy SPF30",,4,1,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne, odżywcze",30
+1033,Axis-Y,Complete No-Stress Physical Sunscreen SPF50+/PA++++ Krem z filtrami fizycznymi,93.0,3,1,krem,"trądzikowa, tłusta, odwodniona, sucha","ochronne, odżywcze, nawilżające, wzmacniające",50
+1034,VT Cosmetics,Cica Essence Sun SPF50++/PA++++ Esencja przeciwsłoneczna do twarzy SPF50+,,4,1,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, chłodzące",50
+1035,Abib,Sedum Hyaluron Sunscreen SPF50+/PA++++ Nawilżający krem z filtrem,91.99,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące",50
+1036,Bella Aurora,Anti-Dark Spots Sunscreen SPF50+ Normal-Dry Skin Krem ochronny przeciw przebarwieniom do cery normalnej i suchej,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, odżywcze",50
+1037,Bielenda Professional,"Post Treatment Care, Multi-Protective Face Cream SPF 50 Multiochronny krem do twarzy SPF 50 `Cica & D-panthenol`",99.0,5,1,krem,"normalna, atopowa, wrażliwa, trądzikowa","nawilżające, ochronne, łagodzące",50
+1038,Shiseido,Suncare Sun Urban Lotion SPF 30 Krem do twarzy z filtrem SPF 30,136.0,5,1,krem,normalna,ochronne,30
+1039,SVR,Ecran Mineral Teinte SPF 50 - wysoka ochrona Krem tonujący z filtrami mineralnymi SPF 50 dla skóry suchej i bardzo suchej,,,,krem,"wrażliwa, sucha",ochronne,50
+1040,Mizon,"Inout, Smooth Mineral Sun Stick SPF50 PA++++ Mineralny krem przeciwsłoneczny w sztyfcie SPF50 PA++++",,,,krem,"normalna, mieszana, sucha","ochronne, wygładzające, uelastyczniające, nawilżające",50
+1041,SunOzon,Anti Age Sonnenfluid LSF 50 Fluid przeciwsłoneczny SPF 50,,,,krem,"normalna, z przebarwieniami",ochronne,50
+1042,Innisfree,Intensive Triple Shield Sunscreen SPF50+/PA+++ Ochronny krem przeciwsłoneczny,,,,krem,"normalna, sucha, tłusta, z przebarwieniami","ochronne, regenerujące",50
+1043,Pyunkang Yul,Calming Sun Cream SPF50+ Krem z filtrem,69.0,,,krem,normalna,"ochronne, nawilżające",50
+1044,Ultrasun,Tinted Face Cream SPF30 Koloryzująco-ochronny krem do twarzy,,,,krem,normalna,"ochronne, nawilżające",30
+1045,Scandia Cosmetics,"Sun Mist, Mgiełka do twarzy z SPF 30 ",,5,1,płyn,"odwodniona, sucha, normalna","nawilżające, ochronne, łagodzące, odżywcze",30
+1046,Transparent Lab,Lightweight Sunscreen SPF50+ PPD33 Lekki krem przeciwsłoneczny SPF50+,110.0,,,krem,"tłusta, odwodniona, sucha","nawilżające, ochronne",50
+1047,Tony Moly,"UV Master, Perfecting Sun Block SPF50+ PA+++ Krem z filtrem przeciwsłonecznym",,,,krem,normalna,"ochronne, nawilżające",50
+1048,Thank you Farmer,"Sun Project, Skin Relief Sun Crem SPF50+PA++++ Łagodzący krem przeciwsłoneczny SPF50+PA++++",,5,1,krem,"tłusta, wrażliwa, odwodniona, sucha","ochronne, łagodzące, nawilżające, przeciwzmarszczkowe",50
+1049,Medik8,Physical Sunscreen Anti- Pollution Broad Spectrum SPF50 Krem ochronny SPF50,,,,krem,młoda,ochronne,50
+1050,Ziaja,"Sopot Sun, Emulsja do twarzy i ciała fotostabilna wodoodporna SPF 30 ",23.24,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",30
+1051,Organic Shop,Sunscreen Day Face Cream SPF30 Przeciwsłoneczny krem do twarzy SPF30,,,,krem,do wszystkich typów skóry,"nawilżające, ochronne",30
+1052,Ultra Violette,"Preen Screen, Reapplication Mist SPF 50 Przeciwsłoneczna mgiełka do twarzy z filtrem SPF 50",,,,płyn,,"ochronne, zmiękczające",50
+1053,Sensum Mare Dermocosmetics,"Algodrops,  Anti-Photoagening Face Emulsion SPF50+ Innowacyjna lekka emulsja przeciw fotostarzeniu SPF50+",,5,1,krem,"tłusta, wrażliwa, z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, na przebarwienia",50
+1054,Oriflame,"Sunzone, Anti-Ageing UV Protector Face and Exposed Areas SPF 25 Przeciwstarzeniowy balsam ochronny do twarzy i ciała",,,,krem,normalna,"matujące, ochronne",25
+1055,Dr Dennis Gross,Dark Spot Sun Defense SPF50 Krem przeciwsłoneczny,,,,,"wrażliwa, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",50
+1056,Thank you Farmer,Sun Project Light Sun Essence SPF50+ PA+++ Esencja przeciwsłoneczna do twarzy,101.99,,,,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące",50
+1057,Collistar,"Active Protection Face Tanning Cream SPF50+ Aktywny krem przeciwzmarszczkowy, lekko brązujący SPF 50+",,,,krem,z przebarwieniami,"nawilżające, ochronne, przeciwzmarszczkowe",50
+1058,Paediprotect,Sonnenspray SPF 50+ Spray przeciwsłoneczny SPF 50+,,,,,"normalna, wrażliwa, sucha","nawilżające, ochronne, odżywcze",50
+1059,Alma Secret,"Anti-Age and Illuminating Powerful Vitamin C, Ginseng & Moringa Oil SPF30 Przeciwstarzeniowo-rozświetlający krem z witaminą C, żeń-szeniem i olejem Moringa",,,,,"normalna, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",30
+1060,Mikkolo,Krem przeciwsłoneczny SPF15 ,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",15
+1061,Yves Rocher,Elixir Botanique Multi Protection UV SPF 50+ Krem do twarzy ochrona przed promieniowaniem SPF 50,,,,krem,"normalna, wrażliwa","nawilżające, ochronne, regenerujące",50
+1062,Etude,Sunprise Natural Corrector SPF50+ Krem przeciwsłoneczny z funkcją bazy pod makijaż,,,,krem,normalna,"ochronne, przeciwzmarszczkowe, nawilżające",50
+1063,Maria Galland,"Cellular' Sun, Protective Face Cream SPF30 No.960 Krem ochronny do twarzy SPF30",,,,krem,"tłusta, odwodniona, sucha","ochronne, nawilżające",30
+1064,Thank you Farmer,"Sun Project, Water Sun Cream SPF50+/PA++++ Lekki krem przeciwsłoneczny do twarzy",,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące",50
+1065,Roger Publishing (RP Beauty),Nawilżający krem z filtrem SPF50 ,,5,1,krem,"odwodniona, sucha","nawilżające, ochronne",50
+1066,Ma:nyo,Panthe-Calming Sun Cream SPF50+ Kojący krem ochronny do skóry nadwrażliwej i reaktywnej SPF50+,,,,krem,"sucha, tłusta, wrażliwa, z przebarwieniami, odwodniona","ochronne, łagodzące, regenerujące, nawilżające, antybakteryjne, na przebarwienia",50
+1067,FarmStay,UV Shield Sun Block Cream SPF 50+ Bloker z kwasem hialuronowym,,,,krem,"odwodniona, sucha","ochronne, nawilżające",50
+1068,Shiseido,"Expert Sun, Protector Cream SPF50+ Wodoodporny krem do opalania twarzy SPF50+",,,,krem,do wszystkich typów skóry,"ochronne, wygładzające, nawilżające",50
+1069,Neutrogena,"Clear Face, Liquid Lotion Sunscreen Broad Spectrum SPF 55 Emulsja ochronna do cery trądzikowej",,,,balsam,"tłusta, trądzikowa",matujące,55
+1070,Seyo,Krem peptydowy SPF 30 ,,,,krem,wrażliwa,"nawilżające, ochronne, regenerujące",30
+1071,SunOzon,"Sensitiv, Sun Fluid SPF50 Fluid przeciwsłoneczny do skóry wrażliwej SPF50",,,,krem,normalna,ochronne,50
+1072,Bondi Sands,Fragrance Free Face Mist SPF 50+ Bezzapachowa mgiełka do twarzy SPF 50+,69.99,,,żel,"odwodniona, sucha","nawilżające, ochronne, odżywcze",50
+1073,Medi Peel,"Peptide 9, Bio Sun Stick Pro SPF50+ PA+++ Krem przeciwsłoneczny w sztyfcie",,,,masło,,"ochronne, wygładzające, uelastyczniające, wzmacniające",50
+1074,Ecooking,Sunscreen For The Face SPF50 Krem do twarzy SPF50,,,,,normalna,ochronne,50
+1075,Babaria Natural Cosmetics,Sun Facial Sun Cream SPF 50 Krem do opalania do twarzy z aloesem SPF 50,,,,krem,normalna,"nawilżające, ochronne, regenerujące",50
+1076,Bioaqua,"Aloe Vera, Sunscreen Repair Lotion SPF60+ Aloes, Krem do opalania SPF60",,,,krem,"odwodniona, sucha","ochronne, kojące, nawilżające, regenerujące, łagodzące",60
+1077,Nacific,"Fresh Herb, Origin Sun Block SPF50+/PA++++ Ochronny krem do twarzy SPF50+PA++++",,,,krem,"wrażliwa, odwodniona, sucha","matujące, ochronne, kojące, nawilżające",50
+1078,SunOzon,"Sensitiv,  Sun Stick SPF50+ Sztyft do twarzy z SPF50+",,,,krem,"normalna, wrażliwa, sucha","ochronne, odżywcze",50
+1079,Phlov by Anna Lewandowska,"Sun Flow, Krem do twarzy SPF 50 ",,5,1,krem,normalna,"ochronne, odżywcze, nawilżające",50
+1080,Lancaster,Sun Perfect Perfecting Fluid SPF 50 Fluid przeciw przebarwieniom SPF 50,,,,krem,"normalna, sucha, tłusta, z przebarwieniami",ochronne,50
+1081,beBIO,Nawilżający krem do twarzy SPF30 ,,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące",30
+1082,Coola,Sun Silk Drops SPF 30 Krem do opalania,,,,,normalna,"matujące, ochronne, łagodzące, odżywcze, nawilżające",30
+1083,Zo Skin Health,Sunscreen + Primer SPF 30 Krem z filtrem o szerokim spektrum ochrony SPF 30 + Baza pod podkład,,,,krem,"mieszana, tłusta","nawilżające, ochronne, wygładzające, ujędrniające, matujące",30
+1084,Innoaesthetics,"Inno- Derma, Sun Defense for Normal / Combination Skin  SPF 50+ Pielęgnujący krem ochronny SPF 50+ dla każdego rodzaju skóry",,,,krem,"wrażliwa, z przebarwieniami, odwodniona, sucha, normalna, mieszana","nawilżające, ochronne, łagodzące",50
+1085,Eau Thermale Avène,Anti-Pigmentation Tinted Fluid SPF50+ Koloryzujący fluid przeciw przebarwieniom SPF50+,99.99,,,krem,z przebarwieniami,"ochronne, na przebarwienia",50
+1086,Jumiso,"Water Full, Hyaluronic Acid Sunscreen SPF50+PA++++ Nawilżający krem ochronny SPF50+PA++++",55.0,,,krem,"odwodniona, sucha","nawilżające, ochronne",50
+1087,Diego Dalla Palma,"Urban Life, Daily Protective Fluid SPF50 Filtr ochronny SPF 50",,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+1088,Maria Galland,"Cellular ' Sun, Protective Face Cream SPF50+ No.961 Krem ochronny do twarzy SPF50+",,,,krem,"tłusta, odwodniona, sucha","ochronne, nawilżające",50
+1089,Uriage,"Bariesun, Crème Hydratante SPF30 Nawilżający krem ochronny",,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",30
+1090,Back To Comfort,"R-Oxy, Lekki krem ochronny SPF50+ ",,,,krem,"wrażliwa, sucha, tłusta, z przebarwieniami","nawilżające, ochronne, regenerujące",50
+1091,Evy,Sunscreen Mousse SPF30 Krem przeciwsłoneczny w piance,,,,pianka,"normalna, sucha, tłusta",ochronne,30
+1092,Zo Skin Health,Sheer Fluid Broad Spectrum SPF50 Transparentna emulsja ochronna do twarzy SPF50,,,,krem,"tłusta, z przebarwieniami","ochronne, przeciwzmarszczkowe",50
+1093,BRTC,Jasmine 3D Waterful Sun Mist SPF 32 PA++ Wodna mgiełka ochronna SPF 32 PA++,,,,,"normalna, sucha","nawilżające, ochronne, łagodzące",32
+1094,Image Skincare,"Prevention +, Daily Ultimate Protection Moisturizer SPF 50 Krem ochronyy",,,,krem,normalna,"nawilżające, ochronne",50
+1095,Clarena,"Sensi Peptide Line, Sun Protect Cream SPF50 Krem przeciwsłoneczny SPF50",96.5,,,krem,"naczynkowa, wrażliwa","nawilżające, ochronne, łagodzące, regenerujące",50
+1096,Christina Cosmeceuticals,"Comodex, Mattifying Sun Screen SPF 15 Krem matujący do opalania do skóry problematycznej",,,,krem,"normalna, tłusta, z przebarwieniami","nawilżające, ochronne",15
+1097,House of Dohwa,Rice Bran Sunscreen SPF50+ PA++++ Krem przeciwsłoneczny do twarzy,,,,krem,,"ochronne, regenerujące, odżywcze, rozświetlające",50
+1098,Skincyclopedia,Hydrating Complex High Sun Protection Face Fluid SPF50 Przeciwsłoneczny fluid do twarzy SPF50,39.9,5,3,krem,"odwodniona, sucha, dojrzała, normalna, z przebarwieniami","ochronne, nawilżające, regenerujące, przeciwzmarszczkowe, matujące",50
+1099,No Cosmetics,"Luminous Today, Glowy Sun Fluid SPF50+ Rozświetlający fluid ochronny SPF50+",,,,krem,normalna,ochronne,50
+1100,Isdin Isdinceutics,Foto Ultra 100 Active Spot Prevent Fusion Fluid SPF50+ Fluid ochronny do twarzy,,,,krem,"normalna, tłusta, alergiczna, wrażliwa, z przebarwieniami","nawilżające, ochronne",50
+1101,Sylveco,Krem do twarzy ochronny SPF 50 ,,,,krem,normalna,"ochronne, nawilżające",50
+1102,The Saem,"Eco Earth, All Protection Sun Cream SPF50+ PA++++ Krem przeciwsłoneczny z filtrem UV",,,,krem,normalna,ochronne,50
+1103,Orientana,Natural Sunscreen Anti-ageing Golden Ginseng SPF 50 UVA/UVB Skin Tint Krem do twarzy złoty żeń-szeń SPF 50+,,4.6,7,krem,"normalna, z przebarwieniami","przeciwzmarszczkowe, nawilżające",50
+1104,Caudalie,Vinosun Protect Eau Solaire SPF50+ Woda ochronna do twarzy SPF50+,61.99,,,płyn,wrażliwa,ochronne,50
+1105,SunOzon,"Face, Sensitiv Sun Fluid SPF50+ Fluid przeciwsłoneczny do skóry wrażliwej SPF50+",,,,krem,wrażliwa,"ochronne, nawilżające",50
+1106,Skin1004,"Madagascar Centella, Air-Fit Suncream Plus SPF50+ PA++++ Krem z filtrem UV",107.44,3.5,2,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, łagodzące",50
+1107,KOI Cosmetics,"Skin Balance, Tonujący krem z filtrem SPF30 ",,,,krem,"mieszana, trądzikowa, tłusta, wrażliwa","ochronne, oczyszczające, przeciwtrądzikowe ",30
+1108,Bondi Sands,Hydrating Sunny Daze SPF 50 Moisturiser Krem na dzień z filtrem przeciwsłonecznym,,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, regenerujące, odżywcze, matujące",50
+1109,CeraVe,Hydrating Sunscreen  Face Sheer Tint SPF 30 Nawilżający krem ​​przeciwsłoneczny SPF 30,,,,krem,normalna,"nawilżające, ochronne",30
+1110,Byoma,Moisturizing Gel-Cream SPF 30 Żel krem nawilżający z filtrem SPF 30,89.0,5,2,żel,"tłusta, odwodniona, sucha","ochronne, nawilżające",30
+1111,Skinvisibles,Even Sense Fluid SPF 50 Krem z filtrem SPF 50,,,,,"wrażliwa, sucha","nawilżające, ochronne, łagodzące",50
+1112,Vichy,"Capital Soleil, Ultra Light Daily Anti-Aging Face Sunscreen SPF 50 Codzienny krem ​​przeciwsłoneczny do twarzy",,,,krem,,ochronne,50
+1113,100% Pure,Yerba Mate Mist SPF 30 Przeciwsłoneczny spray z SPF 30,,,,krem,tłusta,"matujące, ochronne",30
+1114,Krave Beauty,"The Beet Sun, Sunscreen SPF 47 PA ++++ Antyoksydacyjna emulsja ochronna z filtrem",,,,krem,normalna,"nawilżające, ochronne",47
+1115,Skin1004,"Tea-Trica, Soothing Sun Milk Super Light SPF 50+ PA++++ Łagodzący krem przeciwsłoneczny SPF50+ PA++++",122.49,,,krem,"trądzikowa, wrażliwa, odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące, przeciwtrądzikowe ",50
+1116,SunOzon,"Sensitiv, Sun Fluid SPF30 Fluid przeciwsłoneczny do skóry wrażliwej SPF30",,,,krem,"normalna, sucha","ochronne, nawilżające",30
+1117,SunOzon,"Beach Tour, Blue Lagoon, Sun Fluid SPF50 Fluid przeciwsłoneczny SPF50",,,,emulsja,"odwodniona, sucha","ochronne, nawilżające, matujące",50
+1118,Lancome,"UV Expert Supra Screen, Invisible UV Serum SPF 50+ Serum do twarzy SPF 50+",184.0,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, regenerujące, matujące",50
+1119,Kose,Grace One Wrinkle Care Moist Gel Essence UV SPF 50+ PA++++ Przeciwzmarszczkowy żel-esencja UV SPF 50+ PA++++,,,,żel,normalna,"ochronne, przeciwzmarszczkowe",50
+1120,Synoptis Pharma,Krem ochronny do skóry z przebarwieniami SPF 50+ (nowa wersja) ,35.9,5,1,krem,"naczynkowa, wrażliwa, z przebarwieniami",ochronne,50
+1121,Coco & Eve,Daily Water Gel SPF 50+ Żel przeciwsłoneczny,,,,żel,"odwodniona, sucha","ochronne, łagodzące, regenerujące, nawilżające",50
+1122,The Body Shop,"Drops of Light, Skin Defence Multi-Protection Lotion SPF50 Ochronny balsam do twarzy SPF50",,,,krem,normalna,ochronne,50
+1123,Missha,Flash-up Sun SPF 50+ PA ++++ Krem rozświetlający przeciwsłoneczny SPF50+,,,,krem,normalna,"ochronne, nawilżające",50
+1124,Anua,"Heartleaf, Silky Moisture Sun Cream SPF50 Nawilżający krem do twarzy SPF50",,5,2,krem,"odwodniona, sucha","nawilżające, ochronne, kojące, łagodzące",50
+1125,Frudia,"Green Grape, Sebum Control Cooling Sun Gel SPF50+ PA++++ Żel przeciwsłoneczny do twarzy",,,,żel,"mieszana, trądzikowa, tłusta","nawilżające, ochronne, łagodzące, wygładzające",50
+1126,Dax Sun,Regenerujący krem ochronny z ceramidami SPF 50+ ,30.45,5,2,krem,"z przebarwieniami, odwodniona, sucha","ochronne, regenerujące, nawilżające, uelastyczniające, wzmacniające",50
+1127,Innoaesthetics,"Inno-Derma,  Sun Defense Oily Skin SPF 50+ Lekki krem ochronny SPF 50+ dla skóry tłustej i trądzikowej",,,,krem,"trądzikowa, tłusta, mieszana, z przebarwieniami","nawilżające, ochronne, matujące",50
+1128,Floslek,"Sun Care, Suchy olejek do opalania SPF 15 ",27.06,,,płyn,,"nawilżające, ochronne",15
+1129,WEDZE,Solar Cream + Lip Balm SPF50+ Krem przeciwsłoneczny i ochronna pomadka 2w1 SPF 50+,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+1130,Eliza Jones,Daily Protective Drops SPF30 Krem ochronny do twarzy w kroplach SPF30,,,,krem,do wszystkich typów skóry,ochronne,30
+1131,SunOzon,"Face, Sport Sun Fluid SPF50+ Fluid przeciwsłoneczny SPF50+",,,,krem,"wrażliwa, sucha","ochronne, nawilżające",50
+1132,Lebelage,Moisture Aloe Sun Cream SPF50+PA+++ Krem przeciwsłoneczny do twarzy,,,,krem,normalna,"ochronne, nawilżające",50
+1133,VZK Laboratory,Ultra Light Sun Protection Face Cream SPF50+ Ultra lekki krem do twarzy,89.99,,,krem,"tłusta, z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, przeciwzmarszczkowe, na przebarwienia",50
+1134,Holika Holika,"Water Mellow Tone Up, Moisture Make Up, Sun Cream SPF 50+ PA++++ Tonujące serum do twarzy  filtrem przeciwsłonecznym",89.99,,,krem,"odwodniona, sucha","nawilżające, ochronne, koloryzujące, regenerujące",50
+1135,Tia'm,My Signature Vita Red Sunscreen SPF 50+/PA+++ Krem ochronny,,,,krem,normalna,"nawilżające, ochronne, łagodzące, regenerujące",50
+1136,Kimoco Beauty,"Orchid Cream, Wygładzająco-nawilżający krem na dzień z filtrem SPF50+ ",,5,2,krem,"odwodniona, sucha","nawilżające, ochronne, wygładzające",50
+1137,Allies of Skin,"The One,  Invisible Sunscreen Gel SPF50 PA++++ Krem z ochroną przeciwsłoneczną SPF 50 PA++++",,,,żel,do wszystkich typów skóry,"nawilżające, ochronne, regenerujące, odżywcze",50
+1138,Clarins,UV-Plus [5F] Anti- Pollution Multi- Protection Moisturizing Screen SPF50 PA+++ Miejski ekran ochronny,,,,krem,"odwodniona, sucha","nawilżające, ochronne, wzmacniające",50
+1139,SunOzon,Vitamin Sun Fluid SPF50 Fluid przeciwsłoneczny SPF50,,,,krem,normalna,ochronne,50
+1140,Supergoop,Glow Stick Sunscreen SPF 50 PA++++ Rozświetlający sztyft ochronny SPF 50 PA++++,,,,,"normalna, sucha","nawilżające, ochronne",50
+1141,WEDZE,Sun Stick SPF50+ Przeciwsłoneczny sztyft ochronny do twarzy i ust,,,,,normalna,ochronne,50
+1142,Isdin Isdinceutics,Fotoprotector Fusion Water Urban SPF30 Ochronny krem do twarzy,,,,krem,"normalna, sucha, tłusta, alergiczna, wrażliwa","nawilżające, ochronne",30
+1143,Alkmie,"Sun D-Light, Krem do twarzy SPF 50 ",159.0,3.5,2,krem,normalna,"ochronne, nawilżające",50
+1144,Biotherm,"Waterlover, Face Sunscreen SPF30 Przeciwzmarszczkowy krem ​​do twarzy SPF30",,,,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące",30
+1145,Yasumi,Defender Cream SPF 50 + HA Krem ochronny z filtrem SPF 50,,5,1,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, przeciwzmarszczkowe, na przebarwienia",50
+1146,Institut Esthederm,Photo Reverse Krem ochronny zapobiegający powstawaniu przebarwień,,3,1,krem,z przebarwieniami,ochronne,
+1147,Clinique,"Sun, Targeted Protection Stick SPF 35 Sztyft przeciwsłoneczny dla miejsc wrażliwych",,,,krem,"wrażliwa, sucha","nawilżające, ochronne, łagodzące",35
+1148,Caudalie,Vinosun Protect Stick Invisible SPF50 Sztyft ochronny do twarzy SPF50,,,,balsam,"tłusta, wrażliwa","ochronne, odżywcze",50
+1149,Cell Fusion C,"Expert, Barriederm Mild Care Suncream SPF50+ Krem łagodzący",200.0,,,krem,"sucha, wrażliwa, alergiczna, atopowa","ochronne, łagodzące, regenerujące, antybakteryjne",50
+1150,Apis,"Pure Sun Care, Ochronny krem do twarzy SPF30+ ",,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, odżywcze, regenerujące",30
+1151,Tony Moly,"Red Retinol, Radiance Sun Essence SPF50+ PA+++ Odmładzająca esencja przeciwsłoneczna do twarzy",,,,emulsja,,"ochronne, łagodzące, regenerujące, rozświetlające, uelastyczniające",50
+1152,Skeyndor,"Sun Expertise, Protective Cream SPF 50+ Krem ochronny do twarzy z technologią Blue Light",,,,krem,"normalna, sucha",ochronne,50
+1153,Goodal,Vegan Rice Milk Moisturizing Sun Cream SPF50+/PA++++ Wegański krem nawilżający SPF50+,,,,krem,"odwodniona, sucha","nawilżające, odżywcze, kojące, ochronne",50
+1154,Nivea,UV Face Shine Control Cream SPF 50 Matujący krem do twarzy z filtrem przeciwsłonecznym 50,,,,krem,,"matujące, nawilżające",50
+1155,Hawaiian Tropic,Mineral Skin Nourishing Facial Milk SPF 30 Mleczko do opalania twarzy,94.69,,,krem,"normalna, sucha, tłusta","ochronne, nawilżające",30
+1156,Thalgo,Creme Solaire Age Defense SPF 30 [Age Defence Sun Cream] Krem przeciwzmarszczkowy,,,,krem,normalna,"nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",30
+1157,Garnier,"Ambre Solaire, Super UV, Hyaluronic Acid, Very High Protection SPF50 Nawilżający fluid do twarzy z kwasem hialuronowym SPF50",,3.8,5,emulsja,"do wszystkich typów skóry, z przebarwieniami","nawilżające, ochronne",50
+1158,Kolastyna,"Hyaluron Super Mat, Ochronny krem do twarzy SPF 30 (nowa wersja) ",18.9,2.5,2,krem,"normalna, sucha","matujące, ochronne, nawilżające",30
+1159,Weleda,"Sun, Edelweiss Sonnencreme Gesicht LSF 30 Krem z filtrem SPF 30",,,,krem,,"nawilżające, ochronne, regenerujące",30
+1160,Kolastyna,"Hyaluron, Anti-Age, Ochronny krem do twarzy SPF50 ",23.45,4,1,krem,"z przebarwieniami, odwodniona, sucha, dojrzała, normalna","przeciwzmarszczkowe, nawilżające, ochronne",50
+1161,Epionce,Ultra Shield Lotion SPF 50 Sunscreen Mleczko ultraochronne,,,,mleczko,"normalna, z przebarwieniami",ochronne,50
+1162,Ma:nyo,"Moisture Foundation, Free Sun Cream SPF50 Nawilżający krem ochronny do twarzy SPF50",,,,krem,"wrażliwa, z przebarwieniami","nawilżające, ochronne, uelastyczniające, na przebarwienia",50
+1163,We Love The Planet,Sunscreen Stick SPF 20 Sztyft przeciwsłoneczny SPF 20,,,,,normalna,ochronne,20
+1164,Skin1004,"Madagascar Centella, Probio-Cica, Glow Sun Ampoule SPF50+ PA++++ Nawilżający krem do twarzy z SPF50+PA++++",113.99,,,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, regenerujące, łagodzące, na przebarwienia",50
+1165,RAU Cosmetics,Sensitive Sun Care LSF 50 Pielęgnacyjna emulsja ochronna na słońce z SPF 50,,,,krem,"wrażliwa, sucha, tłusta",ochronne,50
+1166,EveryBody London,"Face Cream with Niacynamide, High Protection UVB/UVA SPF50 Przeciwsłoneczny krem do twarzy z niacynamidem SPF50",49.9,,,krem,"odwodniona, sucha","przeciwzmarszczkowe, ochronne, łagodzące, nawilżające, koloryzujące, regenerujące",50
+1167,Korres,Red Grape Daily Sunscreen Face Cream SPF 50 Krem ochronny do twarzy SPF50,150.0,,,krem,z przebarwieniami,"ochronne, rozświetlające, koloryzujące, nawilżające",50
+1168,Swanicoco,All Day Care Pro-Biom Sun Gel SPF 50 + PA ++++ Lekki krem-żel nawilżający z wysoką ochroną przeciwsłoneczną,,,,,"normalna, wrażliwa, sucha","nawilżające, ochronne, przeciwzmarszczkowe",50
+1169,Eeny Meeny,Ochronny Krem do twarzy SPF50 (nowa wersja) ,99.0,4.6,110,krem,"wrażliwa, sucha, normalna, do wszystkich typów skóry","nawilżające, ochronne",50
+1170,BePlain,Clean Ocean Moisture Sunscreen Nawilżający krem do twarzy SPF50,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, regenerujące, przeciwzmarszczkowe",50
+1171,Skeyndor,"Sun Expertise, Tinded Protective Cream SPF 50+ Ochronny koloryzujący krem do twarzy wodoodporny",,,,krem,normalna,ochronne,50
+1172,Eau Thermale Avène,"Cicalfate +, Multiochronny krem regenerujący SPF 50+ ",,4.7,118,krem,"wrażliwa, z przebarwieniami","ochronne, łagodzące, regenerujące, nawilżające",50
+1173,Synchroline,Rosacure Ultra Cream For Skin SPF50+ Krem do twarzy,,,,krem,"normalna, wrażliwa, tłusta, naczynkowa, trądzikowa","ochronne, łagodzące, regenerujące, nawilżające",50
+1174,Zo Skin Health,Sunscreen Broad Spectrum Gel SPF50 Żel ochronny do twarzy SPF50,,,,żel,"młoda, sucha, tłusta","ochronne, wygładzające",50
+1175,Cosmia,Mleczko ochronne SPF 30 ,,5,1,krem,"normalna, wrażliwa, sucha","ochronne, łagodzące",30
+1176,Vichy,"Capital Soleil, 100% Tinted Mineral Sunscreen  for Face SPF 60 Codzienny mineralny krem ​​przeciwsłoneczny do twarzy SPF 60",,,,,normalna,ochronne,60
+1177,Skeyndor,"Sun Expertise, Protective Emulsion Dry Touch SPF 50 Emulsja do twarzy",,,,,wrażliwa,ochronne,50
+1178,Uriage,"Bariersun, Silky Lotion SPF 50+ Jedwabiste mleczko ochronne",69.99,,,mleczko,"normalna, sucha, tłusta","nawilżające, ochronne, regenerujące",50
+1179,Korres,Red Grape Sunscreen Face Cream Krem do opalania twarzy,,,,krem,"wrażliwa, sucha, tłusta","ochronne, regenerujące",
+1180,Tenzero,"Brightening Yuja, Sun Cream SPF50+ PA++++ Rozjaśniający krem do twarzy z filtrem ochronnym SPF50+",,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, odżywcze, uelastyczniające",50
+1181,Balea,"Beauty Expert, UV Protection Fluid SPF50 Fluid przeciwsłoneczny SPF50",,,,krem,"tłusta, sucha, mieszana, normalna","ochronne, regenerujące, odżywcze, nawilżające",50
+1182,First Aid Beauty,"Ultra Repair, Face Moisturizer with Sunscreen SPF30 Nawilżający krem do twarzy SPF30",,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, uelastyczniające",30
+1183,Evy,Sunscreen Mousse SPF20 Krem przeciwsłoneczny w piance,,,,pianka,"normalna, sucha, tłusta",ochronne,20
+1184,Cell Fusion C,Stick Sunscreen 100 SPF50+ PA++++ Krem przeciwsłoneczny w sztyfcie,,,,,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+1185,Estee Lauder,"Perfectionist, Pro Multi-Defense Aqua UV Gel SPF50 with 8 Anti-Oxidants Żel ochronny z antyoksydantami do twarzy SPF50",,,,żel,mieszana,ochronne,50
+1186,Purles,171 Mineral Sunscreen SPF 30 Mineralny filtr przeciwsłoneczny SPF 30,,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, łagodzące, zmiękczające",30
+1187,RoC,"Soleil-Protect, High Tolerance Comfort Fluid SPF50 Fluid ochronny",,,,,"normalna, wrażliwa, tłusta, alergiczna","nawilżające, ochronne",50
+1188,La-Le,Krem ochronny z filtrem mineralnym UVA/UVB SPF 50 (nowa wersja) ,69.89,,,krem,"odwodniona, sucha","ochronne, nawilżające, regenerujące",50
+1189,SunOzon,Sensitiv Sonnenfluid LSF 50 Fluid przeciwsłoneczny SPF 50 do suchej i wrażliwej skóry,,3,1,krem,normalna,"nawilżające, ochronne",50
+1190,A'pieu,Super Air Fit Mild Sunscreen Matte SPF50+/PA++++ Matujący krem ochronny,,,,krem,"wrażliwa, tłusta","matujące, ochronne, regenerujące",50
+1191,iUNIK,Centella Calming Daily Sunscreen SPF 50+ PA++++ Kojący krem ochronny,65.99,5,3,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne, łagodzące",50
+1192,Lebelage,"Perfect Care, Cica Soothing, Sun Cream SPF50+ Pa++++ Kojący krem do twarzy z SPF50+PA++++",,,,krem,wrażliwa,"ochronne, regenerujące, kojące, nawilżające, łagodzące",50
+1193,Floslek,"Winter Care, Krem zimowy przeciwsłoneczny do twarzy SPF 50+ (nowa wersja) ",,,,krem,,"nawilżające, ochronne, łagodzące, regenerujące, wygładzające",50
+1194,Novaclear,"Winter, Ochronny krem do twarzy z filtrem SPF50+ ",,2,1,krem,do wszystkich typów skóry,"nawilżające, ochronne, regenerujące, łagodzące",50
+1195,Vichy,"Mineral 89, 72H Moisture Boosting Day Fluid SPF 50+ Niewidoczny krem-fluid nawilżający do twarzy z SPF 50+",113.44,,,emulsja,"odwodniona, sucha, wrażliwa","nawilżające, ochronne",50
+1196,Missha,"Safe Block RX, Cover Tone Up Sun SPF50 PA++++ Krem ochrony",98.49,,,krem,normalna,"nawilżające, ochronne",50
+1197,Australian Gold,Botanical Premium Coverage Natural Spray SPF50 Ochronny spray z filtrem przeciwsłonecznym,,,,,"normalna, z przebarwieniami","ochronne, nawilżające",50
+1198,CERA+ Solutions,Krem ochronny do skóry wrażliwej SPF30 ,,5,2,krem,"tłusta, wrażliwa, odwodniona, sucha","nawilżające, ochronne",30
+1199,Sesderma,"Repaskin, Urban 365, Anti-Aging, Przeciwstarzeniowy krem ochronny do twarzy SPF50 ",,,,krem,"wrażliwa, z przebarwieniami","nawilżające, ochronne, regenerujące, uelastyczniające, przeciwzmarszczkowe, na przebarwienia",50
+1200,Cosmed,"un Essential, Glowy Sun Serum SPF50+ Nawilżające serum do twarzy z filtrem SPF50+",,5,2,emulsja,"tłusta, wrażliwa, z przebarwieniami, odwodniona, sucha, do wszystkich typów skóry","nawilżające, ochronne, łagodzące, rozświetlające, kojące, regenerujące",50
+1201,Lierac,"Sunissime, Fluide Protecteur Energisant Anti-age Global SPF 30 Energetyzująca emulsja ochronna SPF 30",,,,krem,,ochronne,30
+1202,Sun Bum,SPF 50 Sunscreen Face Lotion Krem przeciwsłoneczny do twarzy,,,,krem,"normalna, alergiczna, wrażliwa",ochronne,50
+1203,Lancaster,"Sun Sport, Roll On Sun Fluid SPF 30 Fluid przeciwsłoneczny w kulce",,,,,,ochronne,30
+1204,Jantar,"Sun, Bursztynowy krem dla dzieci od 6. miesiąca życia SPF 30 ",34.95,,,krem,"młoda, wrażliwa","ochronne, regenerujące, koloryzujące, wzmacniające, ujędrniające",30
+1205,Mary & May,Vegan Peptide Bakuchiol Sun Stick SPF50+ PA++++ Sztyft przeciwsłoneczny do twarzy,65.72,4,1,,"sucha, tłusta","matujące, ochronne, regenerujące",50
+1206,Odacite Pure Elements,Mineral Drops SPF 50 Sunscreen Krem w formie serum `Ochrona przeciwsłoneczna`,,,,krem,"odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące",50
+1207,SunOzon,Sonnenfluid Schutz & Bräune LSF30 Fluid przeciwsłoneczny brązujący SPF 30,,,,krem,normalna,"nawilżające, ochronne",30
+1208,Clarins,"Dry Touch, Sun Care Cream UVA/UVB SPF30 Krem do opalania twarzy",,,,krem,"odwodniona, sucha","nawilżające, ochronne, matujące",30
+1209,Guerlain,"Orchidee Imperiale, Brightening & Perfecting UV Protector  SPF50/PA+++ Krem z filrem UV",,,,krem,"normalna, z przebarwieniami","nawilżające, ochronne",50
+1210,Pai Skincare,"Hello Sunshine, Sensitive Sunscreen SPF 30 Krem do opalania twarzy",,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",30
+1211,Sister's Aroma,Daily Sun Cream SPF 30 PA+++ Krem przeciwsłoneczny,,,,krem,"odwodniona, sucha","ochronne, odżywcze, nawilżające, koloryzujące",30
+1212,Klavuu,Vegan Zinc Suncream SPF 50+ Krem przeciwsłoneczny dla skóry wrażliwej,,,,krem,"normalna, wrażliwa",ochronne,50
+1213,Bioderma,Photoderm XDefense Invisible Ultra-Fluid SPF50+ ,,,,krem,"sucha, tłusta, wrażliwa, odwodniona","nawilżające, matujące, ochronne, odżywcze",50
+1214,Colorescience Pro,"Total Protection, Sport Stick SPF50 Krem ochronny w sztyfcie SPF50",,,,krem,do wszystkich typów skóry,"nawilżające, ochronne",50
+1215,Elizavecca,Milky Piggy Sun Cream SPF 50+/PA+++ Krem z filtrem przeciwsłonecznym,,,,krem,normalna,ochronne,50
+1216,Vichy,"Capital Soleil, Velvety Protective Cream SPF50+ Aksamitny krem do twarzy SPF 50+ (nowa wersja)",,,,krem,"normalna, z przebarwieniami",ochronne,50
+1217,Muldream,Premium Biome Sun Cream SPF50+/PA++ Krem z filtrem,,4.4,15,krem,"mieszana, tłusta, wrażliwa, odwodniona, sucha","ochronne, nawilżające, wygładzające, koloryzujące",50
+1218,Elizabeth Arden,Prevage City Smart Krem nawilżająco-ochronny na dzień SPF 50,,,,krem,"normalna, sucha, tłusta","nawilżające, ochronne",50
+1219,Mary & May,Cica Soothing Sun Cream SPF50+ / PA++++ Łagodzący krem przeciwsłoneczny,,5,1,krem,"normalna, wrażliwa, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+1220,Galenic,"Aqua Urban, Bouclier Invisible SPF30+ [Invisible Shield] Niewidzialna Ochrona SPF30+",,,,,z przebarwieniami,ochronne,30
+1221,Holify,Krem do twarzy hialuronowy SPF 50 PA ++++ ,28.0,4.3,7,krem,"młoda, odwodniona, sucha","nawilżające, ochronne, odżywcze, kojące, wygładzające, uelastyczniające, regenerujące, wzmacniające",50
+1222,Kosas,"DreamBeam, Comfy Smooth Sunscreen SPF 30 Baza ochronna pod makijaż z SPF 30",,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, wygładzające, uelastyczniające, łagodzące",30
+1223,Revuele,Aloe Daily Sun Barrier Waterproof Face Moisturizer SPF50+ Lekki krem nawilżający z aloesem SPF50+,14.89,,,krem,"sucha, wrażliwa, odwodniona, do wszystkich typów skóry","nawilżające, ochronne, łagodzące, chłodzące, kojące",50
+1224,About Me,"Be Clean, Water Sun SPF50+ PA++++ Nawilżający krem z filtrami chemicznymi",,,,krem,"z przebarwieniami, odwodniona, sucha","nawilżające, ochronne, koloryzujące, regenerujące",50
+1225,Yves Rocher,Solaire Peau Parfaite Haute Protector FPS 30 Emulsja przeciwstarzeniowa SPF 30,,,,krem,normalna,"nawilżające, ochronne",30
+1226,Bella Aurora,"Sublime, Intensive Anti-Aging Day Cream SPF20 Krem do twarzy na dzień",,,,krem,"normalna, tłusta","nawilżające, ochronne, regenerujące",20
+1227,Dermi by Dermatologist,"Sun, Nawilżający krem ochronny do twarzy SPF50 ",,1,1,krem,"odwodniona, sucha","nawilżające, ochronne",50
+1228,Beauty of Joseon,"Matte Sun Stick, Mugwort + Camelia SPF50+/PA++++ Matujący sztyft przeciwsłoneczny",63.99,4.4,10,krem,"mieszana, tłusta","matujące, ochronne, łagodzące, regenerujące",50
+1229,Ma:nyo,Hyaluron Hydrating Sunscreen SPF50+ Ultra lekki fluid ochronny SPF 50+,,,,krem,"wrażliwa, z przebarwieniami","nawilżające, ochronne, uelastyczniające, na przebarwienia",50
+1230,HydroPeptide,Solar Defense Tinted Moisturiser SPF 30 Krem ochronny do twarzy koloryzujący,,,,krem,normalna,"odżywcze, nawilżające, matujące",30
+1231,Piz Buin,Mountain Sun Cream SPF50+ and Lipstick SPF30 Wysoce ochronny krem i pomadka,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",50
+1232,MartiDerm,Proteos Screen SPF50 Krem z filtrem do twarzy,,4,2,krem,,"ochronne, wygładzające, uelastyczniające, nawilżające",50
+1233,Be the Skin,Sebum Zero Aloerice Vegan Sun Cream SPF 50+ PA++++ Kojący krem ochronny do twarzy SPF50+PA++++,,5,1,krem,do wszystkich typów skóry,"ochronne, łagodzące, kojące, nawilżające",50
+1234,Hyggee,Fresh Tone-up Sun Cream SPF50+ PA ++++ Tonujący krem ochronny,,,,krem,"normalna, tłusta","nawilżające, matujące, ochronne, regenerujące",50
+1235,Accoje,Protective No Sebum Sun Gel SPF50+ Krem ochronny do twarzy SPF50+,,,,"krem, żel","mieszana, tłusta","matujące, ochronne",50
+1236,SunOzon,"Face, Glow Sun Fluid SPF 50 Fluid przeciwsłoneczny rozświetlający SPF 50",,,,krem,wrażliwa,"ochronne, nawilżające",50
+1237,Caudalie,"Vinosun Protect, Spray Invisible SPF50 Spray ochronny do twarzy SPF50",,,,płyn,wrażliwa,"nawilżające, ochronne",50
+1238,Tosowoong,"Soft Touch, Suncream SPF32 PA++ Krem przeciwsłoneczny",,,,krem,"normalna, wrażliwa, sucha, alergiczna",ochronne,32
+1239,Spirig,Daylong Extreme SPF 50+ Liposomale Sonnenschutz Lotion [Lait Solaire Liposomal] ,,,,mleczko,"wrażliwa, z przebarwieniami",ochronne,50
+1240,Naturswiss,"Special Care Line, Sun Protective SPF 50 Krem do opalania SPF 50",,,,krem,"wrażliwa, sucha, tłusta",ochronne,50
+1241,Maru Derm,Pink Tone-up Sun Cream SPF50+PA++++ Tonujący krem do twarzy SPF50+,49.99,,,krem,"tłusta, wrażliwa, z przebarwieniami, odwodniona, sucha","ochronne, rozświetlające, kojące, nawilżające, na przebarwienia",50
+1242,WEDZE,Solar Cream + Lip Balm SPF 30 Krem przeciwsłoneczny i ochronna pomadka 2w1 SPF 30,,,,krem,"normalna, wrażliwa, sucha","nawilżające, ochronne",30
+1243,Coxir,Ceramide Daily UV Sun Block SPF 50+ Bloker przeciwsłoneczny UVA/UVB z ceramidami,,4,1,krem,normalna,"ochronne, nawilżające",50
+1244,Kolastyna,"Hyaluron Super Mat, Ochronny krem do twarzy SPF 50 ",20.99,1.4,5,krem,"normalna, sucha","matujące, ochronne, nawilżające",50
+1245,RoC,"Soleil-Protect, Anti-Brown Spot Unifying Fluid SPF50 Ujednolicający fluid ochronny",,,,,"tłusta, z przebarwieniami",ochronne,50
+1246,Dermedic,"Sunbrella, Specjalny przeciwsłoneczny krem ochronny SPF 100 ",,,,krem,"normalna, wrażliwa, sucha, alergiczna, z przebarwieniami",ochronne,100
+1247,Sinoz,Protective Day Cream SPF15 Ochronny krem do twarzy SPF15,62.9,,,krem,"odwodniona, sucha","nawilżające, ochronne, regenerujące",15
+1248,Sun Dance,Sensitive Cream Stick SPF50 Krem w sztyfcie do skóry wrażliwej SPF 50,,,,krem,"młoda, tłusta, wrażliwa, do wszystkich typów skóry","ochronne, łagodzące, nawilżające",50
+1249,Bielenda Professional SUPREMELAB,"Sun Protect, Nawilżający krem ochronny SPF 50 PA ++++ ",81.49,3.8,4,krem,normalna,"ochronne, nawilżające",50
+1250,Sun Dance,Sun Stick SPF30 Sztyft przeciwsłoneczny SPF30,,,,masło,wrażliwa,"nawilżające, ochronne, matujące",30
+1251,Chasin' Rabbits,G'Day Mate Sunscreen SPF50+ Ochronny krem do twarzy SPF50+,85.99,,,krem,"odwodniona, sucha","ochronne, nawilżające, regenerujące, łagodzące, matujące",50
+1252,Kose,Suncut Tone Up UV Essence SPF 50+ PA++++ Green (Krem z filtrem przeciwsłonecznym zielony) ,,,,krem,"sucha, tłusta","nawilżające, ochronne",50
+1253,Mixsoon,Centella Sun Cream SPF50+ PA++++ Krem przeciwsłoneczny z filtrem UV,78.94,5,5,krem,"normalna, sucha, tłusta","ochronne, łagodzące, nawilżające",50
+1254,Nivea,"Cellular Expert Filler, Daily UV Serum Fluid SPF50+ Fluid ochronny do twarzy SPF50+",51.99,,,krem,do wszystkich typów skóry,"nawilżające, ochronne, przeciwzmarszczkowe",50
+1255,Dr. med. Christine Schrammek,Sensiderm Sun Protection SPF50 Ochronny krem z filtrem UV do skóry wrażliwej,,,,krem,"sucha, wrażliwa",ochronne,50
+1256,Colorescience Pro,"Total Protection, No Show Mineral Sunscreen SP50 Mineralny filtr przeciwsłoneczny",,,,krem,normalna,ochronne,
+1257,Thank you Farmer,"Sun Project, Silky Calming Sun Stick SPF50+/PA++++ Sztyft przeciwsłoneczny do twarzy",,,,krem,,"ochronne, łagodzące",50
+1258,SunOzon,Vitamin Sun Fluid SPF30 Fluid przeciwsłoneczny z witaminami  SPF30,,,,krem,"normalna, sucha","ochronne, łagodzące",30
+1259,Altruist,Anti-redness Pigmentation Cream SPF 50 Krem ochronny do twarzy,69.5,5,1,krem,"normalna, sucha, tłusta, alergiczna, wrażliwa, z przebarwieniami","ochronne, nawilżające",50
+1260,Heimish,"Artless, Glow Tinted Sunscreen Shine Beige SPF50+ PA+++ Koloryzujący krem ochronny do twarzy  SPF50+",92.99,,,krem,"mieszana, tłusta, normalna","przeciwzmarszczkowe, nawilżające, ochronne, odżywcze, koloryzujące",50
+1261,Institut Esthederm,Bronz Repair Sunkissed Przeciwzmarszczkowy krem ochronny do twarzy nadający złocisto - brązowy odcień,,,,krem,,"nawilżające, ochronne, przeciwzmarszczkowe",
+1262,HaruHaru,Black Rice Moisture Airyfit Sunscreen SPF50+/PA++++ 50ml Nawilżający krem ​​przeciwsłoneczny,89.99,5,3,krem,"sucha, tłusta","ochronne, nawilżające",50
+1263,Byoma,Ultralight Face Fluid SPF 50 Ochronny krem przeciwsłoneczny do twarzy z filtrem SPF 50,,,,krem,tłusta,"nawilżające, ochronne, łagodzące",50
+1264,Atache,Be Sun Delicate Ultra Protection SPF50 Ochronny krem do twarzy SPF50,,,,krem,"odwodniona, sucha","nawilżające, ochronne, regenerujące",50
+1265,Skincyclopedia,"High Sun Protection, Cream-Serum Hydrating SPF50 Nawilżający krem-serum do twarzy SPF50",49.9,,,krem,"wrażliwa, odwodniona, sucha","nawilżające, ochronne, łagodzące, regenerujące, antybakteryjne",50
+1266,A-Derma,"Protect, Cream SPF 50+ Krem ochronny do twarzy nieperfumowany",,,,krem,,"ochronne, nawilżające",50
+1267,Apivita,Bee Sun Safe Hydra Sensitive SPF50 Kojąco - nawilżający krem z filtrem SPF50,,,,krem,"normalna, sucha, alergiczna, wrażliwa","nawilżające, ochronne, łagodzące",50
+1268,CERA+ Solutions,Lekki krem ochronny SPF 50 ,,4.7,110,krem,"trądzikowa, tłusta, wrażliwa, z przebarwieniami","nawilżające, ochronne",50
+1269,Clinique,Superdefense City Block Broad Spectrum SPF 50 Daily Energy + Face Protector Krem z filtrem do twarzy,149.0,5,1,krem,normalna,ochronne,50
+1270,Eau Thermale Avène,Invisible Ultra Fluid SPF50 Ultra Fluid niewidoczny na skórze,97.49,4.7,115,emulsja,wrażliwa,"nawilżające, ochronne",50
+1271,bebeauty,"Solar Protection, Face Cream SPF50+ Krem ochronny do twarzy",,,,krem,normalna,"nawilżające, ochronne",50
+1272,Topmedica,Ultra Light Fluid SPF 50+ Ultra lekki fluid,,,,krem,"sucha, normalna, tłusta","matujące, ochronne, nawilżające",50
+1273,Skinvisibles,Aqua Sense Hyaluronic Fluid SPF 50 Krem do twarzy SPF 50,,,,,"normalna, sucha, tłusta","nawilżające, ochronne, łagodzące, regenerujące",50
+1274,Oriflame,"Sun 360, Cream Sensitive Body + Face SPF 50+ Krem do opalania do skóry wrażliwej SPF 50+",,,,krem,wrażliwa,"nawilżające, ochronne",50
+1275,Caudalie,Vinosun Protect Spray Invisible SPF30 Spray ochronny do twarzy SPF30,,,,płyn,wrażliwa,"nawilżające, ochronne",30
+1276,SkinChemists,Pro-5 Collagen  SPF30 Advanced protecting & Hydratind Suncreen Krem przeciwsłoneczny,,,,krem,normalna,nawilżające,30
+1277,Heimish,Bulgarian Rose Tone-up Sunscreen SPF50+ PA+++ Tonujący krem przeciwsłoneczny,86.77,5,1,krem,"normalna, sucha, tłusta",ochronne,50
+1278,Cosmed,"Sun, Skin Vissible CC SPF50+ Ochronny krem CC do twarzy SPF50+",,5,2,krem,"mieszana, odwodniona, sucha, normalna","nawilżające, ochronne, koloryzujące, łagodzące, przeciwzapalne, przeciwzmarszczkowe",50
+1279,Garnier,"Ambre Solaire, Super UV Vitamin C Fluid SPF50+ Lekki fluid do twarzy z witaminą C SPF50+",42.0,3.5,2,krem,"z przebarwieniami, do wszystkich typów skóry","ochronne, przeciwzmarszczkowe",50
+1280,Bielenda,"Skin Academy Solution, Serum ochronne SPF 30 ",19.99,1,3,krem,z przebarwieniami,"nawilżające, ochronne",30
