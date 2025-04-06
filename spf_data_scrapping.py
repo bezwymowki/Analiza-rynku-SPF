@@ -102,7 +102,7 @@ def product_data_scrapping():
 crawler_products()
 product_data_scrapping()
 data = pd.DataFrame(products_data)
-data.to_csv("./new_spf_data.csv", encoding="utf-8-sig")
+data.to_csv("./spf_data.csv", encoding="utf-8-sig")
 print("done")
 
             
